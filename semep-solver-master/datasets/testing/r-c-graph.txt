@@ -1,0 +1,11 @@
+10
+Geffner	ICAPS	published_in	1.0
+Geffner	AAAI	published_in	1.0
+Bonet	ICAPS	published_in	1.0
+Bonet	AAAI	published_in	1.0
+Daume	AAAI	published_in	1.0
+Daume	NIPS	published_in	1.0
+Getoor	ISWC	published_in	1.0
+Getoor	NIPS	published_in	1.0
+Getoor	KDD	published_in	1.0
+Han	KDD	published_in	1.0

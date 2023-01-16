@@ -1,0 +1,20 @@
+Country	category	Indicator	Cost
+Turks and Caicos Islands	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Aruba	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Aruba	mediumHigh	Life expectancy at birth total (years)	1.0000
+Grenada	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Grenada	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Turks and Caicos Islands	medium	Population growth (annual %)	1.0000
+Aruba	medium	GDP per capita (current LCU)	1.0000
+St. Kitts and Nevis	high	Prevalence of anemia among pregnant women (%)	1.0000
+St. Vincent and the Grenadines	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Curaçao	high	Incidence of tuberculosis (per 100000 people)	1.0000
+St. Lucia	high	Incidence of tuberculosis (per 100000 people)	1.0000
+St. Vincent and the Grenadines	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Faroe Islands	high	Life expectancy at birth total (years)	1.0000
+Faroe Islands	mediumHigh	GDP per capita (current LCU)	1.0000
+St. Vincent and the Grenadines	medium	Life expectancy at birth total (years)	1.0000
+St. Vincent and the Grenadines	medium	CO2 emissions (metric tons per capita)	1.0000
+Grenada	medium	Life expectancy at birth total (years)	1.0000
+Grenada	medium	CO2 emissions (metric tons per capita)	1.0000
+Monaco	high	Incidence of tuberculosis (per 100000 people)	1.0000

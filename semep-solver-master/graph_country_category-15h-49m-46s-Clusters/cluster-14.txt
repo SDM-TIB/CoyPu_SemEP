@@ -1,0 +1,315 @@
+South Sudan	low	Incidence of tuberculosis (per 100000 people)	1.0000
+South Sudan	low	Life expectancy at birth total (years)	1.0000
+South Sudan	low	People using at least basic sanitation services (% of population)	1.0000
+South Sudan	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Papua New Guinea	low	GDP per capita (current LCU)	1.0000
+Papua New Guinea	low	Prevalence of current tobacco use (% of adults)	1.0000
+Papua New Guinea	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Papua New Guinea	low	Prevalence of anemia among pregnant women (%)	1.0000
+Papua New Guinea	low	Life expectancy at birth total (years)	1.0000
+Papua New Guinea	low	People using at least basic sanitation services (% of population)	1.0000
+South Sudan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+South Sudan	mediumLow	Population growth (annual %)	1.0000
+Papua New Guinea	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Brunei Darussalam	low	CO2 emissions (metric tons per capita)	1.0000
+Moldova	low	Population growth (annual %)	1.0000
+Moldova	low	Gini index	1.0000
+Chad	low	Industry (including construction) value added (% of GDP)	1.0000
+Chad	low	Prevalence of anemia among pregnant women (%)	1.0000
+Chad	low	Life expectancy at birth total (years)	1.0000
+Chad	low	People using at least basic sanitation services (% of population)	1.0000
+Micronesia Fed. Sts.	low	GDP (current US$)	1.0000
+Micronesia Fed. Sts.	low	Industry (including construction) value added (% of GDP)	1.0000
+Micronesia Fed. Sts.	low	GDP per capita (current LCU)	1.0000
+Moldova	mediumLow	GDP (current US$)	1.0000
+Moldova	mediumLow	Gross national expenditure (current US$)	1.0000
+Moldova	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Moldova	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Moldova	mediumLow	Life expectancy at birth total (years)	1.0000
+Moldova	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Moldova	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Suriname	low	GDP (current US$)	1.0000
+Chad	mediumLow	GDP (current US$)	1.0000
+Chad	mediumLow	Gross national expenditure (current US$)	1.0000
+Chad	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Chad	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Moldova	medium	Industry (including construction) value added (% of GDP)	1.0000
+Moldova	medium	GDP per capita (current LCU)	1.0000
+Moldova	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Moldova	medium	CO2 emissions (metric tons per capita)	1.0000
+Guyana	mediumLow	GDP (current US$)	1.0000
+Guyana	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Guyana	mediumLow	Life expectancy at birth total (years)	1.0000
+Guyana	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Guyana	mediumLow	Population growth (annual %)	1.0000
+Guyana	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Micronesia Fed. Sts.	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Micronesia Fed. Sts.	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Micronesia Fed. Sts.	mediumLow	Life expectancy at birth total (years)	1.0000
+Suriname	mediumLow	Life expectancy at birth total (years)	1.0000
+Suriname	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Suriname	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Ethiopia	low	People using at least basic sanitation services (% of population)	1.0000
+Ethiopia	mediumLow	GDP per capita (current LCU)	1.0000
+Ethiopia	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Ethiopia	mediumLow	Life expectancy at birth total (years)	1.0000
+Nigeria	low	Prevalence of anemia among pregnant women (%)	1.0000
+Nigeria	low	Life expectancy at birth total (years)	1.0000
+Nigeria	low	People using at least basic sanitation services (% of population)	1.0000
+Equatorial Guinea	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Equatorial Guinea	low	Prevalence of anemia among pregnant women (%)	1.0000
+Equatorial Guinea	low	Life expectancy at birth total (years)	1.0000
+Brunei Darussalam	mediumLow	GDP (current US$)	1.0000
+Brunei Darussalam	mediumLow	GDP per capita (current LCU)	1.0000
+Brunei Darussalam	mediumLow	Gross national expenditure (current US$)	1.0000
+Brunei Darussalam	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Nigeria	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Fiji	low	Industry (including construction) value added (% of GDP)	1.0000
+Fiji	low	GDP per capita (current LCU)	1.0000
+Fiji	low	Gross national expenditure (current US$)	1.0000
+Djibouti	low	GDP (current US$)	1.0000
+Djibouti	low	Industry (including construction) value added (% of GDP)	1.0000
+Djibouti	low	Gross national expenditure (current US$)	1.0000
+Djibouti	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Guinea	low	Life expectancy at birth total (years)	1.0000
+Guinea	low	People using at least basic sanitation services (% of population)	1.0000
+Myanmar	low	Prevalence of current tobacco use (% of adults)	1.0000
+Myanmar	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Myanmar	low	Prevalence of anemia among pregnant women (%)	1.0000
+Equatorial Guinea	mediumLow	GDP (current US$)	1.0000
+Equatorial Guinea	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Cameroon	low	Prevalence of anemia among pregnant women (%)	1.0000
+Cameroon	low	Life expectancy at birth total (years)	1.0000
+Cameroon	low	People using at least basic sanitation services (% of population)	1.0000
+Cameroon	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Sudan	low	Life expectancy at birth total (years)	1.0000
+Afghanistan	low	Industry (including construction) value added (% of GDP)	1.0000
+Afghanistan	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Afghanistan	low	Life expectancy at birth total (years)	1.0000
+Tajikistan	low	GDP per capita (current LCU)	1.0000
+Tajikistan	low	Gross national expenditure (current US$)	1.0000
+Senegal	low	Prevalence of anemia among pregnant women (%)	1.0000
+Nepal	low	Industry (including construction) value added (% of GDP)	1.0000
+Nepal	low	Prevalence of current tobacco use (% of adults)	1.0000
+Nepal	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Guinea	mediumLow	GDP (current US$)	1.0000
+Guinea	mediumLow	Gross national expenditure (current US$)	1.0000
+Guinea	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Guinea	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Benin	low	Prevalence of anemia among pregnant women (%)	1.0000
+Benin	low	Life expectancy at birth total (years)	1.0000
+Benin	low	People using at least basic sanitation services (% of population)	1.0000
+Myanmar	mediumLow	Life expectancy at birth total (years)	1.0000
+Myanmar	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Myanmar	mediumLow	Population growth (annual %)	1.0000
+Djibouti	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Djibouti	mediumLow	Life expectancy at birth total (years)	1.0000
+Djibouti	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Guyana	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Guyana	medium	CO2 emissions (metric tons per capita)	1.0000
+Fiji	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Fiji	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Fiji	mediumLow	Life expectancy at birth total (years)	1.0000
+Fiji	mediumLow	Population growth (annual %)	1.0000
+Fiji	mediumLow	Gini index	1.0000
+Micronesia Fed. Sts.	medium	People using at least basic sanitation services (% of population)	1.0000
+Micronesia Fed. Sts.	medium	Population growth (annual %)	1.0000
+Ethiopia	medium	Industry (including construction) value added (% of GDP)	1.0000
+Ethiopia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Ethiopia	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Brunei Darussalam	medium	Life expectancy at birth total (years)	1.0000
+Brunei Darussalam	medium	Population growth (annual %)	1.0000
+Malawi	low	Life expectancy at birth total (years)	1.0000
+Malawi	low	People using at least basic sanitation services (% of population)	1.0000
+Malawi	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Gabon	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Mauritania	low	Gross national expenditure (current US$)	1.0000
+Zambia	low	Life expectancy at birth total (years)	1.0000
+Namibia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Haiti	low	Prevalence of anemia among pregnant women (%)	1.0000
+Madagascar	low	People using at least basic sanitation services (% of population)	1.0000
+Uganda	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Belize	low	GDP (current US$)	1.0000
+Belize	low	Industry (including construction) value added (% of GDP)	1.0000
+Belize	low	GDP per capita (current LCU)	1.0000
+Belize	low	Gross national expenditure (current US$)	1.0000
+Belize	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Mozambique	mediumLow	GDP (current US$)	1.0000
+Timor-Leste	low	GDP (current US$)	1.0000
+Timor-Leste	low	GDP per capita (current LCU)	1.0000
+Timor-Leste	low	Gross national expenditure (current US$)	1.0000
+Timor-Leste	low	Prevalence of current tobacco use (% of adults)	1.0000
+Timor-Leste	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Mali	low	Prevalence of anemia among pregnant women (%)	1.0000
+Mali	low	Life expectancy at birth total (years)	1.0000
+Mali	low	People using at least basic sanitation services (% of population)	1.0000
+Botswana	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Malawi	mediumLow	GDP (current US$)	1.0000
+Malawi	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Malawi	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Malawi	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Solomon Islands	low	GDP (current US$)	1.0000
+Solomon Islands	low	GDP per capita (current LCU)	1.0000
+Solomon Islands	low	Gross national expenditure (current US$)	1.0000
+Solomon Islands	low	Prevalence of current tobacco use (% of adults)	1.0000
+Solomon Islands	low	Prevalence of anemia among pregnant women (%)	1.0000
+Solomon Islands	low	People using at least basic sanitation services (% of population)	1.0000
+Eswatini	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Kenya	low	People using at least basic sanitation services (% of population)	1.0000
+Burkina Faso	low	Prevalence of anemia among pregnant women (%)	1.0000
+Burkina Faso	low	Life expectancy at birth total (years)	1.0000
+Burkina Faso	low	People using at least basic sanitation services (% of population)	1.0000
+Yemen Rep.	low	Life expectancy at birth total (years)	1.0000
+Niger	low	Life expectancy at birth total (years)	1.0000
+Côte d\'Ivoire	low	Prevalence of anemia among pregnant women (%)	1.0000
+Côte d\'Ivoire	low	Life expectancy at birth total (years)	1.0000
+Côte d\'Ivoire	low	People using at least basic sanitation services (% of population)	1.0000
+Lao PDR	low	Prevalence of current tobacco use (% of adults)	1.0000
+Lao PDR	low	Prevalence of anemia among pregnant women (%)	1.0000
+Mali	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Mali	mediumLow	Gross national expenditure (current US$)	1.0000
+Mali	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Ghana	low	GDP per capita (current LCU)	1.0000
+Ghana	low	Prevalence of anemia among pregnant women (%)	1.0000
+Ghana	low	Life expectancy at birth total (years)	1.0000
+Ghana	low	People using at least basic sanitation services (% of population)	1.0000
+Ghana	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+India	low	Incidence of tuberculosis (per 100000 people)	1.0000
+India	low	Prevalence of anemia among pregnant women (%)	1.0000
+Mongolia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Mongolia	low	CO2 emissions (metric tons per capita)	1.0000
+Tonga	low	GDP (current US$)	1.0000
+Tonga	low	Industry (including construction) value added (% of GDP)	1.0000
+Tonga	low	GDP per capita (current LCU)	1.0000
+Tonga	low	Gross national expenditure (current US$)	1.0000
+Tonga	low	Prevalence of current tobacco use (% of adults)	1.0000
+Macao SAR China	low	Industry (including construction) value added (% of GDP)	1.0000
+Timor-Leste	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Timor-Leste	mediumLow	Life expectancy at birth total (years)	1.0000
+Timor-Leste	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Solomon Islands	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Sudan	mediumLow	GDP per capita (current LCU)	1.0000
+Sudan	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Sudan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Afghanistan	mediumLow	GDP per capita (current LCU)	1.0000
+Afghanistan	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Afghanistan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Afghanistan	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Tajikistan	mediumLow	GDP (current US$)	1.0000
+Tajikistan	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Tajikistan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Tajikistan	mediumLow	Life expectancy at birth total (years)	1.0000
+Burkina Faso	mediumLow	Gross national expenditure (current US$)	1.0000
+Senegal	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Senegal	mediumLow	Life expectancy at birth total (years)	1.0000
+Senegal	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Nepal	mediumLow	Life expectancy at birth total (years)	1.0000
+Nepal	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Côte d\'Ivoire	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Côte d\'Ivoire	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Côte d\'Ivoire	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Lao PDR	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Lao PDR	mediumLow	Life expectancy at birth total (years)	1.0000
+Lao PDR	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Benin	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Benin	mediumLow	Gross national expenditure (current US$)	1.0000
+Benin	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Suriname	medium	GDP per capita (current LCU)	1.0000
+Suriname	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Suriname	medium	People using at least basic sanitation services (% of population)	1.0000
+Suriname	medium	Population growth (annual %)	1.0000
+São Tomé and Principe	low	People using at least basic sanitation services (% of population)	1.0000
+Congo Rep.	low	Life expectancy at birth total (years)	1.0000
+Bangladesh	low	Prevalence of current tobacco use (% of adults)	1.0000
+Bangladesh	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Lesotho	low	Gross national expenditure (current US$)	1.0000
+Zimbabwe	low	People using at least basic sanitation services (% of population)	1.0000
+Togo	low	Prevalence of anemia among pregnant women (%)	1.0000
+Cabo Verde	low	GDP (current US$)	1.0000
+Cabo Verde	low	Gross national expenditure (current US$)	1.0000
+Pakistan	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Bolivia	mediumLow	GDP per capita (current LCU)	1.0000
+Bolivia	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Ghana	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Bolivia	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Bolivia	mediumLow	Life expectancy at birth total (years)	1.0000
+Bolivia	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+India	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+India	mediumLow	Life expectancy at birth total (years)	1.0000
+India	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Bangladesh	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Bangladesh	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Cameroon	medium	GDP (current US$)	1.0000
+Cameroon	medium	Industry (including construction) value added (% of GDP)	1.0000
+Cameroon	medium	Gross national expenditure (current US$)	1.0000
+Mongolia	mediumLow	GDP (current US$)	1.0000
+Mongolia	mediumLow	Gross national expenditure (current US$)	1.0000
+Mongolia	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Mongolia	mediumLow	Life expectancy at birth total (years)	1.0000
+Mongolia	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Tonga	mediumLow	Life expectancy at birth total (years)	1.0000
+Pakistan	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Pakistan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Pakistan	mediumLow	Life expectancy at birth total (years)	1.0000
+Pakistan	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Macao SAR China	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Fiji	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Fiji	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Fiji	medium	CO2 emissions (metric tons per capita)	1.0000
+Mauritania	medium	Industry (including construction) value added (% of GDP)	1.0000
+Mauritania	medium	GDP per capita (current LCU)	1.0000
+Djibouti	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Haiti	medium	Industry (including construction) value added (% of GDP)	1.0000
+Haiti	medium	GDP per capita (current LCU)	1.0000
+Haiti	medium	Population growth (annual %)	1.0000
+Cabo Verde	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Cabo Verde	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Cabo Verde	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Mali	medium	GDP (current US$)	1.0000
+Mali	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Sudan	medium	GDP (current US$)	1.0000
+Sudan	medium	Industry (including construction) value added (% of GDP)	1.0000
+Sudan	medium	Gross national expenditure (current US$)	1.0000
+Eswatini	medium	GDP per capita (current LCU)	1.0000
+Eswatini	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Eswatini	medium	Population growth (annual %)	1.0000
+Afghanistan	medium	GDP (current US$)	1.0000
+Tajikistan	medium	People using at least basic sanitation services (% of population)	1.0000
+Tajikistan	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Lao PDR	medium	GDP (current US$)	1.0000
+Lao PDR	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Lao PDR	medium	CO2 emissions (metric tons per capita)	1.0000
+Congo Dem. Rep.	medium	GDP (current US$)	1.0000
+Congo Dem. Rep.	medium	Gross national expenditure (current US$)	1.0000
+Namibia	medium	GDP per capita (current LCU)	1.0000
+Namibia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Uganda	medium	GDP (current US$)	1.0000
+Uganda	medium	Gross national expenditure (current US$)	1.0000
+Timor-Leste	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Solomon Islands	medium	Life expectancy at birth total (years)	1.0000
+Burkina Faso	medium	GDP (current US$)	1.0000
+Burkina Faso	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Yemen Rep.	medium	GDP (current US$)	1.0000
+Yemen Rep.	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Yemen Rep.	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Senegal	medium	GDP (current US$)	1.0000
+Senegal	medium	Industry (including construction) value added (% of GDP)	1.0000
+Côte d\'Ivoire	medium	GDP (current US$)	1.0000
+Côte d\'Ivoire	medium	Gross national expenditure (current US$)	1.0000
+Benin	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Bangladesh	medium	Life expectancy at birth total (years)	1.0000
+Bangladesh	medium	Population growth (annual %)	1.0000
+Mongolia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Macao SAR China	medium	GDP (current US$)	1.0000
+Macao SAR China	medium	Gross national expenditure (current US$)	1.0000
+Macao SAR China	medium	Population growth (annual %)	1.0000
+Bolivia	medium	GDP (current US$)	1.0000
+Bolivia	medium	Industry (including construction) value added (% of GDP)	1.0000
+Bolivia	medium	Gross national expenditure (current US$)	1.0000
+Bolivia	medium	CO2 emissions (metric tons per capita)	1.0000
+Ghana	medium	Gross national expenditure (current US$)	1.0000
+Pakistan	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Pakistan	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Togo	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Tonga	medium	People using at least basic sanitation services (% of population)	1.0000
+Tonga	medium	Population growth (annual %)	1.0000

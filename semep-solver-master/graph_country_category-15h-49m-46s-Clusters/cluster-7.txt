@@ -1,0 +1,60 @@
+Greenland	high	People using at least basic sanitation services (% of population)	1.0000
+Greenland	mediumHigh	GDP per capita (current LCU)	1.0000
+South Africa	high	GDP (current US$)	1.0000
+South Africa	high	Gross national expenditure (current US$)	1.0000
+Central African Republic	high	CO2 emissions (metric tons per capita)	1.0000
+Sierra Leone	high	GDP per capita (current LCU)	1.0000
+Burundi	high	CO2 emissions (metric tons per capita)	1.0000
+Gambia The	high	Population growth (annual %)	1.0000
+Angola	high	GDP per capita (current LCU)	1.0000
+Angola	high	Population growth (annual %)	1.0000
+Mozambique	high	Population growth (annual %)	1.0000
+Central African Republic	mediumHigh	Population growth (annual %)	1.0000
+Sierra Leone	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Sierra Leone	mediumHigh	Population growth (annual %)	1.0000
+Burundi	mediumHigh	GDP per capita (current LCU)	1.0000
+Burundi	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Gambia The	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Angola	mediumHigh	GDP (current US$)	1.0000
+Angola	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Belize	high	Prevalence of current tobacco use (% of adults)	1.0000
+São Tomé and Principe	mediumHigh	Population growth (annual %)	1.0000
+São Tomé and Principe	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Mozambique	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Belize	mediumHigh	Population growth (annual %)	1.0000
+Belize	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Comoros	high	CO2 emissions (metric tons per capita)	1.0000
+Guinea-Bissau	high	Prevalence of current tobacco use (% of adults)	1.0000
+Tanzania	high	Population growth (annual %)	1.0000
+Tanzania	high	CO2 emissions (metric tons per capita)	1.0000
+Liberia	high	Population growth (annual %)	1.0000
+Congo Rep.	high	GDP per capita (current LCU)	1.0000
+Zambia	high	CO2 emissions (metric tons per capita)	1.0000
+Comoros	mediumHigh	GDP per capita (current LCU)	1.0000
+Comoros	mediumHigh	Population growth (annual %)	1.0000
+Guinea-Bissau	mediumHigh	GDP per capita (current LCU)	1.0000
+Tanzania	mediumHigh	GDP (current US$)	1.0000
+Tanzania	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Zimbabwe	high	Industry (including construction) value added (% of GDP)	1.0000
+Congo Rep.	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Congo Rep.	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Zambia	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Lesotho	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Zimbabwe	mediumHigh	Population growth (annual %)	1.0000
+Zimbabwe	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+South Africa	medium	Industry (including construction) value added (% of GDP)	1.0000
+South Africa	medium	GDP per capita (current LCU)	1.0000
+South Africa	medium	Prevalence of current tobacco use (% of adults)	1.0000
+South Africa	medium	Prevalence of anemia among pregnant women (%)	1.0000
+South Africa	medium	Population growth (annual %)	1.0000
+Mozambique	medium	Industry (including construction) value added (% of GDP)	1.0000
+Belize	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Belize	medium	Life expectancy at birth total (years)	1.0000
+Belize	medium	People using at least basic sanitation services (% of population)	1.0000
+Tanzania	medium	Gross national expenditure (current US$)	1.0000
+Zambia	medium	GDP (current US$)	1.0000
+Comoros	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Comoros	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Lesotho	medium	Population growth (annual %)	1.0000
+Zimbabwe	medium	GDP (current US$)	1.0000
+Zimbabwe	medium	Prevalence of anemia among pregnant women (%)	1.0000

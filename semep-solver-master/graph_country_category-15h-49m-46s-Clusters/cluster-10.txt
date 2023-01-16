@@ -1,0 +1,119 @@
+Turks and Caicos Islands	low	GDP (current US$)	1.0000
+Turks and Caicos Islands	low	Industry (including construction) value added (% of GDP)	1.0000
+Palau	low	GDP (current US$)	1.0000
+Palau	low	Industry (including construction) value added (% of GDP)	1.0000
+Palau	low	GDP per capita (current LCU)	1.0000
+Palau	low	CO2 emissions (metric tons per capita)	1.0000
+Turks and Caicos Islands	mediumLow	GDP per capita (current LCU)	1.0000
+Tuvalu	low	GDP (current US$)	1.0000
+Tuvalu	low	GDP per capita (current LCU)	1.0000
+Tuvalu	low	Prevalence of current tobacco use (% of adults)	1.0000
+Tuvalu	low	Incidence of tuberculosis (per 100000 people)	1.0000
+San Marino	low	GDP (current US$)	1.0000
+San Marino	low	Gross national expenditure (current US$)	1.0000
+San Marino	low	Population growth (annual %)	1.0000
+Tuvalu	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+San Marino	mediumLow	GDP per capita (current LCU)	1.0000
+Faroe Islands	low	GDP (current US$)	1.0000
+Faroe Islands	low	Gross national expenditure (current US$)	1.0000
+Central African Republic	low	Gross national expenditure (current US$)	1.0000
+Central African Republic	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Central African Republic	low	Prevalence of anemia among pregnant women (%)	1.0000
+Central African Republic	low	Life expectancy at birth total (years)	1.0000
+Central African Republic	low	People using at least basic sanitation services (% of population)	1.0000
+Sierra Leone	low	GDP (current US$)	1.0000
+Sierra Leone	low	Gross national expenditure (current US$)	1.0000
+Sierra Leone	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Sierra Leone	low	Prevalence of anemia among pregnant women (%)	1.0000
+Sierra Leone	low	Life expectancy at birth total (years)	1.0000
+Sierra Leone	low	People using at least basic sanitation services (% of population)	1.0000
+Sierra Leone	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Burundi	low	Industry (including construction) value added (% of GDP)	1.0000
+Burundi	low	Gross national expenditure (current US$)	1.0000
+Burundi	low	Prevalence of anemia among pregnant women (%)	1.0000
+Burundi	low	Life expectancy at birth total (years)	1.0000
+Burundi	low	People using at least basic sanitation services (% of population)	1.0000
+Angola	low	Prevalence of anemia among pregnant women (%)	1.0000
+Angola	low	Life expectancy at birth total (years)	1.0000
+Angola	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Central African Republic	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Burundi	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Angola	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Faroe Islands	mediumLow	Population growth (annual %)	1.0000
+Palau	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Palau	mediumLow	Population growth (annual %)	1.0000
+Gambia The	low	GDP (current US$)	1.0000
+Gambia The	low	Life expectancy at birth total (years)	1.0000
+Gambia The	low	People using at least basic sanitation services (% of population)	1.0000
+Gambia The	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Guinea-Bissau	low	Industry (including construction) value added (% of GDP)	1.0000
+Guinea-Bissau	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Guinea-Bissau	low	Prevalence of anemia among pregnant women (%)	1.0000
+Guinea-Bissau	low	Life expectancy at birth total (years)	1.0000
+Guinea-Bissau	low	People using at least basic sanitation services (% of population)	1.0000
+Guinea-Bissau	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Tanzania	low	Prevalence of anemia among pregnant women (%)	1.0000
+Tanzania	low	People using at least basic sanitation services (% of population)	1.0000
+Tanzania	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Antigua and Barbuda	low	GDP (current US$)	1.0000
+Antigua and Barbuda	low	Gross national expenditure (current US$)	1.0000
+Liberia	low	GDP per capita (current LCU)	1.0000
+Liberia	low	Prevalence of anemia among pregnant women (%)	1.0000
+Liberia	low	Life expectancy at birth total (years)	1.0000
+Liberia	low	People using at least basic sanitation services (% of population)	1.0000
+Mauritania	low	Life expectancy at birth total (years)	1.0000
+Gambia The	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Gambia The	mediumLow	GDP per capita (current LCU)	1.0000
+Gambia The	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Haiti	low	People using at least basic sanitation services (% of population)	1.0000
+Haiti	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Antigua and Barbuda	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Antigua and Barbuda	mediumLow	GDP per capita (current LCU)	1.0000
+Antigua and Barbuda	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Liberia	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Liberia	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Eswatini	low	Gross national expenditure (current US$)	1.0000
+Eswatini	low	Life expectancy at birth total (years)	1.0000
+Eswatini	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Mauritania	mediumLow	GDP (current US$)	1.0000
+Mauritania	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Mauritania	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+South Africa	low	Incidence of tuberculosis (per 100000 people)	1.0000
+South Africa	low	Life expectancy at birth total (years)	1.0000
+South Africa	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+South Africa	low	CO2 emissions (metric tons per capita)	1.0000
+Haiti	mediumLow	GDP (current US$)	1.0000
+Haiti	mediumLow	Gross national expenditure (current US$)	1.0000
+Haiti	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Eswatini	mediumLow	GDP (current US$)	1.0000
+Eswatini	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+South Africa	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Comoros	low	GDP (current US$)	1.0000
+Comoros	low	Industry (including construction) value added (% of GDP)	1.0000
+Comoros	low	Gross national expenditure (current US$)	1.0000
+Comoros	low	Life expectancy at birth total (years)	1.0000
+Comoros	low	People using at least basic sanitation services (% of population)	1.0000
+São Tomé and Principe	low	GDP (current US$)	1.0000
+Congo Rep.	low	Gross national expenditure (current US$)	1.0000
+Congo Rep.	low	People using at least basic sanitation services (% of population)	1.0000
+Congo Rep.	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Kiribati	low	Industry (including construction) value added (% of GDP)	1.0000
+Lesotho	low	GDP (current US$)	1.0000
+Lesotho	low	Life expectancy at birth total (years)	1.0000
+Lesotho	low	People using at least basic sanitation services (% of population)	1.0000
+Lesotho	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Comoros	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+São Tomé and Principe	mediumLow	GDP per capita (current LCU)	1.0000
+São Tomé and Principe	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Zimbabwe	low	Incidence of tuberculosis (per 100000 people)	1.0000
+São Tomé and Principe	mediumLow	Life expectancy at birth total (years)	1.0000
+Zimbabwe	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Congo Rep.	mediumLow	GDP (current US$)	1.0000
+Togo	low	Life expectancy at birth total (years)	1.0000
+Togo	low	People using at least basic sanitation services (% of population)	1.0000
+Togo	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Lesotho	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Lesotho	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Zimbabwe	mediumLow	Gross national expenditure (current US$)	1.0000
+Togo	mediumLow	GDP (current US$)	1.0000
+Togo	mediumLow	Industry (including construction) value added (% of GDP)	1.0000

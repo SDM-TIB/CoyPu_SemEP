@@ -1,0 +1,55 @@
+Vanuatu	low	GDP (current US$)	1.0000
+Vanuatu	low	Gross national expenditure (current US$)	1.0000
+Eritrea	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Eritrea	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Eritrea	mediumLow	Life expectancy at birth total (years)	1.0000
+Cambodia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Cambodia	low	Prevalence of anemia among pregnant women (%)	1.0000
+Cambodia	mediumLow	Gross national expenditure (current US$)	1.0000
+Cambodia	mediumLow	Life expectancy at birth total (years)	1.0000
+Cambodia	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Vanuatu	mediumLow	Life expectancy at birth total (years)	1.0000
+Vanuatu	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Somalia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Somalia	low	Prevalence of anemia among pregnant women (%)	1.0000
+Somalia	low	Life expectancy at birth total (years)	1.0000
+Somalia	low	People using at least basic sanitation services (% of population)	1.0000
+Somalia	mediumLow	GDP (current US$)	1.0000
+Nigeria	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Equatorial Guinea	low	Gross national expenditure (current US$)	1.0000
+Central African Republic	low	GDP (current US$)	1.0000
+Sierra Leone	low	Industry (including construction) value added (% of GDP)	1.0000
+Burundi	low	GDP (current US$)	1.0000
+Angola	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Guinea	low	Prevalence of anemia among pregnant women (%)	1.0000
+Sudan	low	People using at least basic sanitation services (% of population)	1.0000
+Cameroon	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Vanuatu	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Vanuatu	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Vanuatu	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Vanuatu	medium	Gini index	1.0000
+Gambia The	low	Prevalence of anemia among pregnant women (%)	1.0000
+Guinea-Bissau	low	Gross national expenditure (current US$)	1.0000
+Tanzania	low	Life expectancy at birth total (years)	1.0000
+Liberia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Mozambique	low	Prevalence of anemia among pregnant women (%)	1.0000
+Congo Dem. Rep.	low	Prevalence of anemia among pregnant women (%)	1.0000
+Gabon	low	Prevalence of anemia among pregnant women (%)	1.0000
+Mauritania	low	Prevalence of anemia among pregnant women (%)	1.0000
+Zambia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Namibia	low	Life expectancy at birth total (years)	1.0000
+Haiti	low	Life expectancy at birth total (years)	1.0000
+Uganda	low	People using at least basic sanitation services (% of population)	1.0000
+Niger	low	People using at least basic sanitation services (% of population)	1.0000
+Korea Dem. People\'s Rep.	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Korea Dem. People\'s Rep.	medium	CO2 emissions (metric tons per capita)	1.0000
+Cambodia	medium	GDP (current US$)	1.0000
+Cambodia	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Kenya	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Yemen Rep.	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+São Tomé and Principe	low	Prevalence of anemia among pregnant women (%)	1.0000
+Congo Rep.	low	Prevalence of anemia among pregnant women (%)	1.0000
+Lesotho	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Zimbabwe	low	Life expectancy at birth total (years)	1.0000
+Burundi	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Angola	medium	Gross national expenditure (current US$)	1.0000

@@ -1,0 +1,29 @@
+Country	category	Indicator	Cost
+Belgium	low	Gini index	1.0000
+Belgium	low	CO2 emissions (metric tons per capita)	1.0000
+Belgium	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Belgium	mediumLow	GDP per capita (current LCU)	1.0000
+Belgium	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Belgium	mediumLow	Population growth (annual %)	1.0000
+Bahamas The	low	Industry (including construction) value added (% of GDP)	1.0000
+Bahamas The	low	CO2 emissions (metric tons per capita)	1.0000
+Poland	low	Population growth (annual %)	1.0000
+Norway	low	Gini index	1.0000
+United Kingdom	low	Hospital beds (per 1000 people)	1.0000
+Israel	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Germany	mediumLow	GDP per capita (current LCU)	1.0000
+Italy	mediumLow	GDP per capita (current LCU)	1.0000
+Canada	mediumLow	Hospital beds (per 1000 people)	1.0000
+United Kingdom	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+United Kingdom	mediumLow	GDP per capita (current LCU)	1.0000
+United Kingdom	mediumLow	Population growth (annual %)	1.0000
+United Kingdom	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Sweden	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Sweden	mediumLow	Gini index	1.0000
+Netherlands	low	CO2 emissions (metric tons per capita)	1.0000
+Korea Rep.	mediumLow	Population growth (annual %)	1.0000
+Denmark	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Denmark	mediumLow	Population growth (annual %)	1.0000
+Spain	mediumLow	GDP per capita (current LCU)	1.0000
+New Zealand	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Austria	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000

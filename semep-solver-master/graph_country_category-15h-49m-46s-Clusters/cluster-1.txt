@@ -1,0 +1,4 @@
+Isle of Man	mediumLow	GDP (current US$)	1.0000
+Isle of Man	low	Industry (including construction) value added (% of GDP)	1.0000
+Isle of Man	medium	GDP per capita (current LCU)	1.0000
+Isle of Man	mediumLow	Population growth (annual %)	1.0000

@@ -1,0 +1,53 @@
+Greenland	low	GDP (current US$)	1.0000
+Greenland	low	Gross national expenditure (current US$)	1.0000
+Greenland	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Greenland	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Greenland	mediumLow	Life expectancy at birth total (years)	1.0000
+Greenland	mediumLow	Population growth (annual %)	1.0000
+Samoa	low	GDP (current US$)	1.0000
+Samoa	low	Industry (including construction) value added (% of GDP)	1.0000
+Samoa	low	GDP per capita (current LCU)	1.0000
+Faroe Islands	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Samoa	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Samoa	mediumLow	Population growth (annual %)	1.0000
+Gambia The	low	Gross national expenditure (current US$)	1.0000
+Guinea-Bissau	low	GDP (current US$)	1.0000
+Tanzania	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Liberia	low	GDP (current US$)	1.0000
+Mozambique	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Mozambique	low	Life expectancy at birth total (years)	1.0000
+Mozambique	low	People using at least basic sanitation services (% of population)	1.0000
+Mozambique	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Congo Dem. Rep.	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Congo Dem. Rep.	low	Life expectancy at birth total (years)	1.0000
+Congo Dem. Rep.	low	People using at least basic sanitation services (% of population)	1.0000
+Zambia	low	GDP per capita (current LCU)	1.0000
+Zambia	low	People using at least basic sanitation services (% of population)	1.0000
+Zambia	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Namibia	low	People using at least basic sanitation services (% of population)	1.0000
+Namibia	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Uganda	low	Life expectancy at birth total (years)	1.0000
+Uganda	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Mozambique	mediumLow	GDP per capita (current LCU)	1.0000
+Mozambique	mediumLow	Gross national expenditure (current US$)	1.0000
+Congo Dem. Rep.	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Kenya	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Kenya	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Yemen Rep.	low	Prevalence of anemia among pregnant women (%)	1.0000
+Zambia	mediumLow	Gross national expenditure (current US$)	1.0000
+Zambia	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Niger	low	Prevalence of anemia among pregnant women (%)	1.0000
+Namibia	mediumLow	GDP (current US$)	1.0000
+Namibia	mediumLow	Gross national expenditure (current US$)	1.0000
+Kenya	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Kenya	mediumLow	Life expectancy at birth total (years)	1.0000
+Niger	mediumLow	GDP (current US$)	1.0000
+Niger	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Niger	mediumLow	Gross national expenditure (current US$)	1.0000
+Niger	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Uganda	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+São Tomé and Principe	low	Industry (including construction) value added (% of GDP)	1.0000
+Congo Rep.	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Lesotho	low	GDP per capita (current LCU)	1.0000
+Zimbabwe	low	GDP per capita (current LCU)	1.0000
+Togo	low	Gross national expenditure (current US$)	1.0000

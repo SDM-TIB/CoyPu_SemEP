@@ -1,0 +1,238 @@
+Syrian Arab Republic	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Morocco	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Brunei Darussalam	high	Industry (including construction) value added (% of GDP)	1.0000
+Bahamas The	high	Prevalence of current tobacco use (% of adults)	1.0000
+Bahamas The	high	Prevalence of anemia among pregnant women (%)	1.0000
+Brunei Darussalam	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Brunei Darussalam	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Venezuela RB	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+China	high	Industry (including construction) value added (% of GDP)	1.0000
+China	high	Gross national expenditure (current US$)	1.0000
+China	high	Prevalence of anemia among pregnant women (%)	1.0000
+Singapore	high	GDP (current US$)	1.0000
+Singapore	high	Life expectancy at birth total (years)	1.0000
+Singapore	high	People using at least basic sanitation services (% of population)	1.0000
+Singapore	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Iran Islamic Rep.	high	GDP per capita (current LCU)	1.0000
+Trinidad and Tobago	high	Industry (including construction) value added (% of GDP)	1.0000
+Libya	high	Industry (including construction) value added (% of GDP)	1.0000
+Algeria	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Argentina	high	GDP (current US$)	1.0000
+Tunisia	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Argentina	high	Gini index	1.0000
+Jordan	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Jordan	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Serbia	high	GDP per capita (current LCU)	1.0000
+Serbia	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Syrian Arab Republic	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Syrian Arab Republic	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Kuwait	high	Industry (including construction) value added (% of GDP)	1.0000
+Kuwait	high	People using at least basic sanitation services (% of population)	1.0000
+Ecuador	high	Gini index	1.0000
+Armenia	high	GDP per capita (current LCU)	1.0000
+Colombia	high	GDP (current US$)	1.0000
+Colombia	high	Prevalence of current tobacco use (% of adults)	1.0000
+Colombia	high	Gini index	1.0000
+Paraguay	high	Industry (including construction) value added (% of GDP)	1.0000
+Paraguay	high	GDP per capita (current LCU)	1.0000
+Paraguay	high	Gini index	1.0000
+Lebanon	high	GDP per capita (current LCU)	1.0000
+Lebanon	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Malaysia	high	GDP (current US$)	1.0000
+Malaysia	high	Industry (including construction) value added (% of GDP)	1.0000
+Mexico	high	GDP (current US$)	1.0000
+Mexico	high	Gross national expenditure (current US$)	1.0000
+Sri Lanka	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Azerbaijan	high	Industry (including construction) value added (% of GDP)	1.0000
+Azerbaijan	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Morocco	mediumHigh	GDP (current US$)	1.0000
+Morocco	mediumHigh	Gross national expenditure (current US$)	1.0000
+Morocco	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Morocco	mediumHigh	Life expectancy at birth total (years)	1.0000
+Vietnam	high	GDP (current US$)	1.0000
+Vietnam	high	GDP per capita (current LCU)	1.0000
+China	mediumHigh	Life expectancy at birth total (years)	1.0000
+China	mediumHigh	Gini index	1.0000
+Singapore	mediumHigh	Gross national expenditure (current US$)	1.0000
+Singapore	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Iran Islamic Rep.	mediumHigh	GDP (current US$)	1.0000
+Iran Islamic Rep.	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Iran Islamic Rep.	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Iran Islamic Rep.	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Iran Islamic Rep.	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Iran Islamic Rep.	mediumHigh	Life expectancy at birth total (years)	1.0000
+Iran Islamic Rep.	mediumHigh	Gini index	1.0000
+Venezuela RB	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Venezuela RB	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Venezuela RB	medium	People using at least basic sanitation services (% of population)	1.0000
+Estonia	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Estonia	mediumHigh	Life expectancy at birth total (years)	1.0000
+Estonia	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Algeria	mediumHigh	GDP per capita (current LCU)	1.0000
+Algeria	mediumHigh	Gross national expenditure (current US$)	1.0000
+Algeria	mediumHigh	Life expectancy at birth total (years)	1.0000
+Algeria	mediumHigh	Population growth (annual %)	1.0000
+Argentina	mediumHigh	GDP per capita (current LCU)	1.0000
+Argentina	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Argentina	mediumHigh	Life expectancy at birth total (years)	1.0000
+Jordan	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Serbia	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Malaysia	mediumHigh	Gross national expenditure (current US$)	1.0000
+Bahamas The	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Honduras	high	Gini index	1.0000
+Dominican Republic	high	Prevalence of current tobacco use (% of adults)	1.0000
+Turkmenistan	high	Industry (including construction) value added (% of GDP)	1.0000
+Turkmenistan	high	Prevalence of current tobacco use (% of adults)	1.0000
+Egypt Arab Rep.	high	Industry (including construction) value added (% of GDP)	1.0000
+Egypt Arab Rep.	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Libya	mediumHigh	GDP (current US$)	1.0000
+Libya	mediumHigh	Population growth (annual %)	1.0000
+Libya	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Georgia	medium	GDP (current US$)	1.0000
+Georgia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Georgia	medium	Life expectancy at birth total (years)	1.0000
+Georgia	medium	People using at least basic sanitation services (% of population)	1.0000
+Georgia	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Georgia	medium	Gini index	1.0000
+Georgia	medium	CO2 emissions (metric tons per capita)	1.0000
+Russian Federation	high	GDP (current US$)	1.0000
+Russian Federation	high	Gross national expenditure (current US$)	1.0000
+Saudi Arabia	high	GDP (current US$)	1.0000
+Oman	high	Industry (including construction) value added (% of GDP)	1.0000
+Oman	high	Prevalence of current tobacco use (% of adults)	1.0000
+Oman	high	Population growth (annual %)	1.0000
+Peru	high	Prevalence of current tobacco use (% of adults)	1.0000
+Guatemala	high	Prevalence of current tobacco use (% of adults)	1.0000
+Guatemala	high	Prevalence of anemia among pregnant women (%)	1.0000
+Panama	high	Prevalence of current tobacco use (% of adults)	1.0000
+Panama	high	Gini index	1.0000
+Brazil	high	GDP (current US$)	1.0000
+Brazil	high	Gross national expenditure (current US$)	1.0000
+Brazil	high	Prevalence of anemia among pregnant women (%)	1.0000
+Brazil	high	Gini index	1.0000
+Mexico	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Mexico	mediumHigh	GDP per capita (current LCU)	1.0000
+Mexico	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Mexico	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Mexico	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Russian Federation	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Russian Federation	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Russian Federation	mediumHigh	Gini index	1.0000
+Trinidad and Tobago	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Trinidad and Tobago	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Ecuador	mediumHigh	GDP (current US$)	1.0000
+Ecuador	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Ecuador	mediumHigh	Gross national expenditure (current US$)	1.0000
+Ecuador	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Ecuador	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Ecuador	mediumHigh	Life expectancy at birth total (years)	1.0000
+Ecuador	mediumHigh	Population growth (annual %)	1.0000
+Kuwait	mediumHigh	GDP (current US$)	1.0000
+Kuwait	mediumHigh	Gross national expenditure (current US$)	1.0000
+Kuwait	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Kuwait	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Kuwait	mediumHigh	Population growth (annual %)	1.0000
+Colombia	mediumHigh	Gross national expenditure (current US$)	1.0000
+Colombia	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Colombia	mediumHigh	Life expectancy at birth total (years)	1.0000
+Colombia	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Paraguay	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Paraguay	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Lebanon	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Lebanon	mediumHigh	Life expectancy at birth total (years)	1.0000
+Lebanon	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Uruguay	mediumHigh	GDP (current US$)	1.0000
+Uruguay	mediumHigh	Life expectancy at birth total (years)	1.0000
+Uruguay	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Uruguay	mediumHigh	Gini index	1.0000
+Armenia	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Belarus	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Belarus	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Sri Lanka	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Sri Lanka	mediumHigh	GDP per capita (current LCU)	1.0000
+Sri Lanka	mediumHigh	Gross national expenditure (current US$)	1.0000
+Sri Lanka	mediumHigh	Life expectancy at birth total (years)	1.0000
+Sri Lanka	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Cuba	mediumHigh	GDP (current US$)	1.0000
+Cuba	mediumHigh	Gross national expenditure (current US$)	1.0000
+Cuba	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Cuba	mediumHigh	Life expectancy at birth total (years)	1.0000
+Turkmenistan	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Turkmenistan	mediumHigh	Population growth (annual %)	1.0000
+Oman	mediumHigh	GDP (current US$)	1.0000
+Oman	mediumHigh	Gross national expenditure (current US$)	1.0000
+Oman	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Oman	mediumHigh	Life expectancy at birth total (years)	1.0000
+Oman	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Honduras	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Honduras	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Honduras	mediumHigh	Population growth (annual %)	1.0000
+Honduras	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Honduras	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Vietnam	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Peru	mediumHigh	GDP (current US$)	1.0000
+Peru	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Peru	mediumHigh	Gross national expenditure (current US$)	1.0000
+Peru	mediumHigh	Life expectancy at birth total (years)	1.0000
+Peru	mediumHigh	Population growth (annual %)	1.0000
+Peru	mediumHigh	Gini index	1.0000
+Peru	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Egypt Arab Rep.	mediumHigh	GDP (current US$)	1.0000
+Egypt Arab Rep.	mediumHigh	Gross national expenditure (current US$)	1.0000
+Egypt Arab Rep.	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Egypt Arab Rep.	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Egypt Arab Rep.	mediumHigh	Population growth (annual %)	1.0000
+Dominican Republic	mediumHigh	GDP per capita (current LCU)	1.0000
+Dominican Republic	mediumHigh	Gross national expenditure (current US$)	1.0000
+Dominican Republic	mediumHigh	Gini index	1.0000
+Bahamas The	medium	Life expectancy at birth total (years)	1.0000
+Bahamas The	medium	People using at least basic sanitation services (% of population)	1.0000
+Bahamas The	medium	Population growth (annual %)	1.0000
+North Macedonia	mediumHigh	GDP per capita (current LCU)	1.0000
+North Macedonia	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+North Macedonia	mediumHigh	Life expectancy at birth total (years)	1.0000
+North Macedonia	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Guatemala	mediumHigh	Gross national expenditure (current US$)	1.0000
+Guatemala	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Guatemala	mediumHigh	Population growth (annual %)	1.0000
+Guatemala	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Guatemala	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Brazil	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Panama	mediumHigh	GDP (current US$)	1.0000
+Panama	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Panama	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Panama	mediumHigh	Life expectancy at birth total (years)	1.0000
+Panama	mediumHigh	Population growth (annual %)	1.0000
+Mexico	medium	Life expectancy at birth total (years)	1.0000
+Mexico	medium	People using at least basic sanitation services (% of population)	1.0000
+Mexico	medium	Population growth (annual %)	1.0000
+Mexico	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Mexico	medium	CO2 emissions (metric tons per capita)	1.0000
+Bosnia and Herzegovina	medium	GDP (current US$)	1.0000
+Egypt Arab Rep.	medium	GDP per capita (current LCU)	1.0000
+Egypt Arab Rep.	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Egypt Arab Rep.	medium	CO2 emissions (metric tons per capita)	1.0000
+Kuwait	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Kuwait	medium	Life expectancy at birth total (years)	1.0000
+Paraguay	medium	GDP (current US$)	1.0000
+Paraguay	medium	Gross national expenditure (current US$)	1.0000
+Paraguay	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Paraguay	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Paraguay	medium	Life expectancy at birth total (years)	1.0000
+Paraguay	medium	People using at least basic sanitation services (% of population)	1.0000
+Paraguay	medium	Population growth (annual %)	1.0000
+Paraguay	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Vietnam	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Vietnam	medium	Life expectancy at birth total (years)	1.0000
+Vietnam	medium	People using at least basic sanitation services (% of population)	1.0000
+Vietnam	medium	Population growth (annual %)	1.0000
+Vietnam	medium	CO2 emissions (metric tons per capita)	1.0000
+North Macedonia	medium	Industry (including construction) value added (% of GDP)	1.0000
+North Macedonia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Panama	medium	Gross national expenditure (current US$)	1.0000
+Panama	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Panama	medium	CO2 emissions (metric tons per capita)	1.0000
+Brazil	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Brazil	medium	Life expectancy at birth total (years)	1.0000
+Brazil	medium	People using at least basic sanitation services (% of population)	1.0000
+Brazil	medium	CO2 emissions (metric tons per capita)	1.0000

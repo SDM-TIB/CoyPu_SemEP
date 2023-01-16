@@ -1,0 +1,78 @@
+American Samoa	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Tuvalu	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+San Marino	high	Incidence of tuberculosis (per 100000 people)	1.0000
+San Marino	high	Prevalence of anemia among pregnant women (%)	1.0000
+San Marino	high	People using at least basic sanitation services (% of population)	1.0000
+Papua New Guinea	high	Industry (including construction) value added (% of GDP)	1.0000
+Antigua and Barbuda	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Antigua and Barbuda	high	Prevalence of anemia among pregnant women (%)	1.0000
+Papua New Guinea	mediumHigh	Population growth (annual %)	1.0000
+Papua New Guinea	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Tuvalu	medium	Population growth (annual %)	1.0000
+Palau	high	People using at least basic sanitation services (% of population)	1.0000
+India	high	GDP (current US$)	1.0000
+India	high	Gross national expenditure (current US$)	1.0000
+India	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Antigua and Barbuda	mediumHigh	Life expectancy at birth total (years)	1.0000
+St. Lucia	high	Prevalence of anemia among pregnant women (%)	1.0000
+India	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Comoros	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Guinea-Bissau	high	CO2 emissions (metric tons per capita)	1.0000
+Tanzania	high	GDP per capita (current LCU)	1.0000
+Liberia	high	Prevalence of current tobacco use (% of adults)	1.0000
+Gabon	high	Industry (including construction) value added (% of GDP)	1.0000
+Congo Rep.	high	Industry (including construction) value added (% of GDP)	1.0000
+Gabon	high	Population growth (annual %)	1.0000
+Bhutan	high	Industry (including construction) value added (% of GDP)	1.0000
+Lesotho	high	CO2 emissions (metric tons per capita)	1.0000
+Myanmar	high	Industry (including construction) value added (% of GDP)	1.0000
+Myanmar	high	GDP per capita (current LCU)	1.0000
+Bhutan	mediumHigh	GDP per capita (current LCU)	1.0000
+Bhutan	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Bhutan	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Kiribati	mediumHigh	Population growth (annual %)	1.0000
+Kiribati	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Papua New Guinea	medium	GDP (current US$)	1.0000
+Nepal	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Myanmar	mediumHigh	GDP (current US$)	1.0000
+Myanmar	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Botswana	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Botswana	mediumHigh	Population growth (annual %)	1.0000
+St. Lucia	mediumHigh	Life expectancy at birth total (years)	1.0000
+Indonesia	high	GDP (current US$)	1.0000
+Indonesia	high	Industry (including construction) value added (% of GDP)	1.0000
+Indonesia	high	GDP per capita (current LCU)	1.0000
+Indonesia	high	Gross national expenditure (current US$)	1.0000
+Bhutan	medium	Population growth (annual %)	1.0000
+Antigua and Barbuda	medium	Population growth (annual %)	1.0000
+Nepal	mediumHigh	Population growth (annual %)	1.0000
+Palau	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Palau	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Indonesia	mediumHigh	Gini index	1.0000
+Cabo Verde	mediumHigh	GDP per capita (current LCU)	1.0000
+Cabo Verde	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Cabo Verde	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Myanmar	medium	Gross national expenditure (current US$)	1.0000
+Nauru	medium	Population growth (annual %)	1.0000
+India	medium	Industry (including construction) value added (% of GDP)	1.0000
+India	medium	GDP per capita (current LCU)	1.0000
+India	medium	Population growth (annual %)	1.0000
+Gabon	medium	GDP (current US$)	1.0000
+Gabon	medium	CO2 emissions (metric tons per capita)	1.0000
+Botswana	medium	GDP (current US$)	1.0000
+Botswana	medium	GDP per capita (current LCU)	1.0000
+Botswana	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Botswana	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Botswana	medium	CO2 emissions (metric tons per capita)	1.0000
+Nepal	medium	GDP (current US$)	1.0000
+Nepal	medium	GDP per capita (current LCU)	1.0000
+Nepal	medium	Gross national expenditure (current US$)	1.0000
+St. Lucia	medium	CO2 emissions (metric tons per capita)	1.0000
+Cabo Verde	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Cabo Verde	medium	Life expectancy at birth total (years)	1.0000
+Cabo Verde	medium	Population growth (annual %)	1.0000
+Indonesia	medium	Population growth (annual %)	1.0000
+Indonesia	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Indonesia	medium	CO2 emissions (metric tons per capita)	1.0000
+Marshall Islands	medium	Gini index	1.0000
+Marshall Islands	medium	CO2 emissions (metric tons per capita)	1.0000

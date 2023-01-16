@@ -1,0 +1,27 @@
+British Virgin Islands	mediumLow	Population growth (annual %)	1.0000
+Aruba	low	GDP (current US$)	1.0000
+Aruba	low	Gross national expenditure (current US$)	1.0000
+Aruba	mediumLow	Population growth (annual %)	1.0000
+Norway	low	CO2 emissions (metric tons per capita)	1.0000
+St. Kitts and Nevis	low	GDP (current US$)	1.0000
+St. Kitts and Nevis	mediumLow	Population growth (annual %)	1.0000
+St. Kitts and Nevis	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+St. Vincent and the Grenadines	low	GDP (current US$)	1.0000
+St. Vincent and the Grenadines	low	Industry (including construction) value added (% of GDP)	1.0000
+Norway	mediumLow	Population growth (annual %)	1.0000
+St. Vincent and the Grenadines	mediumLow	GDP per capita (current LCU)	1.0000
+St. Vincent and the Grenadines	mediumLow	Population growth (annual %)	1.0000
+Curaçao	low	GDP (current US$)	1.0000
+Curaçao	low	Population growth (annual %)	1.0000
+Curaçao	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Curaçao	mediumLow	GDP per capita (current LCU)	1.0000
+Grenada	low	GDP (current US$)	1.0000
+Grenada	low	Industry (including construction) value added (% of GDP)	1.0000
+Grenada	mediumLow	GDP per capita (current LCU)	1.0000
+Grenada	mediumLow	Population growth (annual %)	1.0000
+Monaco	low	Industry (including construction) value added (% of GDP)	1.0000
+Austria	low	CO2 emissions (metric tons per capita)	1.0000
+Monaco	mediumLow	GDP (current US$)	1.0000
+Monaco	mediumLow	Population growth (annual %)	1.0000
+Switzerland	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+United States	mediumLow	Industry (including construction) value added (% of GDP)	1.0000

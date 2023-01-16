@@ -1,0 +1,2329 @@
+country,indicator,category_indicator
+Tuvalu,GDP (current US$),low
+Nauru,GDP (current US$),low
+Kiribati,GDP (current US$),low
+Marshall Islands,GDP (current US$),low
+Palau,GDP (current US$),low
+Micronesia Fed. Sts.,GDP (current US$),low
+São Tomé and Principe,GDP (current US$),low
+Tonga,GDP (current US$),low
+Dominica,GDP (current US$),low
+American Samoa,GDP (current US$),low
+Samoa,GDP (current US$),low
+St. Vincent and the Grenadines,GDP (current US$),low
+Vanuatu,GDP (current US$),low
+St. Kitts and Nevis,GDP (current US$),low
+Northern Mariana Islands,GDP (current US$),low
+Comoros,GDP (current US$),low
+Turks and Caicos Islands,GDP (current US$),low
+Grenada,GDP (current US$),low
+Guinea-Bissau,GDP (current US$),low
+Solomon Islands,GDP (current US$),low
+San Marino,GDP (current US$),low
+Seychelles,GDP (current US$),low
+Antigua and Barbuda,GDP (current US$),low
+Gambia The,GDP (current US$),low
+Belize,GDP (current US$),low
+Cabo Verde,GDP (current US$),low
+Timor-Leste,GDP (current US$),low
+St. Lucia,GDP (current US$),low
+Central African Republic,GDP (current US$),low
+Lesotho,GDP (current US$),low
+Bhutan,GDP (current US$),low
+Burundi,GDP (current US$),low
+Greenland,GDP (current US$),low
+Curaçao,GDP (current US$),low
+Djibouti,GDP (current US$),low
+Andorra,GDP (current US$),low
+Faroe Islands,GDP (current US$),low
+Aruba,GDP (current US$),low
+Liberia,GDP (current US$),low
+Suriname,GDP (current US$),low
+Sierra Leone,GDP (current US$),low
+Virgin Islands (U.S.),GDP (current US$),low
+Eswatini,GDP (current US$),mediumLow
+Guyana,GDP (current US$),mediumLow
+Barbados,GDP (current US$),mediumLow
+Fiji,GDP (current US$),mediumLow
+Montenegro,GDP (current US$),mediumLow
+Maldives,GDP (current US$),mediumLow
+Cayman Islands,GDP (current US$),mediumLow
+French Polynesia,GDP (current US$),mediumLow
+Guam,GDP (current US$),mediumLow
+Liechtenstein,GDP (current US$),mediumLow
+Somalia,GDP (current US$),mediumLow
+Togo,GDP (current US$),mediumLow
+Isle of Man,GDP (current US$),mediumLow
+Monaco,GDP (current US$),mediumLow
+Bermuda,GDP (current US$),mediumLow
+Mauritania,GDP (current US$),mediumLow
+Tajikistan,GDP (current US$),mediumLow
+Kyrgyz Republic,GDP (current US$),mediumLow
+New Caledonia,GDP (current US$),mediumLow
+Rwanda,GDP (current US$),mediumLow
+Malawi,GDP (current US$),mediumLow
+Chad,GDP (current US$),mediumLow
+Equatorial Guinea,GDP (current US$),mediumLow
+Moldova,GDP (current US$),mediumLow
+Namibia,GDP (current US$),mediumLow
+Nicaragua,GDP (current US$),mediumLow
+North Macedonia,GDP (current US$),mediumLow
+Congo Rep.,GDP (current US$),mediumLow
+Niger,GDP (current US$),mediumLow
+Bahamas The,GDP (current US$),mediumLow
+Guinea,GDP (current US$),mediumLow
+Brunei Darussalam,GDP (current US$),mediumLow
+Armenia,GDP (current US$),mediumLow
+Mauritius,GDP (current US$),mediumLow
+Madagascar,GDP (current US$),mediumLow
+Mongolia,GDP (current US$),mediumLow
+Benin,GDP (current US$),mediumLow
+Haiti,GDP (current US$),mediumLow
+Mozambique,GDP (current US$),mediumLow
+Albania,GDP (current US$),mediumLow
+Malta,GDP (current US$),mediumLow
+Jamaica,GDP (current US$),medium
+Burkina Faso,GDP (current US$),medium
+Botswana,GDP (current US$),medium
+Gabon,GDP (current US$),medium
+West Bank and Gaza,GDP (current US$),medium
+Mali,GDP (current US$),medium
+Georgia,GDP (current US$),medium
+Lao PDR,GDP (current US$),medium
+Afghanistan,GDP (current US$),medium
+Zimbabwe,GDP (current US$),medium
+Bosnia and Herzegovina,GDP (current US$),medium
+Yemen Rep.,GDP (current US$),medium
+Zambia,GDP (current US$),medium
+Senegal,GDP (current US$),medium
+Trinidad and Tobago,GDP (current US$),medium
+Papua New Guinea,GDP (current US$),medium
+Iceland,GDP (current US$),medium
+Honduras,GDP (current US$),medium
+Cyprus,GDP (current US$),medium
+El Salvador,GDP (current US$),medium
+Cambodia,GDP (current US$),medium
+Estonia,GDP (current US$),medium
+Sudan,GDP (current US$),medium
+Nepal,GDP (current US$),medium
+Latvia,GDP (current US$),medium
+Uganda,GDP (current US$),medium
+Paraguay,GDP (current US$),medium
+Bahrain,GDP (current US$),medium
+Cameroon,GDP (current US$),medium
+Bolivia,GDP (current US$),medium
+Tunisia,GDP (current US$),medium
+Jordan,GDP (current US$),medium
+Turkmenistan,GDP (current US$),medium
+Azerbaijan,GDP (current US$),medium
+Serbia,GDP (current US$),medium
+Lebanon,GDP (current US$),medium
+Congo Dem. Rep.,GDP (current US$),medium
+Slovenia,GDP (current US$),medium
+Lithuania,GDP (current US$),medium
+Macao SAR China,GDP (current US$),medium
+Côte d\'Ivoire,GDP (current US$),medium
+Uzbekistan,GDP (current US$),mediumHigh
+Tanzania,GDP (current US$),mediumHigh
+Uruguay,GDP (current US$),mediumHigh
+Croatia,GDP (current US$),mediumHigh
+Belarus,GDP (current US$),mediumHigh
+Costa Rica,GDP (current US$),mediumHigh
+Panama,GDP (current US$),mediumHigh
+Ghana,GDP (current US$),mediumHigh
+Myanmar,GDP (current US$),mediumHigh
+Bulgaria,GDP (current US$),mediumHigh
+Libya,GDP (current US$),mediumHigh
+Angola,GDP (current US$),mediumHigh
+Luxembourg,GDP (current US$),mediumHigh
+Guatemala,GDP (current US$),mediumHigh
+Sri Lanka,GDP (current US$),mediumHigh
+Oman,GDP (current US$),mediumHigh
+Dominican Republic,GDP (current US$),mediumHigh
+Ethiopia,GDP (current US$),mediumHigh
+Kenya,GDP (current US$),mediumHigh
+Cuba,GDP (current US$),mediumHigh
+Puerto Rico,GDP (current US$),mediumHigh
+Slovak Republic,GDP (current US$),mediumHigh
+Ecuador,GDP (current US$),mediumHigh
+Morocco,GDP (current US$),mediumHigh
+Kuwait,GDP (current US$),mediumHigh
+Ukraine,GDP (current US$),mediumHigh
+Hungary,GDP (current US$),mediumHigh
+Algeria,GDP (current US$),mediumHigh
+Qatar,GDP (current US$),mediumHigh
+Kazakhstan,GDP (current US$),mediumHigh
+Greece,GDP (current US$),mediumHigh
+New Zealand,GDP (current US$),mediumHigh
+Peru,GDP (current US$),mediumHigh
+Iraq,GDP (current US$),mediumHigh
+Portugal,GDP (current US$),mediumHigh
+Romania,GDP (current US$),mediumHigh
+Czech Republic,GDP (current US$),mediumHigh
+Finland,GDP (current US$),mediumHigh
+Chile,GDP (current US$),mediumHigh
+Iran Islamic Rep.,GDP (current US$),mediumHigh
+Egypt Arab Rep.,GDP (current US$),mediumHigh
+Pakistan,GDP (current US$),high
+Colombia,GDP (current US$),high
+Vietnam,GDP (current US$),high
+Denmark,GDP (current US$),high
+Bangladesh,GDP (current US$),high
+Hong Kong SAR China,GDP (current US$),high
+Malaysia,GDP (current US$),high
+Singapore,GDP (current US$),high
+Philippines,GDP (current US$),high
+South Africa,GDP (current US$),high
+Israel,GDP (current US$),high
+Ireland,GDP (current US$),high
+Norway,GDP (current US$),high
+United Arab Emirates,GDP (current US$),high
+Austria,GDP (current US$),high
+Nigeria,GDP (current US$),high
+Argentina,GDP (current US$),high
+Sweden,GDP (current US$),high
+Belgium,GDP (current US$),high
+Thailand,GDP (current US$),high
+Poland,GDP (current US$),high
+Switzerland,GDP (current US$),high
+Türkiye,GDP (current US$),high
+Saudi Arabia,GDP (current US$),high
+Netherlands,GDP (current US$),high
+Indonesia,GDP (current US$),high
+Mexico,GDP (current US$),high
+Australia,GDP (current US$),high
+Spain,GDP (current US$),high
+Korea Rep.,GDP (current US$),high
+Russian Federation,GDP (current US$),high
+Canada,GDP (current US$),high
+Brazil,GDP (current US$),high
+Italy,GDP (current US$),high
+France,GDP (current US$),high
+India,GDP (current US$),high
+United Kingdom,GDP (current US$),high
+Germany,GDP (current US$),high
+Japan,GDP (current US$),high
+China,GDP (current US$),high
+United States,GDP (current US$),high
+Macao SAR China,Industry (including construction) value added (% of GDP),low
+Micronesia Fed. Sts.,Industry (including construction) value added (% of GDP),low
+Sierra Leone,Industry (including construction) value added (% of GDP),low
+Hong Kong SAR China,Industry (including construction) value added (% of GDP),low
+Bermuda,Industry (including construction) value added (% of GDP),low
+Kiribati,Industry (including construction) value added (% of GDP),low
+Isle of Man,Industry (including construction) value added (% of GDP),low
+Cayman Islands,Industry (including construction) value added (% of GDP),low
+Comoros,Industry (including construction) value added (% of GDP),low
+Palau,Industry (including construction) value added (% of GDP),low
+St. Lucia,Industry (including construction) value added (% of GDP),low
+Burundi,Industry (including construction) value added (% of GDP),low
+Maldives,Industry (including construction) value added (% of GDP),low
+Andorra,Industry (including construction) value added (% of GDP),low
+Luxembourg,Industry (including construction) value added (% of GDP),low
+Turks and Caicos Islands,Industry (including construction) value added (% of GDP),low
+Barbados,Industry (including construction) value added (% of GDP),low
+Bahamas The,Industry (including construction) value added (% of GDP),low
+Malta,Industry (including construction) value added (% of GDP),low
+Lebanon,Industry (including construction) value added (% of GDP),low
+Belize,Industry (including construction) value added (% of GDP),low
+Cyprus,Industry (including construction) value added (% of GDP),low
+Nepal,Industry (including construction) value added (% of GDP),low
+Monaco,Industry (including construction) value added (% of GDP),low
+Guinea-Bissau,Industry (including construction) value added (% of GDP),low
+Greece,Industry (including construction) value added (% of GDP),low
+São Tomé and Principe,Industry (including construction) value added (% of GDP),low
+Grenada,Industry (including construction) value added (% of GDP),low
+St. Vincent and the Grenadines,Industry (including construction) value added (% of GDP),low
+Afghanistan,Industry (including construction) value added (% of GDP),low
+Marshall Islands,Industry (including construction) value added (% of GDP),low
+Chad,Industry (including construction) value added (% of GDP),low
+Djibouti,Industry (including construction) value added (% of GDP),low
+Seychelles,Industry (including construction) value added (% of GDP),low
+Dominica,Industry (including construction) value added (% of GDP),low
+Tonga,Industry (including construction) value added (% of GDP),low
+Fiji,Industry (including construction) value added (% of GDP),low
+Samoa,Industry (including construction) value added (% of GDP),low
+Montenegro,Industry (including construction) value added (% of GDP),low
+Benin,Industry (including construction) value added (% of GDP),mediumLow
+Curaçao,Industry (including construction) value added (% of GDP),mediumLow
+Kenya,Industry (including construction) value added (% of GDP),mediumLow
+Liberia,Industry (including construction) value added (% of GDP),mediumLow
+Mauritius,Industry (including construction) value added (% of GDP),mediumLow
+Gambia The,Industry (including construction) value added (% of GDP),mediumLow
+Greenland,Industry (including construction) value added (% of GDP),mediumLow
+France,Industry (including construction) value added (% of GDP),mediumLow
+Netherlands,Industry (including construction) value added (% of GDP),mediumLow
+Uruguay,Industry (including construction) value added (% of GDP),mediumLow
+United Kingdom,Industry (including construction) value added (% of GDP),mediumLow
+United States,Industry (including construction) value added (% of GDP),mediumLow
+West Bank and Gaza,Industry (including construction) value added (% of GDP),mediumLow
+Malawi,Industry (including construction) value added (% of GDP),mediumLow
+Israel,Industry (including construction) value added (% of GDP),mediumLow
+Brazil,Industry (including construction) value added (% of GDP),mediumLow
+Portugal,Industry (including construction) value added (% of GDP),mediumLow
+Rwanda,Industry (including construction) value added (% of GDP),mediumLow
+Latvia,Industry (including construction) value added (% of GDP),mediumLow
+Faroe Islands,Industry (including construction) value added (% of GDP),mediumLow
+Belgium,Industry (including construction) value added (% of GDP),mediumLow
+Costa Rica,Industry (including construction) value added (% of GDP),mediumLow
+Madagascar,Industry (including construction) value added (% of GDP),mediumLow
+Jamaica,Industry (including construction) value added (% of GDP),mediumLow
+Pakistan,Industry (including construction) value added (% of GDP),mediumLow
+Cabo Verde,Industry (including construction) value added (% of GDP),mediumLow
+Iceland,Industry (including construction) value added (% of GDP),mediumLow
+Croatia,Industry (including construction) value added (% of GDP),mediumLow
+Spain,Industry (including construction) value added (% of GDP),mediumLow
+Georgia,Industry (including construction) value added (% of GDP),mediumLow
+New Zealand,Industry (including construction) value added (% of GDP),mediumLow
+Central African Republic,Industry (including construction) value added (% of GDP),mediumLow
+Niger,Industry (including construction) value added (% of GDP),mediumLow
+Albania,Industry (including construction) value added (% of GDP),mediumLow
+Mali,Industry (including construction) value added (% of GDP),mediumLow
+Antigua and Barbuda,Industry (including construction) value added (% of GDP),mediumLow
+Togo,Industry (including construction) value added (% of GDP),mediumLow
+Côte d\'Ivoire,Industry (including construction) value added (% of GDP),mediumLow
+Denmark,Industry (including construction) value added (% of GDP),mediumLow
+Italy,Industry (including construction) value added (% of GDP),medium
+Bulgaria,Industry (including construction) value added (% of GDP),medium
+Sudan,Industry (including construction) value added (% of GDP),medium
+Guatemala,Industry (including construction) value added (% of GDP),medium
+Sweden,Industry (including construction) value added (% of GDP),medium
+New Caledonia,Industry (including construction) value added (% of GDP),medium
+Moldova,Industry (including construction) value added (% of GDP),medium
+Ukraine,Industry (including construction) value added (% of GDP),medium
+Estonia,Industry (including construction) value added (% of GDP),medium
+Haiti,Industry (including construction) value added (% of GDP),medium
+Tunisia,Industry (including construction) value added (% of GDP),medium
+South Africa,Industry (including construction) value added (% of GDP),medium
+Senegal,Industry (including construction) value added (% of GDP),medium
+Mozambique,Industry (including construction) value added (% of GDP),medium
+North Macedonia,Industry (including construction) value added (% of GDP),medium
+Cameroon,Industry (including construction) value added (% of GDP),medium
+Finland,Industry (including construction) value added (% of GDP),medium
+Bosnia and Herzegovina,Industry (including construction) value added (% of GDP),medium
+Argentina,Industry (including construction) value added (% of GDP),medium
+St. Kitts and Nevis,Industry (including construction) value added (% of GDP),medium
+Singapore,Industry (including construction) value added (% of GDP),medium
+Jordan,Industry (including construction) value added (% of GDP),medium
+Cuba,Industry (including construction) value added (% of GDP),medium
+India,Industry (including construction) value added (% of GDP),medium
+Nicaragua,Industry (including construction) value added (% of GDP),medium
+Hungary,Industry (including construction) value added (% of GDP),medium
+Ethiopia,Industry (including construction) value added (% of GDP),medium
+Switzerland,Industry (including construction) value added (% of GDP),medium
+Armenia,Industry (including construction) value added (% of GDP),medium
+Austria,Industry (including construction) value added (% of GDP),medium
+Algeria,Industry (including construction) value added (% of GDP),medium
+Bolivia,Industry (including construction) value added (% of GDP),medium
+El Salvador,Industry (including construction) value added (% of GDP),medium
+Lithuania,Industry (including construction) value added (% of GDP),medium
+Morocco,Industry (including construction) value added (% of GDP),medium
+Australia,Industry (including construction) value added (% of GDP),medium
+Serbia,Industry (including construction) value added (% of GDP),medium
+Colombia,Industry (including construction) value added (% of GDP),medium
+Mauritania,Industry (including construction) value added (% of GDP),medium
+Uganda,Industry (including construction) value added (% of GDP),mediumHigh
+Romania,Industry (including construction) value added (% of GDP),mediumHigh
+Germany,Industry (including construction) value added (% of GDP),mediumHigh
+Namibia,Industry (including construction) value added (% of GDP),mediumHigh
+Honduras,Industry (including construction) value added (% of GDP),mediumHigh
+Burkina Faso,Industry (including construction) value added (% of GDP),mediumHigh
+Chile,Industry (including construction) value added (% of GDP),mediumHigh
+Türkiye,Industry (including construction) value added (% of GDP),mediumHigh
+Sri Lanka,Industry (including construction) value added (% of GDP),mediumHigh
+Nigeria,Industry (including construction) value added (% of GDP),mediumHigh
+Poland,Industry (including construction) value added (% of GDP),mediumHigh
+Kyrgyz Republic,Industry (including construction) value added (% of GDP),mediumHigh
+Tanzania,Industry (including construction) value added (% of GDP),mediumHigh
+Japan,Industry (including construction) value added (% of GDP),mediumHigh
+Guyana,Industry (including construction) value added (% of GDP),mediumHigh
+Slovenia,Industry (including construction) value added (% of GDP),mediumHigh
+Norway,Industry (including construction) value added (% of GDP),mediumHigh
+Dominican Republic,Industry (including construction) value added (% of GDP),mediumHigh
+Guinea,Industry (including construction) value added (% of GDP),mediumHigh
+Slovak Republic,Industry (including construction) value added (% of GDP),mediumHigh
+Panama,Industry (including construction) value added (% of GDP),mediumHigh
+Lesotho,Industry (including construction) value added (% of GDP),mediumHigh
+Timor-Leste,Industry (including construction) value added (% of GDP),mediumHigh
+Philippines,Industry (including construction) value added (% of GDP),mediumHigh
+Peru,Industry (including construction) value added (% of GDP),mediumHigh
+Mexico,Industry (including construction) value added (% of GDP),mediumHigh
+Ghana,Industry (including construction) value added (% of GDP),mediumHigh
+Uzbekistan,Industry (including construction) value added (% of GDP),mediumHigh
+Czech Republic,Industry (including construction) value added (% of GDP),mediumHigh
+Lao PDR,Industry (including construction) value added (% of GDP),mediumHigh
+Belarus,Industry (including construction) value added (% of GDP),mediumHigh
+Botswana,Industry (including construction) value added (% of GDP),mediumHigh
+Russian Federation,Industry (including construction) value added (% of GDP),mediumHigh
+Korea Rep.,Industry (including construction) value added (% of GDP),mediumHigh
+Ecuador,Industry (including construction) value added (% of GDP),mediumHigh
+Iran Islamic Rep.,Industry (including construction) value added (% of GDP),mediumHigh
+Bangladesh,Industry (including construction) value added (% of GDP),mediumHigh
+Kazakhstan,Industry (including construction) value added (% of GDP),mediumHigh
+Tajikistan,Industry (including construction) value added (% of GDP),high
+Paraguay,Industry (including construction) value added (% of GDP),high
+Suriname,Industry (including construction) value added (% of GDP),high
+Thailand,Industry (including construction) value added (% of GDP),high
+Eswatini,Industry (including construction) value added (% of GDP),high
+Cambodia,Industry (including construction) value added (% of GDP),high
+Zimbabwe,Industry (including construction) value added (% of GDP),high
+Zambia,Industry (including construction) value added (% of GDP),high
+Yemen Rep.,Industry (including construction) value added (% of GDP),high
+Egypt Arab Rep.,Industry (including construction) value added (% of GDP),high
+Ireland,Industry (including construction) value added (% of GDP),high
+Bhutan,Industry (including construction) value added (% of GDP),high
+Papua New Guinea,Industry (including construction) value added (% of GDP),high
+Malaysia,Industry (including construction) value added (% of GDP),high
+Myanmar,Industry (including construction) value added (% of GDP),high
+Mongolia,Industry (including construction) value added (% of GDP),high
+China,Industry (including construction) value added (% of GDP),high
+Indonesia,Industry (including construction) value added (% of GDP),high
+Trinidad and Tobago,Industry (including construction) value added (% of GDP),high
+Congo Dem. Rep.,Industry (including construction) value added (% of GDP),high
+Turkmenistan,Industry (including construction) value added (% of GDP),high
+Bahrain,Industry (including construction) value added (% of GDP),high
+South Sudan,Industry (including construction) value added (% of GDP),high
+Liechtenstein,Industry (including construction) value added (% of GDP),high
+United Arab Emirates,Industry (including construction) value added (% of GDP),high
+Saudi Arabia,Industry (including construction) value added (% of GDP),high
+Gabon,Industry (including construction) value added (% of GDP),high
+Congo Rep.,Industry (including construction) value added (% of GDP),high
+Libya,Industry (including construction) value added (% of GDP),high
+Azerbaijan,Industry (including construction) value added (% of GDP),high
+Angola,Industry (including construction) value added (% of GDP),high
+Puerto Rico,Industry (including construction) value added (% of GDP),high
+Oman,Industry (including construction) value added (% of GDP),high
+Equatorial Guinea,Industry (including construction) value added (% of GDP),high
+Iraq,Industry (including construction) value added (% of GDP),high
+Qatar,Industry (including construction) value added (% of GDP),high
+Kuwait,Industry (including construction) value added (% of GDP),high
+Brunei Darussalam,Industry (including construction) value added (% of GDP),high
+Liberia,GDP per capita (current LCU),low
+Timor-Leste,GDP per capita (current LCU),low
+Kiribati,GDP per capita (current LCU),low
+Jordan,GDP per capita (current LCU),low
+Micronesia Fed. Sts.,GDP per capita (current LCU),low
+West Bank and Gaza,GDP per capita (current LCU),low
+Marshall Islands,GDP per capita (current LCU),low
+El Salvador,GDP per capita (current LCU),low
+Ecuador,GDP per capita (current LCU),low
+Tuvalu,GDP per capita (current LCU),low
+Oman,GDP per capita (current LCU),low
+Montenegro,GDP per capita (current LCU),low
+Azerbaijan,GDP per capita (current LCU),low
+Tajikistan,GDP per capita (current LCU),low
+Bahrain,GDP per capita (current LCU),low
+Cuba,GDP per capita (current LCU),low
+Papua New Guinea,GDP per capita (current LCU),low
+Kuwait,GDP per capita (current LCU),low
+Belize,GDP per capita (current LCU),low
+Tunisia,GDP per capita (current LCU),low
+Bosnia and Herzegovina,GDP per capita (current LCU),low
+Tonga,GDP per capita (current LCU),low
+Samoa,GDP per capita (current LCU),low
+American Samoa,GDP per capita (current LCU),low
+Ghana,GDP per capita (current LCU),low
+Zimbabwe,GDP per capita (current LCU),low
+Georgia,GDP per capita (current LCU),low
+Fiji,GDP per capita (current LCU),low
+Libya,GDP per capita (current LCU),low
+Belarus,GDP per capita (current LCU),low
+Palau,GDP per capita (current LCU),low
+Nauru,GDP per capita (current LCU),low
+Panama,GDP per capita (current LCU),low
+Latvia,GDP per capita (current LCU),low
+Lesotho,GDP per capita (current LCU),low
+Zambia,GDP per capita (current LCU),low
+Greece,GDP per capita (current LCU),low
+Slovak Republic,GDP per capita (current LCU),low
+Bulgaria,GDP per capita (current LCU),low
+Lithuania,GDP per capita (current LCU),low
+Solomon Islands,GDP per capita (current LCU),low
+Northern Mariana Islands,GDP per capita (current LCU),low
+Portugal,GDP per capita (current LCU),mediumLow
+Estonia,GDP per capita (current LCU),mediumLow
+St. Vincent and the Grenadines,GDP per capita (current LCU),mediumLow
+Dominica,GDP per capita (current LCU),mediumLow
+Slovenia,GDP per capita (current LCU),mediumLow
+Peru,GDP per capita (current LCU),mediumLow
+Ethiopia,GDP per capita (current LCU),mediumLow
+Bolivia,GDP per capita (current LCU),mediumLow
+Cyprus,GDP per capita (current LCU),mediumLow
+Spain,GDP per capita (current LCU),mediumLow
+Turkmenistan,GDP per capita (current LCU),mediumLow
+Malta,GDP per capita (current LCU),mediumLow
+Grenada,GDP per capita (current LCU),mediumLow
+Italy,GDP per capita (current LCU),mediumLow
+Morocco,GDP per capita (current LCU),mediumLow
+St. Lucia,GDP per capita (current LCU),mediumLow
+Turks and Caicos Islands,GDP per capita (current LCU),mediumLow
+Mozambique,GDP per capita (current LCU),mediumLow
+Puerto Rico,GDP per capita (current LCU),mediumLow
+United Kingdom,GDP per capita (current LCU),mediumLow
+Bahamas The,GDP per capita (current LCU),mediumLow
+Curaçao,GDP per capita (current LCU),mediumLow
+Brazil,GDP per capita (current LCU),mediumLow
+Guatemala,GDP per capita (current LCU),mediumLow
+France,GDP per capita (current LCU),mediumLow
+Andorra,GDP per capita (current LCU),mediumLow
+Barbados,GDP per capita (current LCU),mediumLow
+Guam,GDP per capita (current LCU),mediumLow
+Virgin Islands (U.S.),GDP per capita (current LCU),mediumLow
+Afghanistan,GDP per capita (current LCU),mediumLow
+Gambia The,GDP per capita (current LCU),mediumLow
+Belgium,GDP per capita (current LCU),mediumLow
+Germany,GDP per capita (current LCU),mediumLow
+Brunei Darussalam,GDP per capita (current LCU),mediumLow
+San Marino,GDP per capita (current LCU),mediumLow
+Finland,GDP per capita (current LCU),mediumLow
+São Tomé and Principe,GDP per capita (current LCU),mediumLow
+Austria,GDP per capita (current LCU),mediumLow
+Sudan,GDP per capita (current LCU),mediumLow
+Netherlands,GDP per capita (current LCU),mediumLow
+Antigua and Barbuda,GDP per capita (current LCU),mediumLow
+Malaysia,GDP per capita (current LCU),medium
+Türkiye,GDP per capita (current LCU),medium
+Egypt Arab Rep.,GDP per capita (current LCU),medium
+Suriname,GDP per capita (current LCU),medium
+Romania,GDP per capita (current LCU),medium
+Aruba,GDP per capita (current LCU),medium
+Eswatini,GDP per capita (current LCU),medium
+St. Kitts and Nevis,GDP per capita (current LCU),medium
+Poland,GDP per capita (current LCU),medium
+Canada,GDP per capita (current LCU),medium
+Honduras,GDP per capita (current LCU),medium
+Nicaragua,GDP per capita (current LCU),medium
+Mauritania,GDP per capita (current LCU),medium
+New Zealand,GDP per capita (current LCU),medium
+United States,GDP per capita (current LCU),medium
+Isle of Man,GDP per capita (current LCU),medium
+China,GDP per capita (current LCU),medium
+Ireland,GDP per capita (current LCU),medium
+Namibia,GDP per capita (current LCU),medium
+Cayman Islands,GDP per capita (current LCU),medium
+Australia,GDP per capita (current LCU),medium
+Botswana,GDP per capita (current LCU),medium
+Moldova,GDP per capita (current LCU),medium
+Switzerland,GDP per capita (current LCU),medium
+Saudi Arabia,GDP per capita (current LCU),medium
+Singapore,GDP per capita (current LCU),medium
+Ukraine,GDP per capita (current LCU),medium
+South Africa,GDP per capita (current LCU),medium
+Kyrgyz Republic,GDP per capita (current LCU),medium
+Luxembourg,GDP per capita (current LCU),medium
+Croatia,GDP per capita (current LCU),medium
+Haiti,GDP per capita (current LCU),medium
+Trinidad and Tobago,GDP per capita (current LCU),medium
+Bermuda,GDP per capita (current LCU),medium
+Nepal,GDP per capita (current LCU),medium
+India,GDP per capita (current LCU),medium
+Israel,GDP per capita (current LCU),medium
+United Arab Emirates,GDP per capita (current LCU),medium
+Maldives,GDP per capita (current LCU),medium
+Liechtenstein,GDP per capita (current LCU),medium
+Monaco,GDP per capita (current LCU),medium
+Philippines,GDP per capita (current LCU),mediumHigh
+Bangladesh,GDP per capita (current LCU),mediumHigh
+Mexico,GDP per capita (current LCU),mediumHigh
+Kenya,GDP per capita (current LCU),mediumHigh
+Pakistan,GDP per capita (current LCU),mediumHigh
+Qatar,GDP per capita (current LCU),mediumHigh
+Bhutan,GDP per capita (current LCU),mediumHigh
+Seychelles,GDP per capita (current LCU),mediumHigh
+Thailand,GDP per capita (current LCU),mediumHigh
+Central African Republic,GDP per capita (current LCU),mediumHigh
+Niger,GDP per capita (current LCU),mediumHigh
+North Macedonia,GDP per capita (current LCU),mediumHigh
+Cabo Verde,GDP per capita (current LCU),mediumHigh
+Greenland,GDP per capita (current LCU),mediumHigh
+Vanuatu,GDP per capita (current LCU),mediumHigh
+Hong Kong SAR China,GDP per capita (current LCU),mediumHigh
+Mauritius,GDP per capita (current LCU),mediumHigh
+Denmark,GDP per capita (current LCU),mediumHigh
+Chad,GDP per capita (current LCU),mediumHigh
+Dominican Republic,GDP per capita (current LCU),mediumHigh
+Yemen Rep.,GDP per capita (current LCU),mediumHigh
+Guinea-Bissau,GDP per capita (current LCU),mediumHigh
+Malawi,GDP per capita (current LCU),mediumHigh
+Faroe Islands,GDP per capita (current LCU),mediumHigh
+Burkina Faso,GDP per capita (current LCU),mediumHigh
+Algeria,GDP per capita (current LCU),mediumHigh
+Burundi,GDP per capita (current LCU),mediumHigh
+Argentina,GDP per capita (current LCU),mediumHigh
+Sweden,GDP per capita (current LCU),mediumHigh
+Mali,GDP per capita (current LCU),mediumHigh
+Togo,GDP per capita (current LCU),mediumHigh
+Czech Republic,GDP per capita (current LCU),mediumHigh
+Djibouti,GDP per capita (current LCU),mediumHigh
+Albania,GDP per capita (current LCU),mediumHigh
+Comoros,GDP per capita (current LCU),mediumHigh
+Uruguay,GDP per capita (current LCU),mediumHigh
+Norway,GDP per capita (current LCU),mediumHigh
+Sri Lanka,GDP per capita (current LCU),mediumHigh
+Macao SAR China,GDP per capita (current LCU),mediumHigh
+Benin,GDP per capita (current LCU),mediumHigh
+Jamaica,GDP per capita (current LCU),mediumHigh
+Nigeria,GDP per capita (current LCU),high
+Rwanda,GDP per capita (current LCU),high
+Russian Federation,GDP per capita (current LCU),high
+Serbia,GDP per capita (current LCU),high
+Senegal,GDP per capita (current LCU),high
+Cameroon,GDP per capita (current LCU),high
+Angola,GDP per capita (current LCU),high
+Congo Dem. Rep.,GDP per capita (current LCU),high
+Côte d\'Ivoire,GDP per capita (current LCU),high
+Guyana,GDP per capita (current LCU),high
+Congo Rep.,GDP per capita (current LCU),high
+Madagascar,GDP per capita (current LCU),high
+Myanmar,GDP per capita (current LCU),high
+Armenia,GDP per capita (current LCU),high
+French Polynesia,GDP per capita (current LCU),high
+Tanzania,GDP per capita (current LCU),high
+Uganda,GDP per capita (current LCU),high
+New Caledonia,GDP per capita (current LCU),high
+Kazakhstan,GDP per capita (current LCU),high
+Japan,GDP per capita (current LCU),high
+Gabon,GDP per capita (current LCU),high
+Sierra Leone,GDP per capita (current LCU),high
+Hungary,GDP per capita (current LCU),high
+Equatorial Guinea,GDP per capita (current LCU),high
+Cambodia,GDP per capita (current LCU),high
+Iraq,GDP per capita (current LCU),high
+Costa Rica,GDP per capita (current LCU),high
+Iceland,GDP per capita (current LCU),high
+Guinea,GDP per capita (current LCU),high
+Chile,GDP per capita (current LCU),high
+Somalia,GDP per capita (current LCU),high
+Lebanon,GDP per capita (current LCU),high
+Mongolia,GDP per capita (current LCU),high
+Uzbekistan,GDP per capita (current LCU),high
+Colombia,GDP per capita (current LCU),high
+Lao PDR,GDP per capita (current LCU),high
+Paraguay,GDP per capita (current LCU),high
+Korea Rep.,GDP per capita (current LCU),high
+Indonesia,GDP per capita (current LCU),high
+Vietnam,GDP per capita (current LCU),high
+Iran Islamic Rep.,GDP per capita (current LCU),high
+Marshall Islands,Gross national expenditure (current US$),low
+Tonga,Gross national expenditure (current US$),low
+Vanuatu,Gross national expenditure (current US$),low
+San Marino,Gross national expenditure (current US$),low
+Comoros,Gross national expenditure (current US$),low
+Guinea-Bissau,Gross national expenditure (current US$),low
+Solomon Islands,Gross national expenditure (current US$),low
+Antigua and Barbuda,Gross national expenditure (current US$),low
+Seychelles,Gross national expenditure (current US$),low
+Belize,Gross national expenditure (current US$),low
+Gambia The,Gross national expenditure (current US$),low
+Cabo Verde,Gross national expenditure (current US$),low
+Timor-Leste,Gross national expenditure (current US$),low
+Djibouti,Gross national expenditure (current US$),low
+Central African Republic,Gross national expenditure (current US$),low
+Bhutan,Gross national expenditure (current US$),low
+Burundi,Gross national expenditure (current US$),low
+Faroe Islands,Gross national expenditure (current US$),low
+Greenland,Gross national expenditure (current US$),low
+Aruba,Gross national expenditure (current US$),low
+Lesotho,Gross national expenditure (current US$),low
+Eswatini,Gross national expenditure (current US$),low
+Sierra Leone,Gross national expenditure (current US$),low
+Barbados,Gross national expenditure (current US$),low
+Fiji,Gross national expenditure (current US$),low
+Bermuda,Gross national expenditure (current US$),low
+Maldives,Gross national expenditure (current US$),low
+Montenegro,Gross national expenditure (current US$),low
+French Polynesia,Gross national expenditure (current US$),low
+Togo,Gross national expenditure (current US$),low
+Mauritania,Gross national expenditure (current US$),low
+Congo Rep.,Gross national expenditure (current US$),low
+Tajikistan,Gross national expenditure (current US$),low
+Equatorial Guinea,Gross national expenditure (current US$),low
+Brunei Darussalam,Gross national expenditure (current US$),mediumLow
+Kyrgyz Republic,Gross national expenditure (current US$),mediumLow
+Chad,Gross national expenditure (current US$),mediumLow
+Rwanda,Gross national expenditure (current US$),mediumLow
+Gabon,Gross national expenditure (current US$),mediumLow
+Malta,Gross national expenditure (current US$),mediumLow
+Nicaragua,Gross national expenditure (current US$),mediumLow
+Bahamas The,Gross national expenditure (current US$),mediumLow
+Namibia,Gross national expenditure (current US$),mediumLow
+North Macedonia,Gross national expenditure (current US$),mediumLow
+Niger,Gross national expenditure (current US$),mediumLow
+Moldova,Gross national expenditure (current US$),mediumLow
+Madagascar,Gross national expenditure (current US$),mediumLow
+Benin,Gross national expenditure (current US$),mediumLow
+Mongolia,Gross national expenditure (current US$),mediumLow
+Guinea,Gross national expenditure (current US$),mediumLow
+Armenia,Gross national expenditure (current US$),mediumLow
+Mauritius,Gross national expenditure (current US$),mediumLow
+Burkina Faso,Gross national expenditure (current US$),mediumLow
+Botswana,Gross national expenditure (current US$),mediumLow
+Albania,Gross national expenditure (current US$),mediumLow
+Jamaica,Gross national expenditure (current US$),mediumLow
+Haiti,Gross national expenditure (current US$),mediumLow
+Georgia,Gross national expenditure (current US$),mediumLow
+Mali,Gross national expenditure (current US$),mediumLow
+Zimbabwe,Gross national expenditure (current US$),mediumLow
+Mozambique,Gross national expenditure (current US$),mediumLow
+Zambia,Gross national expenditure (current US$),mediumLow
+West Bank and Gaza,Gross national expenditure (current US$),mediumLow
+Iceland,Gross national expenditure (current US$),mediumLow
+Bosnia and Herzegovina,Gross national expenditure (current US$),mediumLow
+Cyprus,Gross national expenditure (current US$),mediumLow
+Cambodia,Gross national expenditure (current US$),mediumLow
+Senegal,Gross national expenditure (current US$),mediumLow
+Macao SAR China,Gross national expenditure (current US$),medium
+Estonia,Gross national expenditure (current US$),medium
+Honduras,Gross national expenditure (current US$),medium
+El Salvador,Gross national expenditure (current US$),medium
+Sudan,Gross national expenditure (current US$),medium
+Bahrain,Gross national expenditure (current US$),medium
+Latvia,Gross national expenditure (current US$),medium
+Uganda,Gross national expenditure (current US$),medium
+Paraguay,Gross national expenditure (current US$),medium
+Cameroon,Gross national expenditure (current US$),medium
+Azerbaijan,Gross national expenditure (current US$),medium
+Nepal,Gross national expenditure (current US$),medium
+Bolivia,Gross national expenditure (current US$),medium
+Tunisia,Gross national expenditure (current US$),medium
+Luxembourg,Gross national expenditure (current US$),medium
+Slovenia,Gross national expenditure (current US$),medium
+Jordan,Gross national expenditure (current US$),medium
+Lithuania,Gross national expenditure (current US$),medium
+Congo Dem. Rep.,Gross national expenditure (current US$),medium
+Angola,Gross national expenditure (current US$),medium
+Serbia,Gross national expenditure (current US$),medium
+Uruguay,Gross national expenditure (current US$),medium
+Côte d\'Ivoire,Gross national expenditure (current US$),medium
+Croatia,Gross national expenditure (current US$),medium
+Costa Rica,Gross national expenditure (current US$),medium
+Lebanon,Gross national expenditure (current US$),medium
+Libya,Gross national expenditure (current US$),medium
+Belarus,Gross national expenditure (current US$),medium
+Tanzania,Gross national expenditure (current US$),medium
+Bulgaria,Gross national expenditure (current US$),medium
+Panama,Gross national expenditure (current US$),medium
+Myanmar,Gross national expenditure (current US$),medium
+Ghana,Gross national expenditure (current US$),medium
+Uzbekistan,Gross national expenditure (current US$),medium
+Oman,Gross national expenditure (current US$),mediumHigh
+Guatemala,Gross national expenditure (current US$),mediumHigh
+Sri Lanka,Gross national expenditure (current US$),mediumHigh
+Puerto Rico,Gross national expenditure (current US$),mediumHigh
+Dominican Republic,Gross national expenditure (current US$),mediumHigh
+Cuba,Gross national expenditure (current US$),mediumHigh
+Slovak Republic,Gross national expenditure (current US$),mediumHigh
+Ecuador,Gross national expenditure (current US$),mediumHigh
+Ethiopia,Gross national expenditure (current US$),mediumHigh
+Kenya,Gross national expenditure (current US$),mediumHigh
+Kuwait,Gross national expenditure (current US$),mediumHigh
+Morocco,Gross national expenditure (current US$),mediumHigh
+Qatar,Gross national expenditure (current US$),mediumHigh
+Hungary,Gross national expenditure (current US$),mediumHigh
+Kazakhstan,Gross national expenditure (current US$),mediumHigh
+Ukraine,Gross national expenditure (current US$),mediumHigh
+Algeria,Gross national expenditure (current US$),mediumHigh
+Iraq,Gross national expenditure (current US$),mediumHigh
+Greece,Gross national expenditure (current US$),mediumHigh
+New Zealand,Gross national expenditure (current US$),mediumHigh
+Peru,Gross national expenditure (current US$),mediumHigh
+Czech Republic,Gross national expenditure (current US$),mediumHigh
+Portugal,Gross national expenditure (current US$),mediumHigh
+Romania,Gross national expenditure (current US$),mediumHigh
+Singapore,Gross national expenditure (current US$),mediumHigh
+Finland,Gross national expenditure (current US$),mediumHigh
+Chile,Gross national expenditure (current US$),mediumHigh
+United Arab Emirates,Gross national expenditure (current US$),mediumHigh
+Denmark,Gross national expenditure (current US$),mediumHigh
+Egypt Arab Rep.,Gross national expenditure (current US$),mediumHigh
+Malaysia,Gross national expenditure (current US$),mediumHigh
+Colombia,Gross national expenditure (current US$),mediumHigh
+Pakistan,Gross national expenditure (current US$),mediumHigh
+Hong Kong SAR China,Gross national expenditure (current US$),mediumHigh
+Bangladesh,Gross national expenditure (current US$),high
+Ireland,Gross national expenditure (current US$),high
+South Africa,Gross national expenditure (current US$),high
+Israel,Gross national expenditure (current US$),high
+Norway,Gross national expenditure (current US$),high
+Philippines,Gross national expenditure (current US$),high
+Austria,Gross national expenditure (current US$),high
+Argentina,Gross national expenditure (current US$),high
+Nigeria,Gross national expenditure (current US$),high
+Thailand,Gross national expenditure (current US$),high
+Sweden,Gross national expenditure (current US$),high
+Belgium,Gross national expenditure (current US$),high
+Poland,Gross national expenditure (current US$),high
+Switzerland,Gross national expenditure (current US$),high
+Saudi Arabia,Gross national expenditure (current US$),high
+Türkiye,Gross national expenditure (current US$),high
+Netherlands,Gross national expenditure (current US$),high
+Indonesia,Gross national expenditure (current US$),high
+Mexico,Gross national expenditure (current US$),high
+Spain,Gross national expenditure (current US$),high
+Australia,Gross national expenditure (current US$),high
+Russian Federation,Gross national expenditure (current US$),high
+Korea Rep.,Gross national expenditure (current US$),high
+Canada,Gross national expenditure (current US$),high
+Brazil,Gross national expenditure (current US$),high
+Italy,Gross national expenditure (current US$),high
+France,Gross national expenditure (current US$),high
+India,Gross national expenditure (current US$),high
+United Kingdom,Gross national expenditure (current US$),high
+Germany,Gross national expenditure (current US$),high
+Japan,Gross national expenditure (current US$),high
+China,Gross national expenditure (current US$),high
+United States,Gross national expenditure (current US$),high
+Ghana,Prevalence of current tobacco use (% of adults),high
+Nigeria,Prevalence of current tobacco use (% of adults),high
+Ethiopia,Prevalence of current tobacco use (% of adults),high
+Panama,Prevalence of current tobacco use (% of adults),high
+Turkmenistan,Prevalence of current tobacco use (% of adults),high
+São Tomé and Principe,Prevalence of current tobacco use (% of adults),high
+Togo,Prevalence of current tobacco use (% of adults),high
+Senegal,Prevalence of current tobacco use (% of adults),high
+Benin,Prevalence of current tobacco use (% of adults),high
+Cameroon,Prevalence of current tobacco use (% of adults),high
+Niger,Prevalence of current tobacco use (% of adults),high
+Eritrea,Prevalence of current tobacco use (% of adults),high
+Oman,Prevalence of current tobacco use (% of adults),high
+Haiti,Prevalence of current tobacco use (% of adults),high
+El Salvador,Prevalence of current tobacco use (% of adults),high
+Liberia,Prevalence of current tobacco use (% of adults),high
+Chad,Prevalence of current tobacco use (% of adults),high
+Barbados,Prevalence of current tobacco use (% of adults),high
+Mali,Prevalence of current tobacco use (% of adults),high
+Peru,Prevalence of current tobacco use (% of adults),high
+Belize,Prevalence of current tobacco use (% of adults),high
+Colombia,Prevalence of current tobacco use (% of adults),high
+Uganda,Prevalence of current tobacco use (% of adults),high
+Costa Rica,Prevalence of current tobacco use (% of adults),high
+Tanzania,Prevalence of current tobacco use (% of adults),high
+Eswatini,Prevalence of current tobacco use (% of adults),high
+Guinea-Bissau,Prevalence of current tobacco use (% of adults),high
+Jamaica,Prevalence of current tobacco use (% of adults),high
+Côte d\'Ivoire,Prevalence of current tobacco use (% of adults),high
+Bahamas The,Prevalence of current tobacco use (% of adults),high
+Dominican Republic,Prevalence of current tobacco use (% of adults),high
+Guatemala,Prevalence of current tobacco use (% of adults),high
+Mauritania,Prevalence of current tobacco use (% of adults),high
+Malawi,Prevalence of current tobacco use (% of adults),mediumHigh
+Kenya,Prevalence of current tobacco use (% of adults),mediumHigh
+Ecuador,Prevalence of current tobacco use (% of adults),mediumHigh
+Gambia The,Prevalence of current tobacco use (% of adults),mediumHigh
+Cabo Verde,Prevalence of current tobacco use (% of adults),mediumHigh
+Qatar,Prevalence of current tobacco use (% of adults),mediumHigh
+Zimbabwe,Prevalence of current tobacco use (% of adults),mediumHigh
+Paraguay,Prevalence of current tobacco use (% of adults),mediumHigh
+Burundi,Prevalence of current tobacco use (% of adults),mediumHigh
+Guyana,Prevalence of current tobacco use (% of adults),mediumHigh
+Iceland,Prevalence of current tobacco use (% of adults),mediumHigh
+Congo Dem. Rep.,Prevalence of current tobacco use (% of adults),mediumHigh
+Brazil,Prevalence of current tobacco use (% of adults),mediumHigh
+Bolivia,Prevalence of current tobacco use (% of adults),mediumHigh
+Mexico,Prevalence of current tobacco use (% of adults),mediumHigh
+Canada,Prevalence of current tobacco use (% of adults),mediumHigh
+Iran Islamic Rep.,Prevalence of current tobacco use (% of adults),mediumHigh
+Australia,Prevalence of current tobacco use (% of adults),mediumHigh
+Rwanda,Prevalence of current tobacco use (% of adults),mediumHigh
+New Zealand,Prevalence of current tobacco use (% of adults),mediumHigh
+Saudi Arabia,Prevalence of current tobacco use (% of adults),mediumHigh
+Sierra Leone,Prevalence of current tobacco use (% of adults),mediumHigh
+Congo Rep.,Prevalence of current tobacco use (% of adults),mediumHigh
+Zambia,Prevalence of current tobacco use (% of adults),mediumHigh
+Mozambique,Prevalence of current tobacco use (% of adults),mediumHigh
+Burkina Faso,Prevalence of current tobacco use (% of adults),mediumHigh
+Morocco,Prevalence of current tobacco use (% of adults),mediumHigh
+Bahrain,Prevalence of current tobacco use (% of adults),mediumHigh
+Namibia,Prevalence of current tobacco use (% of adults),mediumHigh
+United Kingdom,Prevalence of current tobacco use (% of adults),mediumHigh
+Brunei Darussalam,Prevalence of current tobacco use (% of adults),mediumHigh
+Singapore,Prevalence of current tobacco use (% of adults),mediumHigh
+Norway,Prevalence of current tobacco use (% of adults),mediumHigh
+Korea Dem. People\'s Rep.,Prevalence of current tobacco use (% of adults),medium
+Uzbekistan,Prevalence of current tobacco use (% of adults),medium
+Palau,Prevalence of current tobacco use (% of adults),medium
+Kuwait,Prevalence of current tobacco use (% of adults),medium
+Denmark,Prevalence of current tobacco use (% of adults),medium
+Vanuatu,Prevalence of current tobacco use (% of adults),medium
+Cuba,Prevalence of current tobacco use (% of adults),medium
+Iraq,Prevalence of current tobacco use (% of adults),medium
+Botswana,Prevalence of current tobacco use (% of adults),medium
+South Africa,Prevalence of current tobacco use (% of adults),medium
+Mauritius,Prevalence of current tobacco use (% of adults),medium
+Japan,Prevalence of current tobacco use (% of adults),medium
+Yemen Rep.,Prevalence of current tobacco use (% of adults),medium
+Seychelles,Prevalence of current tobacco use (% of adults),medium
+Pakistan,Prevalence of current tobacco use (% of adults),medium
+Comoros,Prevalence of current tobacco use (% of adults),medium
+Algeria,Prevalence of current tobacco use (% of adults),medium
+Korea Rep.,Prevalence of current tobacco use (% of adults),medium
+Ireland,Prevalence of current tobacco use (% of adults),medium
+Israel,Prevalence of current tobacco use (% of adults),medium
+Luxembourg,Prevalence of current tobacco use (% of adults),medium
+Cambodia,Prevalence of current tobacco use (% of adults),medium
+Uruguay,Prevalence of current tobacco use (% of adults),medium
+Finland,Prevalence of current tobacco use (% of adults),medium
+Slovenia,Prevalence of current tobacco use (% of adults),medium
+Sri Lanka,Prevalence of current tobacco use (% of adults),medium
+Germany,Prevalence of current tobacco use (% of adults),medium
+Thailand,Prevalence of current tobacco use (% of adults),medium
+Netherlands,Prevalence of current tobacco use (% of adults),medium
+Malaysia,Prevalence of current tobacco use (% of adults),medium
+Albania,Prevalence of current tobacco use (% of adults),medium
+Italy,Prevalence of current tobacco use (% of adults),medium
+United States,Prevalence of current tobacco use (% of adults),medium
+Fiji,Prevalence of current tobacco use (% of adults),medium
+Philippines,Prevalence of current tobacco use (% of adults),medium
+Kazakhstan,Prevalence of current tobacco use (% of adults),mediumLow
+Afghanistan,Prevalence of current tobacco use (% of adults),mediumLow
+Belgium,Prevalence of current tobacco use (% of adults),mediumLow
+Azerbaijan,Prevalence of current tobacco use (% of adults),mediumLow
+Lesotho,Prevalence of current tobacco use (% of adults),mediumLow
+Egypt Arab Rep.,Prevalence of current tobacco use (% of adults),mediumLow
+Malta,Prevalence of current tobacco use (% of adults),mediumLow
+Poland,Prevalence of current tobacco use (% of adults),mediumLow
+Sweden,Prevalence of current tobacco use (% of adults),mediumLow
+Argentina,Prevalence of current tobacco use (% of adults),mediumLow
+Tunisia,Prevalence of current tobacco use (% of adults),mediumLow
+Vietnam,Prevalence of current tobacco use (% of adults),mediumLow
+Portugal,Prevalence of current tobacco use (% of adults),mediumLow
+China,Prevalence of current tobacco use (% of adults),mediumLow
+Switzerland,Prevalence of current tobacco use (% of adults),mediumLow
+Armenia,Prevalence of current tobacco use (% of adults),mediumLow
+Samoa,Prevalence of current tobacco use (% of adults),mediumLow
+Maldives,Prevalence of current tobacco use (% of adults),mediumLow
+Ukraine,Prevalence of current tobacco use (% of adults),mediumLow
+Austria,Prevalence of current tobacco use (% of adults),mediumLow
+Russian Federation,Prevalence of current tobacco use (% of adults),mediumLow
+Kyrgyz Republic,Prevalence of current tobacco use (% of adults),mediumLow
+Spain,Prevalence of current tobacco use (% of adults),mediumLow
+India,Prevalence of current tobacco use (% of adults),mediumLow
+Marshall Islands,Prevalence of current tobacco use (% of adults),mediumLow
+Romania,Prevalence of current tobacco use (% of adults),mediumLow
+Madagascar,Prevalence of current tobacco use (% of adults),mediumLow
+Moldova,Prevalence of current tobacco use (% of adults),mediumLow
+Mongolia,Prevalence of current tobacco use (% of adults),mediumLow
+Chile,Prevalence of current tobacco use (% of adults),mediumLow
+Estonia,Prevalence of current tobacco use (% of adults),low
+Türkiye,Prevalence of current tobacco use (% of adults),low
+Belarus,Prevalence of current tobacco use (% of adults),low
+Czech Republic,Prevalence of current tobacco use (% of adults),low
+Tonga,Prevalence of current tobacco use (% of adults),low
+Nepal,Prevalence of current tobacco use (% of adults),low
+Slovak Republic,Prevalence of current tobacco use (% of adults),low
+Georgia,Prevalence of current tobacco use (% of adults),low
+Montenegro,Prevalence of current tobacco use (% of adults),low
+Andorra,Prevalence of current tobacco use (% of adults),low
+Hungary,Prevalence of current tobacco use (% of adults),low
+Lithuania,Prevalence of current tobacco use (% of adults),low
+Lao PDR,Prevalence of current tobacco use (% of adults),low
+France,Prevalence of current tobacco use (% of adults),low
+Greece,Prevalence of current tobacco use (% of adults),low
+Jordan,Prevalence of current tobacco use (% of adults),low
+Bangladesh,Prevalence of current tobacco use (% of adults),low
+Cyprus,Prevalence of current tobacco use (% of adults),low
+Bosnia and Herzegovina,Prevalence of current tobacco use (% of adults),low
+Tuvalu,Prevalence of current tobacco use (% of adults),low
+Croatia,Prevalence of current tobacco use (% of adults),low
+Solomon Islands,Prevalence of current tobacco use (% of adults),low
+Indonesia,Prevalence of current tobacco use (% of adults),low
+Latvia,Prevalence of current tobacco use (% of adults),low
+Lebanon,Prevalence of current tobacco use (% of adults),low
+Bulgaria,Prevalence of current tobacco use (% of adults),low
+Timor-Leste,Prevalence of current tobacco use (% of adults),low
+Papua New Guinea,Prevalence of current tobacco use (% of adults),low
+Serbia,Prevalence of current tobacco use (% of adults),low
+Kiribati,Prevalence of current tobacco use (% of adults),low
+Myanmar,Prevalence of current tobacco use (% of adults),low
+Nauru,Prevalence of current tobacco use (% of adults),low
+Barbados,Incidence of tuberculosis (per 100000 people),high
+San Marino,Incidence of tuberculosis (per 100000 people),high
+Monaco,Incidence of tuberculosis (per 100000 people),high
+Antigua and Barbuda,Incidence of tuberculosis (per 100000 people),high
+West Bank and Gaza,Incidence of tuberculosis (per 100000 people),high
+United Arab Emirates,Incidence of tuberculosis (per 100000 people),high
+Puerto Rico,Incidence of tuberculosis (per 100000 people),high
+American Samoa,Incidence of tuberculosis (per 100000 people),high
+Aruba,Incidence of tuberculosis (per 100000 people),high
+Israel,Incidence of tuberculosis (per 100000 people),high
+United States,Incidence of tuberculosis (per 100000 people),high
+Grenada,Incidence of tuberculosis (per 100000 people),high
+Jamaica,Incidence of tuberculosis (per 100000 people),high
+Norway,Incidence of tuberculosis (per 100000 people),high
+Bermuda,Incidence of tuberculosis (per 100000 people),high
+St. Lucia,Incidence of tuberculosis (per 100000 people),high
+British Virgin Islands,Incidence of tuberculosis (per 100000 people),high
+St. Vincent and the Grenadines,Incidence of tuberculosis (per 100000 people),high
+Iceland,Incidence of tuberculosis (per 100000 people),high
+St. Kitts and Nevis,Incidence of tuberculosis (per 100000 people),high
+Slovak Republic,Incidence of tuberculosis (per 100000 people),high
+Finland,Incidence of tuberculosis (per 100000 people),high
+Greece,Incidence of tuberculosis (per 100000 people),high
+Czech Republic,Incidence of tuberculosis (per 100000 people),high
+Netherlands,Incidence of tuberculosis (per 100000 people),high
+Denmark,Incidence of tuberculosis (per 100000 people),high
+Slovenia,Incidence of tuberculosis (per 100000 people),high
+Switzerland,Incidence of tuberculosis (per 100000 people),high
+Jordan,Incidence of tuberculosis (per 100000 people),high
+Sweden,Incidence of tuberculosis (per 100000 people),high
+Ireland,Incidence of tuberculosis (per 100000 people),high
+Canada,Incidence of tuberculosis (per 100000 people),high
+Austria,Incidence of tuberculosis (per 100000 people),high
+Italy,Incidence of tuberculosis (per 100000 people),high
+Hungary,Incidence of tuberculosis (per 100000 people),high
+Cyprus,Incidence of tuberculosis (per 100000 people),high
+Germany,Incidence of tuberculosis (per 100000 people),high
+Cuba,Incidence of tuberculosis (per 100000 people),high
+Australia,Incidence of tuberculosis (per 100000 people),high
+Cayman Islands,Incidence of tuberculosis (per 100000 people),high
+Curaçao,Incidence of tuberculosis (per 100000 people),high
+New Zealand,Incidence of tuberculosis (per 100000 people),high
+Andorra,Incidence of tuberculosis (per 100000 people),high
+United Kingdom,Incidence of tuberculosis (per 100000 people),mediumHigh
+Croatia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Oman,Incidence of tuberculosis (per 100000 people),mediumHigh
+Belgium,Incidence of tuberculosis (per 100000 people),mediumHigh
+France,Incidence of tuberculosis (per 100000 people),mediumHigh
+Luxembourg,Incidence of tuberculosis (per 100000 people),mediumHigh
+New Caledonia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Saudi Arabia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Spain,Incidence of tuberculosis (per 100000 people),mediumHigh
+Costa Rica,Incidence of tuberculosis (per 100000 people),mediumHigh
+Tonga,Incidence of tuberculosis (per 100000 people),mediumHigh
+Samoa,Incidence of tuberculosis (per 100000 people),mediumHigh
+Bahrain,Incidence of tuberculosis (per 100000 people),mediumHigh
+North Macedonia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Turks and Caicos Islands,Incidence of tuberculosis (per 100000 people),mediumHigh
+Egypt Arab Rep.,Incidence of tuberculosis (per 100000 people),mediumHigh
+Mauritius,Incidence of tuberculosis (per 100000 people),mediumHigh
+Japan,Incidence of tuberculosis (per 100000 people),mediumHigh
+Lebanon,Incidence of tuberculosis (per 100000 people),mediumHigh
+Iran Islamic Rep.,Incidence of tuberculosis (per 100000 people),mediumHigh
+Estonia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Serbia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Sint Maarten (Dutch part),Incidence of tuberculosis (per 100000 people),mediumHigh
+Bahamas The,Incidence of tuberculosis (per 100000 people),mediumHigh
+Poland,Incidence of tuberculosis (per 100000 people),mediumHigh
+Montenegro,Incidence of tuberculosis (per 100000 people),mediumHigh
+Dominica,Incidence of tuberculosis (per 100000 people),mediumHigh
+Türkiye,Incidence of tuberculosis (per 100000 people),mediumHigh
+Albania,Incidence of tuberculosis (per 100000 people),mediumHigh
+Seychelles,Incidence of tuberculosis (per 100000 people),mediumHigh
+Trinidad and Tobago,Incidence of tuberculosis (per 100000 people),mediumHigh
+Chile,Incidence of tuberculosis (per 100000 people),mediumHigh
+Portugal,Incidence of tuberculosis (per 100000 people),mediumHigh
+Syrian Arab Republic,Incidence of tuberculosis (per 100000 people),mediumHigh
+Bulgaria,Incidence of tuberculosis (per 100000 people),mediumHigh
+French Polynesia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Kuwait,Incidence of tuberculosis (per 100000 people),mediumHigh
+Mexico,Incidence of tuberculosis (per 100000 people),mediumHigh
+Latvia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Guatemala,Incidence of tuberculosis (per 100000 people),mediumHigh
+Malta,Incidence of tuberculosis (per 100000 people),mediumHigh
+Armenia,Incidence of tuberculosis (per 100000 people),mediumHigh
+Bosnia and Herzegovina,Incidence of tuberculosis (per 100000 people),medium
+Belize,Incidence of tuberculosis (per 100000 people),medium
+Iraq,Incidence of tuberculosis (per 100000 people),medium
+Argentina,Incidence of tuberculosis (per 100000 people),medium
+Suriname,Incidence of tuberculosis (per 100000 people),medium
+Belarus,Incidence of tuberculosis (per 100000 people),medium
+Honduras,Incidence of tuberculosis (per 100000 people),medium
+Colombia,Incidence of tuberculosis (per 100000 people),medium
+Qatar,Incidence of tuberculosis (per 100000 people),medium
+Tunisia,Incidence of tuberculosis (per 100000 people),medium
+Comoros,Incidence of tuberculosis (per 100000 people),medium
+Uruguay,Incidence of tuberculosis (per 100000 people),medium
+Maldives,Incidence of tuberculosis (per 100000 people),medium
+Togo,Incidence of tuberculosis (per 100000 people),medium
+Panama,Incidence of tuberculosis (per 100000 people),medium
+Palau,Incidence of tuberculosis (per 100000 people),medium
+Singapore,Incidence of tuberculosis (per 100000 people),medium
+Vanuatu,Incidence of tuberculosis (per 100000 people),medium
+Dominican Republic,Incidence of tuberculosis (per 100000 people),medium
+Lithuania,Incidence of tuberculosis (per 100000 people),medium
+Nicaragua,Incidence of tuberculosis (per 100000 people),medium
+Venezuela RB,Incidence of tuberculosis (per 100000 people),medium
+Turkmenistan,Incidence of tuberculosis (per 100000 people),medium
+Ecuador,Incidence of tuberculosis (per 100000 people),medium
+Brazil,Incidence of tuberculosis (per 100000 people),medium
+Cabo Verde,Incidence of tuberculosis (per 100000 people),medium
+Paraguay,Incidence of tuberculosis (per 100000 people),medium
+Burkina Faso,Incidence of tuberculosis (per 100000 people),medium
+Yemen Rep.,Incidence of tuberculosis (per 100000 people),medium
+Russian Federation,Incidence of tuberculosis (per 100000 people),medium
+Mali,Incidence of tuberculosis (per 100000 people),medium
+Guam,Incidence of tuberculosis (per 100000 people),medium
+Benin,Incidence of tuberculosis (per 100000 people),medium
+Rwanda,Incidence of tuberculosis (per 100000 people),medium
+China,Incidence of tuberculosis (per 100000 people),medium
+El Salvador,Incidence of tuberculosis (per 100000 people),medium
+Libya,Incidence of tuberculosis (per 100000 people),medium
+Korea Rep.,Incidence of tuberculosis (per 100000 people),medium
+Azerbaijan,Incidence of tuberculosis (per 100000 people),medium
+Algeria,Incidence of tuberculosis (per 100000 people),medium
+Hong Kong SAR China,Incidence of tuberculosis (per 100000 people),medium
+Sri Lanka,Incidence of tuberculosis (per 100000 people),mediumLow
+Brunei Darussalam,Incidence of tuberculosis (per 100000 people),mediumLow
+Macao SAR China,Incidence of tuberculosis (per 100000 people),mediumLow
+Romania,Incidence of tuberculosis (per 100000 people),mediumLow
+Solomon Islands,Incidence of tuberculosis (per 100000 people),mediumLow
+Fiji,Incidence of tuberculosis (per 100000 people),mediumLow
+Sudan,Incidence of tuberculosis (per 100000 people),mediumLow
+Uzbekistan,Incidence of tuberculosis (per 100000 people),mediumLow
+Kazakhstan,Incidence of tuberculosis (per 100000 people),mediumLow
+Georgia,Incidence of tuberculosis (per 100000 people),mediumLow
+Ukraine,Incidence of tuberculosis (per 100000 people),mediumLow
+Guyana,Incidence of tuberculosis (per 100000 people),mediumLow
+Moldova,Incidence of tuberculosis (per 100000 people),mediumLow
+Tajikistan,Incidence of tuberculosis (per 100000 people),mediumLow
+Niger,Incidence of tuberculosis (per 100000 people),mediumLow
+Eritrea,Incidence of tuberculosis (per 100000 people),mediumLow
+Mauritania,Incidence of tuberculosis (per 100000 people),mediumLow
+Malaysia,Incidence of tuberculosis (per 100000 people),mediumLow
+Morocco,Incidence of tuberculosis (per 100000 people),mediumLow
+Micronesia Fed. Sts.,Incidence of tuberculosis (per 100000 people),mediumLow
+Northern Mariana Islands,Incidence of tuberculosis (per 100000 people),mediumLow
+Bolivia,Incidence of tuberculosis (per 100000 people),mediumLow
+Burundi,Incidence of tuberculosis (per 100000 people),mediumLow
+Kyrgyz Republic,Incidence of tuberculosis (per 100000 people),mediumLow
+São Tomé and Principe,Incidence of tuberculosis (per 100000 people),mediumLow
+Senegal,Incidence of tuberculosis (per 100000 people),mediumLow
+Peru,Incidence of tuberculosis (per 100000 people),mediumLow
+Greenland,Incidence of tuberculosis (per 100000 people),mediumLow
+Côte d\'Ivoire,Incidence of tuberculosis (per 100000 people),mediumLow
+Ethiopia,Incidence of tuberculosis (per 100000 people),mediumLow
+Chad,Incidence of tuberculosis (per 100000 people),mediumLow
+Ghana,Incidence of tuberculosis (per 100000 people),mediumLow
+Malawi,Incidence of tuberculosis (per 100000 people),mediumLow
+Thailand,Incidence of tuberculosis (per 100000 people),mediumLow
+Lao PDR,Incidence of tuberculosis (per 100000 people),mediumLow
+Gambia The,Incidence of tuberculosis (per 100000 people),mediumLow
+Bhutan,Incidence of tuberculosis (per 100000 people),mediumLow
+Haiti,Incidence of tuberculosis (per 100000 people),mediumLow
+Vietnam,Incidence of tuberculosis (per 100000 people),mediumLow
+Guinea,Incidence of tuberculosis (per 100000 people),mediumLow
+Cameroon,Incidence of tuberculosis (per 100000 people),mediumLow
+Nauru,Incidence of tuberculosis (per 100000 people),mediumLow
+Afghanistan,Incidence of tuberculosis (per 100000 people),low
+India,Incidence of tuberculosis (per 100000 people),low
+Zimbabwe,Incidence of tuberculosis (per 100000 people),low
+Uganda,Incidence of tuberculosis (per 100000 people),low
+Nigeria,Incidence of tuberculosis (per 100000 people),low
+Bangladesh,Incidence of tuberculosis (per 100000 people),low
+South Sudan,Incidence of tuberculosis (per 100000 people),low
+Madagascar,Incidence of tuberculosis (per 100000 people),low
+Djibouti,Incidence of tuberculosis (per 100000 people),low
+Tanzania,Incidence of tuberculosis (per 100000 people),low
+Nepal,Incidence of tuberculosis (per 100000 people),low
+Botswana,Incidence of tuberculosis (per 100000 people),low
+Somalia,Incidence of tuberculosis (per 100000 people),low
+Pakistan,Incidence of tuberculosis (per 100000 people),low
+Kenya,Incidence of tuberculosis (per 100000 people),low
+Equatorial Guinea,Incidence of tuberculosis (per 100000 people),low
+Cambodia,Incidence of tuberculosis (per 100000 people),low
+Sierra Leone,Incidence of tuberculosis (per 100000 people),low
+Tuvalu,Incidence of tuberculosis (per 100000 people),low
+Liberia,Incidence of tuberculosis (per 100000 people),low
+Indonesia,Incidence of tuberculosis (per 100000 people),low
+Congo Dem. Rep.,Incidence of tuberculosis (per 100000 people),low
+Myanmar,Incidence of tuberculosis (per 100000 people),low
+Zambia,Incidence of tuberculosis (per 100000 people),low
+Angola,Incidence of tuberculosis (per 100000 people),low
+Mozambique,Incidence of tuberculosis (per 100000 people),low
+Guinea-Bissau,Incidence of tuberculosis (per 100000 people),low
+Eswatini,Incidence of tuberculosis (per 100000 people),low
+Congo Rep.,Incidence of tuberculosis (per 100000 people),low
+Mongolia,Incidence of tuberculosis (per 100000 people),low
+Papua New Guinea,Incidence of tuberculosis (per 100000 people),low
+Kiribati,Incidence of tuberculosis (per 100000 people),low
+Marshall Islands,Incidence of tuberculosis (per 100000 people),low
+Namibia,Incidence of tuberculosis (per 100000 people),low
+Timor-Leste,Incidence of tuberculosis (per 100000 people),low
+Korea Dem. People\'s Rep.,Incidence of tuberculosis (per 100000 people),low
+Gabon,Incidence of tuberculosis (per 100000 people),low
+Central African Republic,Incidence of tuberculosis (per 100000 people),low
+Philippines,Incidence of tuberculosis (per 100000 people),low
+South Africa,Incidence of tuberculosis (per 100000 people),low
+Lesotho,Incidence of tuberculosis (per 100000 people),low
+United States,Prevalence of anemia among pregnant women (%),high
+Guatemala,Prevalence of anemia among pregnant women (%),high
+Korea Rep.,Prevalence of anemia among pregnant women (%),high
+Switzerland,Prevalence of anemia among pregnant women (%),high
+Luxembourg,Prevalence of anemia among pregnant women (%),high
+Iceland,Prevalence of anemia among pregnant women (%),high
+Australia,Prevalence of anemia among pregnant women (%),high
+El Salvador,Prevalence of anemia among pregnant women (%),high
+Canada,Prevalence of anemia among pregnant women (%),high
+New Zealand,Prevalence of anemia among pregnant women (%),high
+Belgium,Prevalence of anemia among pregnant women (%),high
+France,Prevalence of anemia among pregnant women (%),high
+Finland,Prevalence of anemia among pregnant women (%),high
+Germany,Prevalence of anemia among pregnant women (%),high
+United Kingdom,Prevalence of anemia among pregnant women (%),high
+Norway,Prevalence of anemia among pregnant women (%),high
+Denmark,Prevalence of anemia among pregnant women (%),high
+Monaco,Prevalence of anemia among pregnant women (%),high
+Bahamas The,Prevalence of anemia among pregnant women (%),high
+Andorra,Prevalence of anemia among pregnant women (%),high
+Ireland,Prevalence of anemia among pregnant women (%),high
+San Marino,Prevalence of anemia among pregnant women (%),high
+Netherlands,Prevalence of anemia among pregnant women (%),high
+Singapore,Prevalence of anemia among pregnant women (%),high
+Costa Rica,Prevalence of anemia among pregnant women (%),high
+Austria,Prevalence of anemia among pregnant women (%),high
+Sweden,Prevalence of anemia among pregnant women (%),high
+Armenia,Prevalence of anemia among pregnant women (%),high
+St. Kitts and Nevis,Prevalence of anemia among pregnant women (%),high
+Israel,Prevalence of anemia among pregnant women (%),high
+Cyprus,Prevalence of anemia among pregnant women (%),high
+China,Prevalence of anemia among pregnant women (%),high
+Malta,Prevalence of anemia among pregnant women (%),high
+Brazil,Prevalence of anemia among pregnant women (%),high
+St. Lucia,Prevalence of anemia among pregnant women (%),high
+Spain,Prevalence of anemia among pregnant women (%),high
+Italy,Prevalence of anemia among pregnant women (%),high
+Portugal,Prevalence of anemia among pregnant women (%),high
+Chile,Prevalence of anemia among pregnant women (%),high
+Trinidad and Tobago,Prevalence of anemia among pregnant women (%),high
+Antigua and Barbuda,Prevalence of anemia among pregnant women (%),high
+Barbados,Prevalence of anemia among pregnant women (%),mediumHigh
+Mexico,Prevalence of anemia among pregnant women (%),mediumHigh
+Greece,Prevalence of anemia among pregnant women (%),mediumHigh
+Argentina,Prevalence of anemia among pregnant women (%),mediumHigh
+Montenegro,Prevalence of anemia among pregnant women (%),mediumHigh
+Belize,Prevalence of anemia among pregnant women (%),mediumHigh
+St. Vincent and the Grenadines,Prevalence of anemia among pregnant women (%),mediumHigh
+Lithuania,Prevalence of anemia among pregnant women (%),mediumHigh
+Honduras,Prevalence of anemia among pregnant women (%),mediumHigh
+Colombia,Prevalence of anemia among pregnant women (%),mediumHigh
+Cuba,Prevalence of anemia among pregnant women (%),mediumHigh
+Ecuador,Prevalence of anemia among pregnant women (%),mediumHigh
+Grenada,Prevalence of anemia among pregnant women (%),mediumHigh
+Hungary,Prevalence of anemia among pregnant women (%),mediumHigh
+Panama,Prevalence of anemia among pregnant women (%),mediumHigh
+Brunei Darussalam,Prevalence of anemia among pregnant women (%),mediumHigh
+Czech Republic,Prevalence of anemia among pregnant women (%),mediumHigh
+Jamaica,Prevalence of anemia among pregnant women (%),mediumHigh
+Slovenia,Prevalence of anemia among pregnant women (%),mediumHigh
+Latvia,Prevalence of anemia among pregnant women (%),mediumHigh
+Ukraine,Prevalence of anemia among pregnant women (%),mediumHigh
+Croatia,Prevalence of anemia among pregnant women (%),mediumHigh
+Estonia,Prevalence of anemia among pregnant women (%),mediumHigh
+Dominica,Prevalence of anemia among pregnant women (%),mediumHigh
+Japan,Prevalence of anemia among pregnant women (%),mediumHigh
+Russian Federation,Prevalence of anemia among pregnant women (%),mediumHigh
+Rwanda,Prevalence of anemia among pregnant women (%),mediumHigh
+Kuwait,Prevalence of anemia among pregnant women (%),mediumHigh
+United Arab Emirates,Prevalence of anemia among pregnant women (%),mediumHigh
+Iran Islamic Rep.,Prevalence of anemia among pregnant women (%),mediumHigh
+Nicaragua,Prevalence of anemia among pregnant women (%),mediumHigh
+Belarus,Prevalence of anemia among pregnant women (%),mediumHigh
+Suriname,Prevalence of anemia among pregnant women (%),mediumHigh
+Slovak Republic,Prevalence of anemia among pregnant women (%),mediumHigh
+Albania,Prevalence of anemia among pregnant women (%),mediumHigh
+Mongolia,Prevalence of anemia among pregnant women (%),medium
+Serbia,Prevalence of anemia among pregnant women (%),medium
+Romania,Prevalence of anemia among pregnant women (%),medium
+Paraguay,Prevalence of anemia among pregnant women (%),medium
+Uruguay,Prevalence of anemia among pregnant women (%),medium
+Philippines,Prevalence of anemia among pregnant women (%),medium
+North Macedonia,Prevalence of anemia among pregnant women (%),medium
+Bulgaria,Prevalence of anemia among pregnant women (%),medium
+Egypt Arab Rep.,Prevalence of anemia among pregnant women (%),medium
+Venezuela RB,Prevalence of anemia among pregnant women (%),medium
+Qatar,Prevalence of anemia among pregnant women (%),medium
+Peru,Prevalence of anemia among pregnant women (%),medium
+Bosnia and Herzegovina,Prevalence of anemia among pregnant women (%),medium
+Saudi Arabia,Prevalence of anemia among pregnant women (%),medium
+Seychelles,Prevalence of anemia among pregnant women (%),medium
+Dominican Republic,Prevalence of anemia among pregnant women (%),medium
+Moldova,Prevalence of anemia among pregnant women (%),medium
+Mauritius,Prevalence of anemia among pregnant women (%),medium
+Vanuatu,Prevalence of anemia among pregnant women (%),medium
+Lebanon,Prevalence of anemia among pregnant women (%),medium
+Turkmenistan,Prevalence of anemia among pregnant women (%),medium
+Georgia,Prevalence of anemia among pregnant women (%),medium
+Vietnam,Prevalence of anemia among pregnant women (%),medium
+Namibia,Prevalence of anemia among pregnant women (%),medium
+Ethiopia,Prevalence of anemia among pregnant women (%),medium
+Libya,Prevalence of anemia among pregnant women (%),medium
+Oman,Prevalence of anemia among pregnant women (%),medium
+Tunisia,Prevalence of anemia among pregnant women (%),medium
+South Africa,Prevalence of anemia among pregnant women (%),medium
+Iraq,Prevalence of anemia among pregnant women (%),medium
+Malaysia,Prevalence of anemia among pregnant women (%),medium
+Kazakhstan,Prevalence of anemia among pregnant women (%),medium
+Botswana,Prevalence of anemia among pregnant women (%),medium
+Zimbabwe,Prevalence of anemia among pregnant women (%),medium
+Eswatini,Prevalence of anemia among pregnant women (%),medium
+Thailand,Prevalence of anemia among pregnant women (%),medium
+Morocco,Prevalence of anemia among pregnant women (%),medium
+Guyana,Prevalence of anemia among pregnant women (%),medium
+Algeria,Prevalence of anemia among pregnant women (%),mediumLow
+Syrian Arab Republic,Prevalence of anemia among pregnant women (%),mediumLow
+Lesotho,Prevalence of anemia among pregnant women (%),mediumLow
+Bahrain,Prevalence of anemia among pregnant women (%),mediumLow
+Bolivia,Prevalence of anemia among pregnant women (%),mediumLow
+Jordan,Prevalence of anemia among pregnant women (%),mediumLow
+Cabo Verde,Prevalence of anemia among pregnant women (%),mediumLow
+Tuvalu,Prevalence of anemia among pregnant women (%),mediumLow
+Palau,Prevalence of anemia among pregnant women (%),mediumLow
+Sri Lanka,Prevalence of anemia among pregnant women (%),mediumLow
+Uzbekistan,Prevalence of anemia among pregnant women (%),mediumLow
+Azerbaijan,Prevalence of anemia among pregnant women (%),mediumLow
+Micronesia Fed. Sts.,Prevalence of anemia among pregnant women (%),mediumLow
+Nauru,Prevalence of anemia among pregnant women (%),mediumLow
+Kyrgyz Republic,Prevalence of anemia among pregnant women (%),mediumLow
+Afghanistan,Prevalence of anemia among pregnant women (%),mediumLow
+Tonga,Prevalence of anemia among pregnant women (%),mediumLow
+Sudan,Prevalence of anemia among pregnant women (%),mediumLow
+Djibouti,Prevalence of anemia among pregnant women (%),mediumLow
+Timor-Leste,Prevalence of anemia among pregnant women (%),mediumLow
+Comoros,Prevalence of anemia among pregnant women (%),mediumLow
+Bhutan,Prevalence of anemia among pregnant women (%),mediumLow
+Tajikistan,Prevalence of anemia among pregnant women (%),mediumLow
+Korea Dem. People\'s Rep.,Prevalence of anemia among pregnant women (%),mediumLow
+Uganda,Prevalence of anemia among pregnant women (%),mediumLow
+Zambia,Prevalence of anemia among pregnant women (%),mediumLow
+Madagascar,Prevalence of anemia among pregnant women (%),mediumLow
+Malawi,Prevalence of anemia among pregnant women (%),mediumLow
+Samoa,Prevalence of anemia among pregnant women (%),mediumLow
+Marshall Islands,Prevalence of anemia among pregnant women (%),mediumLow
+South Sudan,Prevalence of anemia among pregnant women (%),mediumLow
+Kenya,Prevalence of anemia among pregnant women (%),mediumLow
+Eritrea,Prevalence of anemia among pregnant women (%),mediumLow
+Fiji,Prevalence of anemia among pregnant women (%),mediumLow
+Kiribati,Prevalence of anemia among pregnant women (%),mediumLow
+Bangladesh,Prevalence of anemia among pregnant women (%),mediumLow
+Nepal,Prevalence of anemia among pregnant women (%),mediumLow
+Pakistan,Prevalence of anemia among pregnant women (%),mediumLow
+Papua New Guinea,Prevalence of anemia among pregnant women (%),low
+Burundi,Prevalence of anemia among pregnant women (%),low
+Indonesia,Prevalence of anemia among pregnant women (%),low
+Cameroon,Prevalence of anemia among pregnant women (%),low
+Chad,Prevalence of anemia among pregnant women (%),low
+Mozambique,Prevalence of anemia among pregnant women (%),low
+Congo Dem. Rep.,Prevalence of anemia among pregnant women (%),low
+Lao PDR,Prevalence of anemia among pregnant women (%),low
+Ghana,Prevalence of anemia among pregnant women (%),low
+Myanmar,Prevalence of anemia among pregnant women (%),low
+Tanzania,Prevalence of anemia among pregnant women (%),low
+Equatorial Guinea,Prevalence of anemia among pregnant women (%),low
+Angola,Prevalence of anemia among pregnant women (%),low
+Somalia,Prevalence of anemia among pregnant women (%),low
+Haiti,Prevalence of anemia among pregnant women (%),low
+Mauritania,Prevalence of anemia among pregnant women (%),low
+Solomon Islands,Prevalence of anemia among pregnant women (%),low
+Maldives,Prevalence of anemia among pregnant women (%),low
+Liberia,Prevalence of anemia among pregnant women (%),low
+India,Prevalence of anemia among pregnant women (%),low
+São Tomé and Principe,Prevalence of anemia among pregnant women (%),low
+Congo Rep.,Prevalence of anemia among pregnant women (%),low
+Cambodia,Prevalence of anemia among pregnant women (%),low
+Central African Republic,Prevalence of anemia among pregnant women (%),low
+Guinea-Bissau,Prevalence of anemia among pregnant women (%),low
+Gabon,Prevalence of anemia among pregnant women (%),low
+Guinea,Prevalence of anemia among pregnant women (%),low
+Togo,Prevalence of anemia among pregnant women (%),low
+Côte d\'Ivoire,Prevalence of anemia among pregnant women (%),low
+Sierra Leone,Prevalence of anemia among pregnant women (%),low
+Niger,Prevalence of anemia among pregnant women (%),low
+Gambia The,Prevalence of anemia among pregnant women (%),low
+Burkina Faso,Prevalence of anemia among pregnant women (%),low
+Nigeria,Prevalence of anemia among pregnant women (%),low
+Senegal,Prevalence of anemia among pregnant women (%),low
+Yemen Rep.,Prevalence of anemia among pregnant women (%),low
+Benin,Prevalence of anemia among pregnant women (%),low
+Mali,Prevalence of anemia among pregnant women (%),low
+Central African Republic,Life expectancy at birth total (years),low
+Chad,Life expectancy at birth total (years),low
+Lesotho,Life expectancy at birth total (years),low
+Nigeria,Life expectancy at birth total (years),low
+Sierra Leone,Life expectancy at birth total (years),low
+Somalia,Life expectancy at birth total (years),low
+Côte d\'Ivoire,Life expectancy at birth total (years),low
+South Sudan,Life expectancy at birth total (years),low
+Guinea-Bissau,Life expectancy at birth total (years),low
+Equatorial Guinea,Life expectancy at birth total (years),low
+Cameroon,Life expectancy at birth total (years),low
+Mali,Life expectancy at birth total (years),low
+Eswatini,Life expectancy at birth total (years),low
+Congo Dem. Rep.,Life expectancy at birth total (years),low
+Mozambique,Life expectancy at birth total (years),low
+Togo,Life expectancy at birth total (years),low
+Angola,Life expectancy at birth total (years),low
+Zimbabwe,Life expectancy at birth total (years),low
+Burkina Faso,Life expectancy at birth total (years),low
+Burundi,Life expectancy at birth total (years),low
+Guinea,Life expectancy at birth total (years),low
+Benin,Life expectancy at birth total (years),low
+Gambia The,Life expectancy at birth total (years),low
+Niger,Life expectancy at birth total (years),low
+Uganda,Life expectancy at birth total (years),low
+Namibia,Life expectancy at birth total (years),low
+Zambia,Life expectancy at birth total (years),low
+Haiti,Life expectancy at birth total (years),low
+Ghana,Life expectancy at birth total (years),low
+Liberia,Life expectancy at birth total (years),low
+South Africa,Life expectancy at birth total (years),low
+Malawi,Life expectancy at birth total (years),low
+Comoros,Life expectancy at birth total (years),low
+Papua New Guinea,Life expectancy at birth total (years),low
+Congo Rep.,Life expectancy at birth total (years),low
+Afghanistan,Life expectancy at birth total (years),low
+Mauritania,Life expectancy at birth total (years),low
+Sudan,Life expectancy at birth total (years),low
+Tanzania,Life expectancy at birth total (years),low
+Yemen Rep.,Life expectancy at birth total (years),low
+Eritrea,Life expectancy at birth total (years),mediumLow
+Gabon,Life expectancy at birth total (years),mediumLow
+Ethiopia,Life expectancy at birth total (years),mediumLow
+Kenya,Life expectancy at birth total (years),mediumLow
+Madagascar,Life expectancy at birth total (years),mediumLow
+Djibouti,Life expectancy at birth total (years),mediumLow
+Myanmar,Life expectancy at birth total (years),mediumLow
+Pakistan,Life expectancy at birth total (years),mediumLow
+Fiji,Life expectancy at birth total (years),mediumLow
+Micronesia Fed. Sts.,Life expectancy at birth total (years),mediumLow
+Lao PDR,Life expectancy at birth total (years),mediumLow
+Senegal,Life expectancy at birth total (years),mediumLow
+Turkmenistan,Life expectancy at birth total (years),mediumLow
+Kiribati,Life expectancy at birth total (years),mediumLow
+Rwanda,Life expectancy at birth total (years),mediumLow
+Timor-Leste,Life expectancy at birth total (years),mediumLow
+Botswana,Life expectancy at birth total (years),mediumLow
+India,Life expectancy at birth total (years),mediumLow
+Cambodia,Life expectancy at birth total (years),mediumLow
+Mongolia,Life expectancy at birth total (years),mediumLow
+Guyana,Life expectancy at birth total (years),mediumLow
+São Tomé and Principe,Life expectancy at birth total (years),mediumLow
+Vanuatu,Life expectancy at birth total (years),mediumLow
+Iraq,Life expectancy at birth total (years),mediumLow
+Nepal,Life expectancy at birth total (years),mediumLow
+Tonga,Life expectancy at birth total (years),mediumLow
+Tajikistan,Life expectancy at birth total (years),mediumLow
+Philippines,Life expectancy at birth total (years),mediumLow
+Bolivia,Life expectancy at birth total (years),mediumLow
+Kyrgyz Republic,Life expectancy at birth total (years),mediumLow
+Suriname,Life expectancy at birth total (years),mediumLow
+Indonesia,Life expectancy at birth total (years),mediumLow
+Uzbekistan,Life expectancy at birth total (years),mediumLow
+Bhutan,Life expectancy at birth total (years),mediumLow
+Ukraine,Life expectancy at birth total (years),mediumLow
+Moldova,Life expectancy at birth total (years),mediumLow
+Egypt Arab Rep.,Life expectancy at birth total (years),mediumLow
+Greenland,Life expectancy at birth total (years),mediumLow
+Venezuela RB,Life expectancy at birth total (years),mediumLow
+Korea Dem. People\'s Rep.,Life expectancy at birth total (years),mediumLow
+Grenada,Life expectancy at birth total (years),medium
+St. Vincent and the Grenadines,Life expectancy at birth total (years),medium
+Bangladesh,Life expectancy at birth total (years),medium
+Syrian Arab Republic,Life expectancy at birth total (years),medium
+Libya,Life expectancy at birth total (years),medium
+Cabo Verde,Life expectancy at birth total (years),medium
+Solomon Islands,Life expectancy at birth total (years),medium
+Azerbaijan,Life expectancy at birth total (years),medium
+Russian Federation,Life expectancy at birth total (years),medium
+Kazakhstan,Life expectancy at birth total (years),medium
+El Salvador,Life expectancy at birth total (years),medium
+Samoa,Life expectancy at birth total (years),medium
+Trinidad and Tobago,Life expectancy at birth total (years),medium
+Georgia,Life expectancy at birth total (years),medium
+Bahamas The,Life expectancy at birth total (years),medium
+Seychelles,Life expectancy at birth total (years),medium
+West Bank and Gaza,Life expectancy at birth total (years),medium
+Dominican Republic,Life expectancy at birth total (years),medium
+Belarus,Life expectancy at birth total (years),medium
+Mauritius,Life expectancy at birth total (years),medium
+Paraguay,Life expectancy at birth total (years),medium
+Guatemala,Life expectancy at birth total (years),medium
+Jamaica,Life expectancy at birth total (years),medium
+Nicaragua,Life expectancy at birth total (years),medium
+Jordan,Life expectancy at birth total (years),medium
+Belize,Life expectancy at birth total (years),medium
+Mexico,Life expectancy at birth total (years),medium
+Armenia,Life expectancy at birth total (years),medium
+Bulgaria,Life expectancy at birth total (years),medium
+Saudi Arabia,Life expectancy at birth total (years),medium
+Honduras,Life expectancy at birth total (years),medium
+Latvia,Life expectancy at birth total (years),medium
+Vietnam,Life expectancy at birth total (years),medium
+Kuwait,Life expectancy at birth total (years),medium
+Romania,Life expectancy at birth total (years),medium
+Brunei Darussalam,Life expectancy at birth total (years),medium
+Brazil,Life expectancy at birth total (years),medium
+Serbia,Life expectancy at birth total (years),medium
+Malaysia,Life expectancy at birth total (years),medium
+St. Lucia,Life expectancy at birth total (years),mediumHigh
+Lithuania,Life expectancy at birth total (years),mediumHigh
+Aruba,Life expectancy at birth total (years),mediumHigh
+Hungary,Life expectancy at birth total (years),mediumHigh
+North Macedonia,Life expectancy at birth total (years),mediumHigh
+Argentina,Life expectancy at birth total (years),mediumHigh
+Iran Islamic Rep.,Life expectancy at birth total (years),mediumHigh
+Morocco,Life expectancy at birth total (years),mediumHigh
+Montenegro,Life expectancy at birth total (years),mediumHigh
+Tunisia,Life expectancy at birth total (years),mediumHigh
+Peru,Life expectancy at birth total (years),mediumHigh
+Algeria,Life expectancy at birth total (years),mediumHigh
+China,Life expectancy at birth total (years),mediumHigh
+Sri Lanka,Life expectancy at birth total (years),mediumHigh
+Ecuador,Life expectancy at birth total (years),mediumHigh
+Antigua and Barbuda,Life expectancy at birth total (years),mediumHigh
+Thailand,Life expectancy at birth total (years),mediumHigh
+Colombia,Life expectancy at birth total (years),mediumHigh
+Bahrain,Life expectancy at birth total (years),mediumHigh
+Bosnia and Herzegovina,Life expectancy at birth total (years),mediumHigh
+New Caledonia,Life expectancy at birth total (years),mediumHigh
+French Polynesia,Life expectancy at birth total (years),mediumHigh
+Slovak Republic,Life expectancy at birth total (years),mediumHigh
+Türkiye,Life expectancy at birth total (years),mediumHigh
+Oman,Life expectancy at birth total (years),mediumHigh
+Poland,Life expectancy at birth total (years),mediumHigh
+Uruguay,Life expectancy at birth total (years),mediumHigh
+United Arab Emirates,Life expectancy at birth total (years),mediumHigh
+Croatia,Life expectancy at birth total (years),mediumHigh
+Panama,Life expectancy at birth total (years),mediumHigh
+Albania,Life expectancy at birth total (years),mediumHigh
+Estonia,Life expectancy at birth total (years),mediumHigh
+United States,Life expectancy at birth total (years),mediumHigh
+Cuba,Life expectancy at birth total (years),mediumHigh
+Maldives,Life expectancy at birth total (years),mediumHigh
+Lebanon,Life expectancy at birth total (years),mediumHigh
+Barbados,Life expectancy at birth total (years),mediumHigh
+Czech Republic,Life expectancy at birth total (years),mediumHigh
+Virgin Islands (U.S.),Life expectancy at birth total (years),mediumHigh
+Puerto Rico,Life expectancy at birth total (years),high
+St. Martin (French part),Life expectancy at birth total (years),high
+Guam,Life expectancy at birth total (years),high
+Chile,Life expectancy at birth total (years),high
+Qatar,Life expectancy at birth total (years),high
+Costa Rica,Life expectancy at birth total (years),high
+Cyprus,Life expectancy at birth total (years),high
+United Kingdom,Life expectancy at birth total (years),high
+Germany,Life expectancy at birth total (years),high
+Denmark,Life expectancy at birth total (years),high
+Slovenia,Life expectancy at birth total (years),high
+Greece,Life expectancy at birth total (years),high
+Portugal,Life expectancy at birth total (years),high
+New Zealand,Life expectancy at birth total (years),high
+Bermuda,Life expectancy at birth total (years),high
+Austria,Life expectancy at birth total (years),high
+Finland,Life expectancy at birth total (years),high
+Belgium,Life expectancy at birth total (years),high
+Canada,Life expectancy at birth total (years),high
+Netherlands,Life expectancy at birth total (years),high
+Luxembourg,Life expectancy at birth total (years),high
+Ireland,Life expectancy at birth total (years),high
+Faroe Islands,Life expectancy at birth total (years),high
+Israel,Life expectancy at birth total (years),high
+France,Life expectancy at birth total (years),high
+Malta,Life expectancy at birth total (years),high
+Australia,Life expectancy at birth total (years),high
+Norway,Life expectancy at birth total (years),high
+Sweden,Life expectancy at birth total (years),high
+Iceland,Life expectancy at birth total (years),high
+Korea Rep.,Life expectancy at birth total (years),high
+Italy,Life expectancy at birth total (years),high
+Singapore,Life expectancy at birth total (years),high
+Spain,Life expectancy at birth total (years),high
+Switzerland,Life expectancy at birth total (years),high
+Liechtenstein,Life expectancy at birth total (years),high
+Macao SAR China,Life expectancy at birth total (years),high
+Japan,Life expectancy at birth total (years),high
+Hong Kong SAR China,Life expectancy at birth total (years),high
+Ethiopia,People using at least basic sanitation services (% of population),low
+Chad,People using at least basic sanitation services (% of population),low
+Madagascar,People using at least basic sanitation services (% of population),low
+Niger,People using at least basic sanitation services (% of population),low
+Central African Republic,People using at least basic sanitation services (% of population),low
+South Sudan,People using at least basic sanitation services (% of population),low
+Congo Dem. Rep.,People using at least basic sanitation services (% of population),low
+Sierra Leone,People using at least basic sanitation services (% of population),low
+Benin,People using at least basic sanitation services (% of population),low
+Guinea-Bissau,People using at least basic sanitation services (% of population),low
+Liberia,People using at least basic sanitation services (% of population),low
+Togo,People using at least basic sanitation services (% of population),low
+Papua New Guinea,People using at least basic sanitation services (% of population),low
+Uganda,People using at least basic sanitation services (% of population),low
+Congo Rep.,People using at least basic sanitation services (% of population),low
+Burkina Faso,People using at least basic sanitation services (% of population),low
+Ghana,People using at least basic sanitation services (% of population),low
+Malawi,People using at least basic sanitation services (% of population),low
+Guinea,People using at least basic sanitation services (% of population),low
+Zambia,People using at least basic sanitation services (% of population),low
+Tanzania,People using at least basic sanitation services (% of population),low
+Kenya,People using at least basic sanitation services (% of population),low
+Côte d\'Ivoire,People using at least basic sanitation services (% of population),low
+Solomon Islands,People using at least basic sanitation services (% of population),low
+Namibia,People using at least basic sanitation services (% of population),low
+Mozambique,People using at least basic sanitation services (% of population),low
+Zimbabwe,People using at least basic sanitation services (% of population),low
+Comoros,People using at least basic sanitation services (% of population),low
+Sudan,People using at least basic sanitation services (% of population),low
+Haiti,People using at least basic sanitation services (% of population),low
+Somalia,People using at least basic sanitation services (% of population),low
+Nigeria,People using at least basic sanitation services (% of population),low
+Mali,People using at least basic sanitation services (% of population),low
+Cameroon,People using at least basic sanitation services (% of population),low
+Kiribati,People using at least basic sanitation services (% of population),low
+Burundi,People using at least basic sanitation services (% of population),low
+São Tomé and Principe,People using at least basic sanitation services (% of population),low
+Gambia The,People using at least basic sanitation services (% of population),low
+Lesotho,People using at least basic sanitation services (% of population),low
+Afghanistan,People using at least basic sanitation services (% of population),mediumLow
+Mauritania,People using at least basic sanitation services (% of population),mediumLow
+Gabon,People using at least basic sanitation services (% of population),mediumLow
+Angola,People using at least basic sanitation services (% of population),mediumLow
+Vanuatu,People using at least basic sanitation services (% of population),mediumLow
+Bangladesh,People using at least basic sanitation services (% of population),mediumLow
+Yemen Rep.,People using at least basic sanitation services (% of population),mediumLow
+American Samoa,People using at least basic sanitation services (% of population),mediumLow
+Timor-Leste,People using at least basic sanitation services (% of population),mediumLow
+Senegal,People using at least basic sanitation services (% of population),mediumLow
+Bolivia,People using at least basic sanitation services (% of population),mediumLow
+Eswatini,People using at least basic sanitation services (% of population),mediumLow
+Cambodia,People using at least basic sanitation services (% of population),mediumLow
+Mongolia,People using at least basic sanitation services (% of population),mediumLow
+Pakistan,People using at least basic sanitation services (% of population),mediumLow
+Djibouti,People using at least basic sanitation services (% of population),mediumLow
+Guatemala,People using at least basic sanitation services (% of population),mediumLow
+India,People using at least basic sanitation services (% of population),mediumLow
+Rwanda,People using at least basic sanitation services (% of population),mediumLow
+Nepal,People using at least basic sanitation services (% of population),mediumLow
+Nicaragua,People using at least basic sanitation services (% of population),mediumLow
+Myanmar,People using at least basic sanitation services (% of population),mediumLow
+Bhutan,People using at least basic sanitation services (% of population),mediumLow
+Cabo Verde,People using at least basic sanitation services (% of population),mediumLow
+South Africa,People using at least basic sanitation services (% of population),mediumLow
+Peru,People using at least basic sanitation services (% of population),mediumLow
+Moldova,People using at least basic sanitation services (% of population),mediumLow
+Northern Mariana Islands,People using at least basic sanitation services (% of population),mediumLow
+Lao PDR,People using at least basic sanitation services (% of population),mediumLow
+Botswana,People using at least basic sanitation services (% of population),mediumLow
+Philippines,People using at least basic sanitation services (% of population),mediumLow
+El Salvador,People using at least basic sanitation services (% of population),mediumLow
+Honduras,People using at least basic sanitation services (% of population),mediumLow
+St. Lucia,People using at least basic sanitation services (% of population),mediumLow
+Panama,People using at least basic sanitation services (% of population),mediumLow
+Indonesia,People using at least basic sanitation services (% of population),mediumLow
+Marshall Islands,People using at least basic sanitation services (% of population),mediumLow
+Korea Dem. People\'s Rep.,People using at least basic sanitation services (% of population),mediumLow
+Guyana,People using at least basic sanitation services (% of population),mediumLow
+Georgia,People using at least basic sanitation services (% of population),medium
+Bulgaria,People using at least basic sanitation services (% of population),medium
+Algeria,People using at least basic sanitation services (% of population),medium
+Romania,People using at least basic sanitation services (% of population),medium
+Morocco,People using at least basic sanitation services (% of population),medium
+Jamaica,People using at least basic sanitation services (% of population),medium
+Dominican Republic,People using at least basic sanitation services (% of population),medium
+Vietnam,People using at least basic sanitation services (% of population),medium
+Belize,People using at least basic sanitation services (% of population),medium
+Micronesia Fed. Sts.,People using at least basic sanitation services (% of population),medium
+Russian Federation,People using at least basic sanitation services (% of population),medium
+Suriname,People using at least basic sanitation services (% of population),medium
+Brazil,People using at least basic sanitation services (% of population),medium
+Syrian Arab Republic,People using at least basic sanitation services (% of population),medium
+Iran Islamic Rep.,People using at least basic sanitation services (% of population),medium
+Ecuador,People using at least basic sanitation services (% of population),medium
+China,People using at least basic sanitation services (% of population),medium
+Cuba,People using at least basic sanitation services (% of population),medium
+Ireland,People using at least basic sanitation services (% of population),medium
+Mexico,People using at least basic sanitation services (% of population),medium
+Paraguay,People using at least basic sanitation services (% of population),medium
+Libya,People using at least basic sanitation services (% of population),medium
+Latvia,People using at least basic sanitation services (% of population),medium
+Colombia,People using at least basic sanitation services (% of population),medium
+Tonga,People using at least basic sanitation services (% of population),medium
+Sri Lanka,People using at least basic sanitation services (% of population),medium
+Armenia,People using at least basic sanitation services (% of population),medium
+Trinidad and Tobago,People using at least basic sanitation services (% of population),medium
+Lithuania,People using at least basic sanitation services (% of population),medium
+Bahamas The,People using at least basic sanitation services (% of population),medium
+Venezuela RB,People using at least basic sanitation services (% of population),medium
+Azerbaijan,People using at least basic sanitation services (% of population),medium
+Tunisia,People using at least basic sanitation services (% of population),medium
+Hong Kong SAR China,People using at least basic sanitation services (% of population),medium
+Croatia,People using at least basic sanitation services (% of population),medium
+Samoa,People using at least basic sanitation services (% of population),medium
+Tajikistan,People using at least basic sanitation services (% of population),medium
+French Polynesia,People using at least basic sanitation services (% of population),medium
+Egypt Arab Rep.,People using at least basic sanitation services (% of population),mediumHigh
+Jordan,People using at least basic sanitation services (% of population),mediumHigh
+Montenegro,People using at least basic sanitation services (% of population),mediumHigh
+Slovak Republic,People using at least basic sanitation services (% of population),mediumHigh
+Luxembourg,People using at least basic sanitation services (% of population),mediumHigh
+Netherlands,People using at least basic sanitation services (% of population),mediumHigh
+Ukraine,People using at least basic sanitation services (% of population),mediumHigh
+Costa Rica,People using at least basic sanitation services (% of population),mediumHigh
+Uruguay,People using at least basic sanitation services (% of population),mediumHigh
+Kyrgyz Republic,People using at least basic sanitation services (% of population),mediumHigh
+North Macedonia,People using at least basic sanitation services (% of population),mediumHigh
+Kazakhstan,People using at least basic sanitation services (% of population),mediumHigh
+Belarus,People using at least basic sanitation services (% of population),mediumHigh
+Serbia,People using at least basic sanitation services (% of population),mediumHigh
+Hungary,People using at least basic sanitation services (% of population),mediumHigh
+Norway,People using at least basic sanitation services (% of population),mediumHigh
+Slovenia,People using at least basic sanitation services (% of population),mediumHigh
+Barbados,People using at least basic sanitation services (% of population),mediumHigh
+West Bank and Gaza,People using at least basic sanitation services (% of population),mediumHigh
+Maldives,People using at least basic sanitation services (% of population),mediumHigh
+Thailand,People using at least basic sanitation services (% of population),mediumHigh
+France,People using at least basic sanitation services (% of population),mediumHigh
+Türkiye,People using at least basic sanitation services (% of population),mediumHigh
+Iceland,People using at least basic sanitation services (% of population),mediumHigh
+Greece,People using at least basic sanitation services (% of population),mediumHigh
+Turkmenistan,People using at least basic sanitation services (% of population),mediumHigh
+Canada,People using at least basic sanitation services (% of population),mediumHigh
+Lebanon,People using at least basic sanitation services (% of population),mediumHigh
+United Kingdom,People using at least basic sanitation services (% of population),mediumHigh
+Czech Republic,People using at least basic sanitation services (% of population),mediumHigh
+Estonia,People using at least basic sanitation services (% of population),mediumHigh
+United Arab Emirates,People using at least basic sanitation services (% of population),mediumHigh
+Fiji,People using at least basic sanitation services (% of population),mediumHigh
+Albania,People using at least basic sanitation services (% of population),mediumHigh
+Germany,People using at least basic sanitation services (% of population),mediumHigh
+Sweden,People using at least basic sanitation services (% of population),mediumHigh
+Oman,People using at least basic sanitation services (% of population),mediumHigh
+Virgin Islands (U.S.),People using at least basic sanitation services (% of population),mediumHigh
+Cyprus,People using at least basic sanitation services (% of population),high
+Finland,People using at least basic sanitation services (% of population),high
+Iraq,People using at least basic sanitation services (% of population),high
+Belgium,People using at least basic sanitation services (% of population),high
+Greenland,People using at least basic sanitation services (% of population),high
+Denmark,People using at least basic sanitation services (% of population),high
+Portugal,People using at least basic sanitation services (% of population),high
+Palau,People using at least basic sanitation services (% of population),high
+United States,People using at least basic sanitation services (% of population),high
+Italy,People using at least basic sanitation services (% of population),high
+Switzerland,People using at least basic sanitation services (% of population),high
+Bermuda,People using at least basic sanitation services (% of population),high
+Spain,People using at least basic sanitation services (% of population),high
+Japan,People using at least basic sanitation services (% of population),high
+Korea Rep.,People using at least basic sanitation services (% of population),high
+Liechtenstein,People using at least basic sanitation services (% of population),high
+Israel,People using at least basic sanitation services (% of population),high
+Malta,People using at least basic sanitation services (% of population),high
+Austria,People using at least basic sanitation services (% of population),high
+Australia,People using at least basic sanitation services (% of population),high
+San Marino,People using at least basic sanitation services (% of population),high
+Puerto Rico,People using at least basic sanitation services (% of population),high
+Qatar,People using at least basic sanitation services (% of population),high
+Bahrain,People using at least basic sanitation services (% of population),high
+Saudi Arabia,People using at least basic sanitation services (% of population),high
+Kuwait,People using at least basic sanitation services (% of population),high
+Uzbekistan,People using at least basic sanitation services (% of population),high
+Seychelles,People using at least basic sanitation services (% of population),high
+New Zealand,People using at least basic sanitation services (% of population),high
+Chile,People using at least basic sanitation services (% of population),high
+Macao SAR China,People using at least basic sanitation services (% of population),high
+New Caledonia,People using at least basic sanitation services (% of population),high
+St. Martin (French part),People using at least basic sanitation services (% of population),high
+Monaco,People using at least basic sanitation services (% of population),high
+Andorra,People using at least basic sanitation services (% of population),high
+Gibraltar,People using at least basic sanitation services (% of population),high
+Poland,People using at least basic sanitation services (% of population),high
+Singapore,People using at least basic sanitation services (% of population),high
+Moldova,Population growth (annual %),low
+Venezuela RB,Population growth (annual %),low
+Curaçao,Population growth (annual %),low
+Italy,Population growth (annual %),low
+Bulgaria,Population growth (annual %),low
+Latvia,Population growth (annual %),low
+Bosnia and Herzegovina,Population growth (annual %),low
+Croatia,Population growth (annual %),low
+Serbia,Population growth (annual %),low
+Ukraine,Population growth (annual %),low
+Romania,Population growth (annual %),low
+Albania,Population growth (annual %),low
+Virgin Islands (U.S.),Population growth (annual %),low
+American Samoa,Population growth (annual %),low
+Lithuania,Population growth (annual %),low
+Belarus,Population growth (annual %),low
+Georgia,Population growth (annual %),low
+Japan,Population growth (annual %),low
+Greece,Population growth (annual %),low
+Lebanon,Population growth (annual %),low
+Russian Federation,Population growth (annual %),low
+Hungary,Population growth (annual %),low
+Cuba,Population growth (annual %),low
+Montenegro,Population growth (annual %),low
+Gibraltar,Population growth (annual %),low
+Poland,Population growth (annual %),low
+Bermuda,Population growth (annual %),low
+Puerto Rico,Population growth (annual %),low
+North Macedonia,Population growth (annual %),low
+Portugal,Population growth (annual %),low
+Mauritius,Population growth (annual %),low
+Finland,Population growth (annual %),low
+Barbados,Population growth (annual %),low
+Slovak Republic,Population growth (annual %),low
+Andorra,Population growth (annual %),low
+Armenia,Population growth (annual %),low
+France,Population growth (annual %),low
+Germany,Population growth (annual %),low
+San Marino,Population growth (annual %),low
+New Caledonia,Population growth (annual %),low
+Dominica,Population growth (annual %),low
+Liechtenstein,Population growth (annual %),low
+Thailand,Population growth (annual %),low
+St. Vincent and the Grenadines,Population growth (annual %),mediumLow
+Korea Rep.,Population growth (annual %),mediumLow
+China,Population growth (annual %),mediumLow
+Denmark,Population growth (annual %),mediumLow
+Greenland,Population growth (annual %),mediumLow
+Uruguay,Population growth (annual %),mediumLow
+Trinidad and Tobago,Population growth (annual %),mediumLow
+Estonia,Population growth (annual %),mediumLow
+Faroe Islands,Population growth (annual %),mediumLow
+Czech Republic,Population growth (annual %),mediumLow
+Aruba,Population growth (annual %),mediumLow
+Austria,Population growth (annual %),mediumLow
+Korea Dem. People\'s Rep.,Population growth (annual %),mediumLow
+United States,Population growth (annual %),mediumLow
+Jamaica,Population growth (annual %),mediumLow
+Guyana,Population growth (annual %),mediumLow
+Samoa,Population growth (annual %),mediumLow
+Grenada,Population growth (annual %),mediumLow
+St. Lucia,Population growth (annual %),mediumLow
+Palau,Population growth (annual %),mediumLow
+El Salvador,Population growth (annual %),mediumLow
+Belgium,Population growth (annual %),mediumLow
+United Kingdom,Population growth (annual %),mediumLow
+Northern Mariana Islands,Population growth (annual %),mediumLow
+French Polynesia,Population growth (annual %),mediumLow
+Sri Lanka,Population growth (annual %),mediumLow
+Isle of Man,Population growth (annual %),mediumLow
+Myanmar,Population growth (annual %),mediumLow
+Marshall Islands,Population growth (annual %),mediumLow
+Netherlands,Population growth (annual %),mediumLow
+Norway,Population growth (annual %),mediumLow
+Slovenia,Population growth (annual %),mediumLow
+Switzerland,Population growth (annual %),mediumLow
+Spain,Population growth (annual %),mediumLow
+Fiji,Population growth (annual %),mediumLow
+Monaco,Population growth (annual %),mediumLow
+Syrian Arab Republic,Population growth (annual %),mediumLow
+Hong Kong SAR China,Population growth (annual %),mediumLow
+Brazil,Population growth (annual %),mediumLow
+St. Kitts and Nevis,Population growth (annual %),mediumLow
+Cyprus,Population growth (annual %),mediumLow
+South Sudan,Population growth (annual %),mediumLow
+British Virgin Islands,Population growth (annual %),mediumLow
+Lesotho,Population growth (annual %),medium
+Nauru,Population growth (annual %),medium
+Azerbaijan,Population growth (annual %),medium
+Antigua and Barbuda,Population growth (annual %),medium
+Seychelles,Population growth (annual %),medium
+Guam,Population growth (annual %),medium
+Suriname,Population growth (annual %),medium
+Vietnam,Population growth (annual %),medium
+Costa Rica,Population growth (annual %),medium
+Argentina,Population growth (annual %),medium
+Bahamas The,Population growth (annual %),medium
+Brunei Darussalam,Population growth (annual %),medium
+India,Population growth (annual %),medium
+Sweden,Population growth (annual %),medium
+Bangladesh,Population growth (annual %),medium
+Micronesia Fed. Sts.,Population growth (annual %),medium
+Eswatini,Population growth (annual %),medium
+Dominican Republic,Population growth (annual %),medium
+Mexico,Population growth (annual %),medium
+Indonesia,Population growth (annual %),medium
+Tunisia,Population growth (annual %),medium
+Cabo Verde,Population growth (annual %),medium
+Singapore,Population growth (annual %),medium
+Bhutan,Population growth (annual %),medium
+Chile,Population growth (annual %),medium
+Cayman Islands,Population growth (annual %),medium
+Morocco,Population growth (annual %),medium
+Nicaragua,Population growth (annual %),medium
+Haiti,Population growth (annual %),medium
+Tonga,Population growth (annual %),medium
+Paraguay,Population growth (annual %),medium
+Kazakhstan,Population growth (annual %),medium
+Tuvalu,Population growth (annual %),medium
+Türkiye,Population growth (annual %),medium
+South Africa,Population growth (annual %),medium
+Malaysia,Population growth (annual %),medium
+Iran Islamic Rep.,Population growth (annual %),medium
+Colombia,Population growth (annual %),medium
+Jordan,Population growth (annual %),medium
+Philippines,Population growth (annual %),medium
+Ireland,Population growth (annual %),medium
+Macao SAR China,Population growth (annual %),medium
+Turks and Caicos Islands,Population growth (annual %),medium
+Bolivia,Population growth (annual %),mediumHigh
+Zimbabwe,Population growth (annual %),mediumHigh
+Canada,Population growth (annual %),mediumHigh
+United Arab Emirates,Population growth (annual %),mediumHigh
+Cambodia,Population growth (annual %),mediumHigh
+Libya,Population growth (annual %),mediumHigh
+Kiribati,Population growth (annual %),mediumHigh
+Djibouti,Population growth (annual %),mediumHigh
+Lao PDR,Population growth (annual %),mediumHigh
+Australia,Population growth (annual %),mediumHigh
+Turkmenistan,Population growth (annual %),mediumHigh
+Guatemala,Population growth (annual %),mediumHigh
+New Zealand,Population growth (annual %),mediumHigh
+Peru,Population growth (annual %),mediumHigh
+Honduras,Population growth (annual %),mediumHigh
+Panama,Population growth (annual %),mediumHigh
+Saudi Arabia,Population growth (annual %),mediumHigh
+Kuwait,Population growth (annual %),mediumHigh
+Central African Republic,Population growth (annual %),mediumHigh
+Ecuador,Population growth (annual %),mediumHigh
+Mongolia,Population growth (annual %),mediumHigh
+Sint Maarten (Dutch part),Population growth (annual %),mediumHigh
+Qatar,Population growth (annual %),mediumHigh
+Nepal,Population growth (annual %),mediumHigh
+Namibia,Population growth (annual %),mediumHigh
+Uzbekistan,Population growth (annual %),mediumHigh
+Belize,Population growth (annual %),mediumHigh
+São Tomé and Principe,Population growth (annual %),mediumHigh
+Israel,Population growth (annual %),mediumHigh
+Algeria,Population growth (annual %),mediumHigh
+Papua New Guinea,Population growth (annual %),mediumHigh
+St. Martin (French part),Population growth (annual %),mediumHigh
+Luxembourg,Population growth (annual %),mediumHigh
+Timor-Leste,Population growth (annual %),mediumHigh
+Egypt Arab Rep.,Population growth (annual %),mediumHigh
+Pakistan,Population growth (annual %),mediumHigh
+Kyrgyz Republic,Population growth (annual %),mediumHigh
+Sierra Leone,Population growth (annual %),mediumHigh
+Ghana,Population growth (annual %),mediumHigh
+Botswana,Population growth (annual %),mediumHigh
+Iceland,Population growth (annual %),mediumHigh
+Comoros,Population growth (annual %),mediumHigh
+Iraq,Population growth (annual %),mediumHigh
+Kenya,Population growth (annual %),high
+Yemen Rep.,Population growth (annual %),high
+Afghanistan,Population growth (annual %),high
+Tajikistan,Population growth (annual %),high
+Sudan,Population growth (annual %),high
+Togo,Population growth (annual %),high
+Liberia,Population growth (annual %),high
+Vanuatu,Population growth (annual %),high
+Guinea-Bissau,Population growth (annual %),high
+Gabon,Population growth (annual %),high
+West Bank and Gaza,Population growth (annual %),high
+Côte d\'Ivoire,Population growth (annual %),high
+Congo Rep.,Population growth (annual %),high
+Nigeria,Population growth (annual %),high
+Solomon Islands,Population growth (annual %),high
+Ethiopia,Population growth (annual %),high
+Cameroon,Population growth (annual %),high
+Rwanda,Population growth (annual %),high
+Malawi,Population growth (annual %),high
+Madagascar,Population growth (annual %),high
+Benin,Population growth (annual %),high
+Mauritania,Population growth (annual %),high
+Senegal,Population growth (annual %),high
+Guinea,Population growth (annual %),high
+Burkina Faso,Population growth (annual %),high
+Somalia,Population growth (annual %),high
+Zambia,Population growth (annual %),high
+Mozambique,Population growth (annual %),high
+Maldives,Population growth (annual %),high
+Gambia The,Population growth (annual %),high
+Tanzania,Population growth (annual %),high
+Oman,Population growth (annual %),high
+Chad,Population growth (annual %),high
+Mali,Population growth (annual %),high
+Burundi,Population growth (annual %),high
+Congo Dem. Rep.,Population growth (annual %),high
+Angola,Population growth (annual %),high
+Equatorial Guinea,Population growth (annual %),high
+Uganda,Population growth (annual %),high
+Niger,Population growth (annual %),high
+Malta,Population growth (annual %),high
+Bahrain,Population growth (annual %),high
+Japan,Incidence of HIV all (per 1000 uninfected population),high
+Jordan,Incidence of HIV all (per 1000 uninfected population),high
+Sri Lanka,Incidence of HIV all (per 1000 uninfected population),high
+Mongolia,Incidence of HIV all (per 1000 uninfected population),high
+Norway,Incidence of HIV all (per 1000 uninfected population),high
+Syrian Arab Republic,Incidence of HIV all (per 1000 uninfected population),high
+Comoros,Incidence of HIV all (per 1000 uninfected population),high
+Slovenia,Incidence of HIV all (per 1000 uninfected population),high
+Denmark,Incidence of HIV all (per 1000 uninfected population),high
+Croatia,Incidence of HIV all (per 1000 uninfected population),high
+Somalia,Incidence of HIV all (per 1000 uninfected population),high
+Morocco,Incidence of HIV all (per 1000 uninfected population),high
+Serbia,Incidence of HIV all (per 1000 uninfected population),high
+Singapore,Incidence of HIV all (per 1000 uninfected population),high
+Netherlands,Incidence of HIV all (per 1000 uninfected population),high
+New Zealand,Incidence of HIV all (per 1000 uninfected population),high
+Egypt Arab Rep.,Incidence of HIV all (per 1000 uninfected population),high
+Australia,Incidence of HIV all (per 1000 uninfected population),high
+Albania,Incidence of HIV all (per 1000 uninfected population),high
+Germany,Incidence of HIV all (per 1000 uninfected population),high
+Iran Islamic Rep.,Incidence of HIV all (per 1000 uninfected population),high
+Tunisia,Incidence of HIV all (per 1000 uninfected population),high
+Nepal,Incidence of HIV all (per 1000 uninfected population),high
+Lebanon,Incidence of HIV all (per 1000 uninfected population),high
+Romania,Incidence of HIV all (per 1000 uninfected population),high
+Algeria,Incidence of HIV all (per 1000 uninfected population),high
+Yemen Rep.,Incidence of HIV all (per 1000 uninfected population),high
+Azerbaijan,Incidence of HIV all (per 1000 uninfected population),high
+Iceland,Incidence of HIV all (per 1000 uninfected population),high
+Afghanistan,Incidence of HIV all (per 1000 uninfected population),high
+Montenegro,Incidence of HIV all (per 1000 uninfected population),high
+India,Incidence of HIV all (per 1000 uninfected population),high
+Guatemala,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Italy,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Niger,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Saudi Arabia,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Libya,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Qatar,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Greece,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Eritrea,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Vietnam,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Portugal,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Cambodia,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Honduras,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Senegal,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Ireland,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Spain,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Trinidad and Tobago,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Bolivia,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Uzbekistan,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Sudan,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Venezuela RB,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Burkina Faso,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Bhutan,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Armenia,Incidence of HIV all (per 1000 uninfected population),mediumHigh
+Indonesia,Incidence of HIV all (per 1000 uninfected population),medium
+Kyrgyz Republic,Incidence of HIV all (per 1000 uninfected population),medium
+Pakistan,Incidence of HIV all (per 1000 uninfected population),medium
+Timor-Leste,Incidence of HIV all (per 1000 uninfected population),medium
+United States,Incidence of HIV all (per 1000 uninfected population),medium
+Thailand,Incidence of HIV all (per 1000 uninfected population),medium
+Tajikistan,Incidence of HIV all (per 1000 uninfected population),medium
+Nicaragua,Incidence of HIV all (per 1000 uninfected population),medium
+United Arab Emirates,Incidence of HIV all (per 1000 uninfected population),medium
+Ecuador,Incidence of HIV all (per 1000 uninfected population),medium
+Paraguay,Incidence of HIV all (per 1000 uninfected population),medium
+Lao PDR,Incidence of HIV all (per 1000 uninfected population),medium
+Ethiopia,Incidence of HIV all (per 1000 uninfected population),medium
+Argentina,Incidence of HIV all (per 1000 uninfected population),medium
+Philippines,Incidence of HIV all (per 1000 uninfected population),medium
+Djibouti,Incidence of HIV all (per 1000 uninfected population),medium
+Peru,Incidence of HIV all (per 1000 uninfected population),medium
+El Salvador,Incidence of HIV all (per 1000 uninfected population),medium
+Belarus,Incidence of HIV all (per 1000 uninfected population),medium
+Mexico,Incidence of HIV all (per 1000 uninfected population),medium
+Burundi,Incidence of HIV all (per 1000 uninfected population),medium
+Estonia,Incidence of HIV all (per 1000 uninfected population),medium
+Fiji,Incidence of HIV all (per 1000 uninfected population),medium
+Georgia,Incidence of HIV all (per 1000 uninfected population),medium
+Malaysia,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Cuba,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Kazakhstan,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Uruguay,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Colombia,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Congo Dem. Rep.,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Madagascar,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Ukraine,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Brazil,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Benin,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Moldova,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Chad,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Chile,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Côte d\'Ivoire,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Mali,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Bahamas The,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Liberia,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Suriname,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Costa Rica,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Dominican Republic,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Rwanda,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Papua New Guinea,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Guyana,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Panama,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Nigeria,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Guinea,Incidence of HIV all (per 1000 uninfected population),mediumLow
+Togo,Incidence of HIV all (per 1000 uninfected population),low
+Haiti,Incidence of HIV all (per 1000 uninfected population),low
+Gabon,Incidence of HIV all (per 1000 uninfected population),low
+Belize,Incidence of HIV all (per 1000 uninfected population),low
+Jamaica,Incidence of HIV all (per 1000 uninfected population),low
+Cameroon,Incidence of HIV all (per 1000 uninfected population),low
+Ghana,Incidence of HIV all (per 1000 uninfected population),low
+Sierra Leone,Incidence of HIV all (per 1000 uninfected population),low
+Angola,Incidence of HIV all (per 1000 uninfected population),low
+Kenya,Incidence of HIV all (per 1000 uninfected population),low
+Mauritius,Incidence of HIV all (per 1000 uninfected population),low
+Gambia The,Incidence of HIV all (per 1000 uninfected population),low
+Guinea-Bissau,Incidence of HIV all (per 1000 uninfected population),low
+Uganda,Incidence of HIV all (per 1000 uninfected population),low
+Malawi,Incidence of HIV all (per 1000 uninfected population),low
+South Sudan,Incidence of HIV all (per 1000 uninfected population),low
+Tanzania,Incidence of HIV all (per 1000 uninfected population),low
+Congo Rep.,Incidence of HIV all (per 1000 uninfected population),low
+Zimbabwe,Incidence of HIV all (per 1000 uninfected population),low
+Namibia,Incidence of HIV all (per 1000 uninfected population),low
+Mozambique,Incidence of HIV all (per 1000 uninfected population),low
+Zambia,Incidence of HIV all (per 1000 uninfected population),low
+Botswana,Incidence of HIV all (per 1000 uninfected population),low
+South Africa,Incidence of HIV all (per 1000 uninfected population),low
+Lesotho,Incidence of HIV all (per 1000 uninfected population),low
+Eswatini,Incidence of HIV all (per 1000 uninfected population),low
+Slovak Republic,Gini index,low
+Slovenia,Gini index,low
+Czech Republic,Gini index,low
+Belarus,Gini index,low
+Moldova,Gini index,low
+Ukraine,Gini index,low
+Belgium,Gini index,low
+Norway,Gini index,low
+Denmark,Gini index,low
+Finland,Gini index,low
+Kiribati,Gini index,low
+Croatia,Gini index,low
+Netherlands,Gini index,mediumLow
+Maldives,Gini index,mediumLow
+Sweden,Gini index,mediumLow
+Kyrgyz Republic,Gini index,mediumLow
+Armenia,Gini index,mediumLow
+Hungary,Gini index,mediumLow
+Austria,Gini index,mediumLow
+Fiji,Gini index,mediumLow
+Albania,Gini index,mediumLow
+Estonia,Gini index,mediumLow
+Malta,Gini index,mediumLow
+Cyprus,Gini index,mediumLow
+Vanuatu,Gini index,medium
+Portugal,Gini index,medium
+Greece,Gini index,medium
+Luxembourg,Gini index,medium
+Spain,Gini index,medium
+Serbia,Gini index,medium
+Latvia,Gini index,medium
+Romania,Gini index,medium
+Thailand,Gini index,medium
+Lithuania,Gini index,medium
+Marshall Islands,Gini index,medium
+Georgia,Gini index,medium
+Indonesia,Gini index,mediumHigh
+Russian Federation,Gini index,mediumHigh
+China,Gini index,mediumHigh
+Malawi,Gini index,mediumHigh
+El Salvador,Gini index,mediumHigh
+Uruguay,Gini index,mediumHigh
+Bulgaria,Gini index,mediumHigh
+Iran Islamic Rep.,Gini index,mediumHigh
+United States,Gini index,mediumHigh
+Bolivia,Gini index,mediumHigh
+Peru,Gini index,mediumHigh
+Türkiye,Gini index,mediumHigh
+Dominican Republic,Gini index,mediumHigh
+Uganda,Gini index,high
+Argentina,Gini index,high
+Paraguay,Gini index,high
+Ecuador,Gini index,high
+Costa Rica,Gini index,high
+Honduras,Gini index,high
+Panama,Gini index,high
+Zimbabwe,Gini index,high
+Colombia,Gini index,high
+Brazil,Gini index,high
+Congo Dem. Rep.,CO2 emissions (metric tons per capita),high
+Somalia,CO2 emissions (metric tons per capita),high
+Central African Republic,CO2 emissions (metric tons per capita),high
+Burundi,CO2 emissions (metric tons per capita),high
+Malawi,CO2 emissions (metric tons per capita),high
+Niger,CO2 emissions (metric tons per capita),high
+Rwanda,CO2 emissions (metric tons per capita),high
+Sierra Leone,CO2 emissions (metric tons per capita),high
+Uganda,CO2 emissions (metric tons per capita),high
+Chad,CO2 emissions (metric tons per capita),high
+Madagascar,CO2 emissions (metric tons per capita),high
+South Sudan,CO2 emissions (metric tons per capita),high
+Afghanistan,CO2 emissions (metric tons per capita),high
+Ethiopia,CO2 emissions (metric tons per capita),high
+Guinea-Bissau,CO2 emissions (metric tons per capita),high
+Tanzania,CO2 emissions (metric tons per capita),high
+Liberia,CO2 emissions (metric tons per capita),high
+Burkina Faso,CO2 emissions (metric tons per capita),high
+Mozambique,CO2 emissions (metric tons per capita),high
+Gambia The,CO2 emissions (metric tons per capita),high
+Eritrea,CO2 emissions (metric tons per capita),high
+Togo,CO2 emissions (metric tons per capita),high
+Haiti,CO2 emissions (metric tons per capita),high
+Mali,CO2 emissions (metric tons per capita),high
+Guinea,CO2 emissions (metric tons per capita),high
+Lesotho,CO2 emissions (metric tons per capita),high
+Cameroon,CO2 emissions (metric tons per capita),high
+Comoros,CO2 emissions (metric tons per capita),high
+Yemen Rep.,CO2 emissions (metric tons per capita),high
+Zambia,CO2 emissions (metric tons per capita),high
+Côte d\'Ivoire,CO2 emissions (metric tons per capita),high
+Kenya,CO2 emissions (metric tons per capita),high
+Djibouti,CO2 emissions (metric tons per capita),high
+Nepal,CO2 emissions (metric tons per capita),high
+Timor-Leste,CO2 emissions (metric tons per capita),high
+Sudan,CO2 emissions (metric tons per capita),high
+Solomon Islands,CO2 emissions (metric tons per capita),high
+Bangladesh,CO2 emissions (metric tons per capita),high
+Nigeria,CO2 emissions (metric tons per capita),high
+Benin,CO2 emissions (metric tons per capita),mediumHigh
+Senegal,CO2 emissions (metric tons per capita),mediumHigh
+Ghana,CO2 emissions (metric tons per capita),mediumHigh
+Myanmar,CO2 emissions (metric tons per capita),mediumHigh
+São Tomé and Principe,CO2 emissions (metric tons per capita),mediumHigh
+Vanuatu,CO2 emissions (metric tons per capita),mediumHigh
+Kiribati,CO2 emissions (metric tons per capita),mediumHigh
+Angola,CO2 emissions (metric tons per capita),mediumHigh
+Nicaragua,CO2 emissions (metric tons per capita),mediumHigh
+Zimbabwe,CO2 emissions (metric tons per capita),mediumHigh
+Eswatini,CO2 emissions (metric tons per capita),mediumHigh
+Tuvalu,CO2 emissions (metric tons per capita),mediumHigh
+Papua New Guinea,CO2 emissions (metric tons per capita),mediumHigh
+Mauritania,CO2 emissions (metric tons per capita),mediumHigh
+Pakistan,CO2 emissions (metric tons per capita),mediumHigh
+Cambodia,CO2 emissions (metric tons per capita),mediumHigh
+Tajikistan,CO2 emissions (metric tons per capita),mediumHigh
+Honduras,CO2 emissions (metric tons per capita),mediumHigh
+Sri Lanka,CO2 emissions (metric tons per capita),mediumHigh
+Guatemala,CO2 emissions (metric tons per capita),mediumHigh
+Paraguay,CO2 emissions (metric tons per capita),mediumHigh
+Cabo Verde,CO2 emissions (metric tons per capita),mediumHigh
+El Salvador,CO2 emissions (metric tons per capita),mediumHigh
+Philippines,CO2 emissions (metric tons per capita),mediumHigh
+Congo Rep.,CO2 emissions (metric tons per capita),mediumHigh
+Bhutan,CO2 emissions (metric tons per capita),mediumHigh
+Syrian Arab Republic,CO2 emissions (metric tons per capita),mediumHigh
+Samoa,CO2 emissions (metric tons per capita),mediumHigh
+Tonga,CO2 emissions (metric tons per capita),mediumHigh
+Kyrgyz Republic,CO2 emissions (metric tons per capita),mediumHigh
+Micronesia Fed. Sts.,CO2 emissions (metric tons per capita),mediumHigh
+Colombia,CO2 emissions (metric tons per capita),mediumHigh
+Costa Rica,CO2 emissions (metric tons per capita),mediumHigh
+Belize,CO2 emissions (metric tons per capita),mediumHigh
+Namibia,CO2 emissions (metric tons per capita),mediumHigh
+Albania,CO2 emissions (metric tons per capita),mediumHigh
+Peru,CO2 emissions (metric tons per capita),mediumHigh
+India,CO2 emissions (metric tons per capita),mediumHigh
+Fiji,CO2 emissions (metric tons per capita),medium
+Uruguay,CO2 emissions (metric tons per capita),medium
+Bolivia,CO2 emissions (metric tons per capita),medium
+Morocco,CO2 emissions (metric tons per capita),medium
+Brazil,CO2 emissions (metric tons per capita),medium
+Armenia,CO2 emissions (metric tons per capita),medium
+Korea Dem. People\'s Rep.,CO2 emissions (metric tons per capita),medium
+Ecuador,CO2 emissions (metric tons per capita),medium
+Cuba,CO2 emissions (metric tons per capita),medium
+Indonesia,CO2 emissions (metric tons per capita),medium
+St. Vincent and the Grenadines,CO2 emissions (metric tons per capita),medium
+Dominica,CO2 emissions (metric tons per capita),medium
+Gabon,CO2 emissions (metric tons per capita),medium
+Jordan,CO2 emissions (metric tons per capita),medium
+Egypt Arab Rep.,CO2 emissions (metric tons per capita),medium
+Dominican Republic,CO2 emissions (metric tons per capita),medium
+Tunisia,CO2 emissions (metric tons per capita),medium
+Lao PDR,CO2 emissions (metric tons per capita),medium
+Georgia,CO2 emissions (metric tons per capita),medium
+Jamaica,CO2 emissions (metric tons per capita),medium
+Grenada,CO2 emissions (metric tons per capita),medium
+St. Lucia,CO2 emissions (metric tons per capita),medium
+Marshall Islands,CO2 emissions (metric tons per capita),medium
+Panama,CO2 emissions (metric tons per capita),medium
+Botswana,CO2 emissions (metric tons per capita),medium
+Malta,CO2 emissions (metric tons per capita),medium
+Mauritius,CO2 emissions (metric tons per capita),medium
+Moldova,CO2 emissions (metric tons per capita),medium
+Sweden,CO2 emissions (metric tons per capita),medium
+Uzbekistan,CO2 emissions (metric tons per capita),medium
+Vietnam,CO2 emissions (metric tons per capita),medium
+Mexico,CO2 emissions (metric tons per capita),medium
+Azerbaijan,CO2 emissions (metric tons per capita),medium
+Guyana,CO2 emissions (metric tons per capita),medium
+Argentina,CO2 emissions (metric tons per capita),medium
+Romania,CO2 emissions (metric tons per capita),medium
+Thailand,CO2 emissions (metric tons per capita),medium
+Ukraine,CO2 emissions (metric tons per capita),medium
+Venezuela RB,CO2 emissions (metric tons per capita),mediumLow
+Liechtenstein,CO2 emissions (metric tons per capita),mediumLow
+Equatorial Guinea,CO2 emissions (metric tons per capita),mediumLow
+Latvia,CO2 emissions (metric tons per capita),mediumLow
+Maldives,CO2 emissions (metric tons per capita),mediumLow
+Algeria,CO2 emissions (metric tons per capita),mediumLow
+North Macedonia,CO2 emissions (metric tons per capita),mediumLow
+Croatia,CO2 emissions (metric tons per capita),mediumLow
+Lebanon,CO2 emissions (metric tons per capita),mediumLow
+Montenegro,CO2 emissions (metric tons per capita),mediumLow
+Lithuania,CO2 emissions (metric tons per capita),mediumLow
+Portugal,CO2 emissions (metric tons per capita),mediumLow
+Barbados,CO2 emissions (metric tons per capita),mediumLow
+Switzerland,CO2 emissions (metric tons per capita),mediumLow
+Iraq,CO2 emissions (metric tons per capita),mediumLow
+France,CO2 emissions (metric tons per capita),mediumLow
+Iceland,CO2 emissions (metric tons per capita),mediumLow
+Suriname,CO2 emissions (metric tons per capita),mediumLow
+St. Kitts and Nevis,CO2 emissions (metric tons per capita),mediumLow
+Hungary,CO2 emissions (metric tons per capita),mediumLow
+Türkiye,CO2 emissions (metric tons per capita),mediumLow
+Chile,CO2 emissions (metric tons per capita),mediumLow
+Spain,CO2 emissions (metric tons per capita),mediumLow
+Denmark,CO2 emissions (metric tons per capita),mediumLow
+United Kingdom,CO2 emissions (metric tons per capita),mediumLow
+Italy,CO2 emissions (metric tons per capita),mediumLow
+Antigua and Barbuda,CO2 emissions (metric tons per capita),mediumLow
+Nauru,CO2 emissions (metric tons per capita),mediumLow
+Greece,CO2 emissions (metric tons per capita),mediumLow
+Bulgaria,CO2 emissions (metric tons per capita),mediumLow
+Slovak Republic,CO2 emissions (metric tons per capita),mediumLow
+Cyprus,CO2 emissions (metric tons per capita),mediumLow
+Belarus,CO2 emissions (metric tons per capita),mediumLow
+Seychelles,CO2 emissions (metric tons per capita),mediumLow
+Bosnia and Herzegovina,CO2 emissions (metric tons per capita),mediumLow
+Andorra,CO2 emissions (metric tons per capita),mediumLow
+Slovenia,CO2 emissions (metric tons per capita),mediumLow
+Serbia,CO2 emissions (metric tons per capita),mediumLow
+Norway,CO2 emissions (metric tons per capita),low
+New Zealand,CO2 emissions (metric tons per capita),low
+Israel,CO2 emissions (metric tons per capita),low
+Mongolia,CO2 emissions (metric tons per capita),low
+Ireland,CO2 emissions (metric tons per capita),low
+Bahamas The,CO2 emissions (metric tons per capita),low
+Austria,CO2 emissions (metric tons per capita),low
+Finland,CO2 emissions (metric tons per capita),low
+South Africa,CO2 emissions (metric tons per capita),low
+Iran Islamic Rep.,CO2 emissions (metric tons per capita),low
+China,CO2 emissions (metric tons per capita),low
+Estonia,CO2 emissions (metric tons per capita),low
+Poland,CO2 emissions (metric tons per capita),low
+Germany,CO2 emissions (metric tons per capita),low
+Malaysia,CO2 emissions (metric tons per capita),low
+Belgium,CO2 emissions (metric tons per capita),low
+Singapore,CO2 emissions (metric tons per capita),low
+Libya,CO2 emissions (metric tons per capita),low
+Netherlands,CO2 emissions (metric tons per capita),low
+Japan,CO2 emissions (metric tons per capita),low
+Czech Republic,CO2 emissions (metric tons per capita),low
+Kazakhstan,CO2 emissions (metric tons per capita),low
+Russian Federation,CO2 emissions (metric tons per capita),low
+Korea Rep.,CO2 emissions (metric tons per capita),low
+Turkmenistan,CO2 emissions (metric tons per capita),low
+Trinidad and Tobago,CO2 emissions (metric tons per capita),low
+Palau,CO2 emissions (metric tons per capita),low
+United States,CO2 emissions (metric tons per capita),low
+Australia,CO2 emissions (metric tons per capita),low
+Oman,CO2 emissions (metric tons per capita),low
+Saudi Arabia,CO2 emissions (metric tons per capita),low
+Luxembourg,CO2 emissions (metric tons per capita),low
+Canada,CO2 emissions (metric tons per capita),low
+Brunei Darussalam,CO2 emissions (metric tons per capita),low
+United Arab Emirates,CO2 emissions (metric tons per capita),low
+Bahrain,CO2 emissions (metric tons per capita),low
+Kuwait,CO2 emissions (metric tons per capita),low
+Qatar,CO2 emissions (metric tons per capita),low
+Costa Rica,Hospital beds (per 1000 people),low
+United Kingdom,Hospital beds (per 1000 people),low
+Canada,Hospital beds (per 1000 people),mediumLow
+New Zealand,Hospital beds (per 1000 people),mediumLow
+Denmark,Hospital beds (per 1000 people),medium
+Iceland,Hospital beds (per 1000 people),medium
+Luxembourg,Hospital beds (per 1000 people),mediumHigh
+Belgium,Hospital beds (per 1000 people),high

@@ -1,0 +1,73 @@
+Northern Mariana Islands	low	GDP (current US$)	1.0000
+Northern Mariana Islands	low	GDP per capita (current LCU)	1.0000
+Northern Mariana Islands	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Northern Mariana Islands	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Northern Mariana Islands	mediumLow	Population growth (annual %)	1.0000
+American Samoa	low	GDP (current US$)	1.0000
+American Samoa	low	GDP per capita (current LCU)	1.0000
+American Samoa	low	Population growth (annual %)	1.0000
+American Samoa	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Dominica	low	GDP (current US$)	1.0000
+Dominica	low	Industry (including construction) value added (% of GDP)	1.0000
+Dominica	low	Population growth (annual %)	1.0000
+Korea Dem. People\'s Rep.	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Gabon	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Bhutan	low	GDP (current US$)	1.0000
+Bhutan	low	Gross national expenditure (current US$)	1.0000
+Madagascar	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Dominica	mediumLow	GDP per capita (current LCU)	1.0000
+Korea Dem. People\'s Rep.	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Korea Dem. People\'s Rep.	mediumLow	Life expectancy at birth total (years)	1.0000
+Korea Dem. People\'s Rep.	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Korea Dem. People\'s Rep.	mediumLow	Population growth (annual %)	1.0000
+Nauru	low	GDP (current US$)	1.0000
+Nauru	low	GDP per capita (current LCU)	1.0000
+Nauru	low	Prevalence of current tobacco use (% of adults)	1.0000
+Bhutan	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Bhutan	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Bhutan	mediumLow	Life expectancy at birth total (years)	1.0000
+Bhutan	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Botswana	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Gabon	mediumLow	Gross national expenditure (current US$)	1.0000
+Gabon	mediumLow	Life expectancy at birth total (years)	1.0000
+Gabon	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Madagascar	mediumLow	GDP (current US$)	1.0000
+Madagascar	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Madagascar	mediumLow	Gross national expenditure (current US$)	1.0000
+Madagascar	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Madagascar	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Madagascar	mediumLow	Life expectancy at birth total (years)	1.0000
+Madagascar	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Botswana	mediumLow	Gross national expenditure (current US$)	1.0000
+Botswana	mediumLow	Life expectancy at birth total (years)	1.0000
+Botswana	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Nauru	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Nauru	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Nauru	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Kiribati	low	GDP (current US$)	1.0000
+Kiribati	low	GDP per capita (current LCU)	1.0000
+Kiribati	low	Prevalence of current tobacco use (% of adults)	1.0000
+Kiribati	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Kiribati	low	People using at least basic sanitation services (% of population)	1.0000
+Kiribati	low	Gini index	1.0000
+Kiribati	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Kiribati	mediumLow	Life expectancy at birth total (years)	1.0000
+St. Lucia	low	GDP (current US$)	1.0000
+St. Lucia	low	Industry (including construction) value added (% of GDP)	1.0000
+Marshall Islands	low	GDP (current US$)	1.0000
+Marshall Islands	low	Industry (including construction) value added (% of GDP)	1.0000
+Marshall Islands	low	GDP per capita (current LCU)	1.0000
+Marshall Islands	low	Gross national expenditure (current US$)	1.0000
+Marshall Islands	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Indonesia	low	Prevalence of current tobacco use (% of adults)	1.0000
+Indonesia	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Indonesia	low	Prevalence of anemia among pregnant women (%)	1.0000
+Marshall Islands	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Marshall Islands	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Marshall Islands	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Marshall Islands	mediumLow	Population growth (annual %)	1.0000
+Indonesia	mediumLow	Life expectancy at birth total (years)	1.0000
+Indonesia	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+St. Lucia	mediumLow	GDP per capita (current LCU)	1.0000
+St. Lucia	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+St. Lucia	mediumLow	Population growth (annual %)	1.0000

@@ -1,0 +1,6 @@
+5
+low
+mediumLow
+medium
+mediumHigh
+high

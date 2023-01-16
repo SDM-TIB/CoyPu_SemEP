@@ -1,0 +1,119 @@
+Gibraltar	high	People using at least basic sanitation services (% of population)	1.0000
+Australia	high	GDP (current US$)	1.0000
+Australia	high	Gross national expenditure (current US$)	1.0000
+Australia	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Australia	high	Prevalence of anemia among pregnant women (%)	1.0000
+Australia	high	Life expectancy at birth total (years)	1.0000
+Australia	high	People using at least basic sanitation services (% of population)	1.0000
+Australia	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Australia	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Australia	mediumHigh	Population growth (annual %)	1.0000
+Italy	high	GDP (current US$)	1.0000
+Italy	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Italy	high	Prevalence of anemia among pregnant women (%)	1.0000
+Italy	high	Life expectancy at birth total (years)	1.0000
+Italy	high	People using at least basic sanitation services (% of population)	1.0000
+Korea Rep.	high	GDP (current US$)	1.0000
+Korea Rep.	high	Gross national expenditure (current US$)	1.0000
+Korea Rep.	high	Prevalence of anemia among pregnant women (%)	1.0000
+Korea Rep.	high	Life expectancy at birth total (years)	1.0000
+Korea Rep.	high	People using at least basic sanitation services (% of population)	1.0000
+Liechtenstein	high	Life expectancy at birth total (years)	1.0000
+Liechtenstein	high	People using at least basic sanitation services (% of population)	1.0000
+Spain	high	Gross national expenditure (current US$)	1.0000
+Spain	high	Prevalence of anemia among pregnant women (%)	1.0000
+Spain	high	Life expectancy at birth total (years)	1.0000
+Spain	high	People using at least basic sanitation services (% of population)	1.0000
+Japan	high	GDP (current US$)	1.0000
+Japan	high	Gross national expenditure (current US$)	1.0000
+Japan	high	Life expectancy at birth total (years)	1.0000
+Japan	high	People using at least basic sanitation services (% of population)	1.0000
+Japan	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Iceland	high	GDP per capita (current LCU)	1.0000
+Iceland	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Iceland	high	Prevalence of anemia among pregnant women (%)	1.0000
+Iceland	high	Life expectancy at birth total (years)	1.0000
+Iceland	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Italy	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Korea Rep.	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Spain	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Spain	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Japan	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Japan	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Japan	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Iceland	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Iceland	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Iceland	mediumHigh	Population growth (annual %)	1.0000
+Israel	high	Gross national expenditure (current US$)	1.0000
+Israel	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Israel	high	Prevalence of anemia among pregnant women (%)	1.0000
+Israel	high	Life expectancy at birth total (years)	1.0000
+Israel	high	People using at least basic sanitation services (% of population)	1.0000
+Germany	high	GDP (current US$)	1.0000
+Germany	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Germany	high	Prevalence of anemia among pregnant women (%)	1.0000
+Germany	high	Life expectancy at birth total (years)	1.0000
+Germany	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Switzerland	high	Gross national expenditure (current US$)	1.0000
+Switzerland	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Switzerland	high	Prevalence of anemia among pregnant women (%)	1.0000
+Switzerland	high	Life expectancy at birth total (years)	1.0000
+Switzerland	high	People using at least basic sanitation services (% of population)	1.0000
+Denmark	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Denmark	high	Prevalence of anemia among pregnant women (%)	1.0000
+Denmark	high	Life expectancy at birth total (years)	1.0000
+Denmark	high	People using at least basic sanitation services (% of population)	1.0000
+Denmark	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+United States	high	Gross national expenditure (current US$)	1.0000
+United States	high	Prevalence of anemia among pregnant women (%)	1.0000
+United States	high	People using at least basic sanitation services (% of population)	1.0000
+Finland	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Finland	high	People using at least basic sanitation services (% of population)	1.0000
+Ireland	high	GDP (current US$)	1.0000
+Ireland	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Ireland	high	Prevalence of anemia among pregnant women (%)	1.0000
+Ireland	high	Life expectancy at birth total (years)	1.0000
+Netherlands	high	Gross national expenditure (current US$)	1.0000
+Netherlands	high	Prevalence of anemia among pregnant women (%)	1.0000
+Netherlands	high	Life expectancy at birth total (years)	1.0000
+Netherlands	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+New Zealand	high	Prevalence of anemia among pregnant women (%)	1.0000
+New Zealand	high	People using at least basic sanitation services (% of population)	1.0000
+New Zealand	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Portugal	high	Life expectancy at birth total (years)	1.0000
+Portugal	high	People using at least basic sanitation services (% of population)	1.0000
+Chile	high	Prevalence of anemia among pregnant women (%)	1.0000
+Chile	high	People using at least basic sanitation services (% of population)	1.0000
+Israel	mediumHigh	Population growth (annual %)	1.0000
+Germany	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Germany	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Saudi Arabia	high	Gross national expenditure (current US$)	1.0000
+Saudi Arabia	high	People using at least basic sanitation services (% of population)	1.0000
+Denmark	mediumHigh	Gross national expenditure (current US$)	1.0000
+United States	mediumHigh	Life expectancy at birth total (years)	1.0000
+United States	mediumHigh	Gini index	1.0000
+Ireland	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Finland	mediumHigh	GDP (current US$)	1.0000
+Finland	mediumHigh	Gross national expenditure (current US$)	1.0000
+Netherlands	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+New Zealand	mediumHigh	GDP (current US$)	1.0000
+New Zealand	mediumHigh	Gross national expenditure (current US$)	1.0000
+New Zealand	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+New Zealand	mediumHigh	Population growth (annual %)	1.0000
+Chile	mediumHigh	GDP (current US$)	1.0000
+Chile	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Chile	mediumHigh	Gross national expenditure (current US$)	1.0000
+Chile	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Portugal	mediumHigh	GDP (current US$)	1.0000
+Portugal	mediumHigh	Gross national expenditure (current US$)	1.0000
+Portugal	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Portugal	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Saudi Arabia	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Saudi Arabia	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Saudi Arabia	mediumHigh	Population growth (annual %)	1.0000
+Saudi Arabia	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Austria	high	Gross national expenditure (current US$)	1.0000
+Austria	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Austria	high	Prevalence of anemia among pregnant women (%)	1.0000
+Austria	high	Life expectancy at birth total (years)	1.0000
+Austria	high	People using at least basic sanitation services (% of population)	1.0000

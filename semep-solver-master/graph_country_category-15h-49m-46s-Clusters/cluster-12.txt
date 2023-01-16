@@ -1,0 +1,51 @@
+Eritrea	high	Prevalence of current tobacco use (% of adults)	1.0000
+Eritrea	high	CO2 emissions (metric tons per capita)	1.0000
+South Sudan	high	Industry (including construction) value added (% of GDP)	1.0000
+South Sudan	high	CO2 emissions (metric tons per capita)	1.0000
+Nigeria	high	GDP (current US$)	1.0000
+Nigeria	high	GDP per capita (current LCU)	1.0000
+Nigeria	high	Gross national expenditure (current US$)	1.0000
+Nigeria	high	Prevalence of current tobacco use (% of adults)	1.0000
+Nigeria	high	Population growth (annual %)	1.0000
+Nigeria	high	CO2 emissions (metric tons per capita)	1.0000
+Eritrea	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Nigeria	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Somalia	high	GDP per capita (current LCU)	1.0000
+Somalia	high	Population growth (annual %)	1.0000
+Somalia	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Somalia	high	CO2 emissions (metric tons per capita)	1.0000
+Sierra Leone	high	CO2 emissions (metric tons per capita)	1.0000
+Burundi	high	Population growth (annual %)	1.0000
+Gambia The	high	CO2 emissions (metric tons per capita)	1.0000
+Angola	high	Industry (including construction) value added (% of GDP)	1.0000
+São Tomé and Principe	high	Prevalence of current tobacco use (% of adults)	1.0000
+Mozambique	high	CO2 emissions (metric tons per capita)	1.0000
+Cambodia	high	Industry (including construction) value added (% of GDP)	1.0000
+Cambodia	high	GDP per capita (current LCU)	1.0000
+Central African Republic	mediumHigh	GDP per capita (current LCU)	1.0000
+Equatorial Guinea	high	Industry (including construction) value added (% of GDP)	1.0000
+Equatorial Guinea	high	GDP per capita (current LCU)	1.0000
+Equatorial Guinea	high	Population growth (annual %)	1.0000
+Mauritania	high	Prevalence of current tobacco use (% of adults)	1.0000
+Haiti	high	CO2 emissions (metric tons per capita)	1.0000
+Cambodia	mediumHigh	Population growth (annual %)	1.0000
+Cambodia	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Cambodia	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Eswatini	high	Industry (including construction) value added (% of GDP)	1.0000
+Eswatini	high	Prevalence of current tobacco use (% of adults)	1.0000
+Mauritania	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Guinea-Bissau	high	Population growth (annual %)	1.0000
+Tanzania	high	Prevalence of current tobacco use (% of adults)	1.0000
+Liberia	high	CO2 emissions (metric tons per capita)	1.0000
+Gabon	high	GDP per capita (current LCU)	1.0000
+Congo Rep.	high	Population growth (annual %)	1.0000
+Congo Dem. Rep.	high	Industry (including construction) value added (% of GDP)	1.0000
+Congo Dem. Rep.	high	GDP per capita (current LCU)	1.0000
+Congo Dem. Rep.	high	Population growth (annual %)	1.0000
+Congo Dem. Rep.	high	CO2 emissions (metric tons per capita)	1.0000
+Zambia	high	Population growth (annual %)	1.0000
+Guinea	high	Population growth (annual %)	1.0000
+Guinea	high	CO2 emissions (metric tons per capita)	1.0000
+Congo Dem. Rep.	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Guinea	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Zimbabwe	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000

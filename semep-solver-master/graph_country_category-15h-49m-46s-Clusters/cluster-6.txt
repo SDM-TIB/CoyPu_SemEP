@@ -1,0 +1,71 @@
+British Virgin Islands	high	Incidence of tuberculosis (per 100000 people)	1.0000
+St. Martin (French part)	high	Life expectancy at birth total (years)	1.0000
+St. Martin (French part)	high	People using at least basic sanitation services (% of population)	1.0000
+Canada	high	GDP (current US$)	1.0000
+Canada	high	Gross national expenditure (current US$)	1.0000
+Canada	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Canada	high	Prevalence of anemia among pregnant women (%)	1.0000
+Canada	high	Life expectancy at birth total (years)	1.0000
+United Kingdom	high	GDP (current US$)	1.0000
+United Kingdom	high	Gross national expenditure (current US$)	1.0000
+United Kingdom	high	Prevalence of anemia among pregnant women (%)	1.0000
+United Kingdom	high	Life expectancy at birth total (years)	1.0000
+St. Martin (French part)	mediumHigh	Population growth (annual %)	1.0000
+Canada	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Canada	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Canada	mediumHigh	Population growth (annual %)	1.0000
+United Kingdom	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+United Kingdom	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+United Kingdom	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+St. Kitts and Nevis	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Italy	high	Gross national expenditure (current US$)	1.0000
+Belgium	high	GDP (current US$)	1.0000
+Belgium	high	Prevalence of anemia among pregnant women (%)	1.0000
+Belgium	high	Life expectancy at birth total (years)	1.0000
+Belgium	high	People using at least basic sanitation services (% of population)	1.0000
+Belgium	high	Hospital beds (per 1000 people)	1.0000
+Spain	high	GDP (current US$)	1.0000
+Sweden	high	Gross national expenditure (current US$)	1.0000
+Sweden	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Sweden	high	Prevalence of anemia among pregnant women (%)	1.0000
+Sweden	high	Life expectancy at birth total (years)	1.0000
+Andorra	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Andorra	high	Prevalence of anemia among pregnant women (%)	1.0000
+Andorra	high	People using at least basic sanitation services (% of population)	1.0000
+Belgium	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Sweden	mediumHigh	GDP per capita (current LCU)	1.0000
+Sweden	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Israel	high	GDP (current US$)	1.0000
+Germany	high	Gross national expenditure (current US$)	1.0000
+Hong Kong SAR China	high	GDP (current US$)	1.0000
+Hong Kong SAR China	high	Life expectancy at birth total (years)	1.0000
+Switzerland	high	GDP (current US$)	1.0000
+Denmark	high	GDP (current US$)	1.0000
+United States	high	GDP (current US$)	1.0000
+Finland	high	Life expectancy at birth total (years)	1.0000
+Ireland	high	Industry (including construction) value added (% of GDP)	1.0000
+Norway	high	GDP (current US$)	1.0000
+Norway	high	Gross national expenditure (current US$)	1.0000
+Norway	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Norway	high	Prevalence of anemia among pregnant women (%)	1.0000
+Norway	high	Life expectancy at birth total (years)	1.0000
+Norway	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Netherlands	high	GDP (current US$)	1.0000
+New Zealand	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Chile	high	Life expectancy at birth total (years)	1.0000
+Hong Kong SAR China	mediumHigh	GDP per capita (current LCU)	1.0000
+Hong Kong SAR China	mediumHigh	Gross national expenditure (current US$)	1.0000
+Norway	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Norway	mediumHigh	GDP per capita (current LCU)	1.0000
+Norway	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Norway	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Canada	medium	GDP per capita (current LCU)	1.0000
+Monaco	high	Prevalence of anemia among pregnant women (%)	1.0000
+Monaco	high	People using at least basic sanitation services (% of population)	1.0000
+Austria	high	GDP (current US$)	1.0000
+St. Kitts and Nevis	medium	Industry (including construction) value added (% of GDP)	1.0000
+St. Kitts and Nevis	medium	GDP per capita (current LCU)	1.0000
+Sweden	medium	Industry (including construction) value added (% of GDP)	1.0000
+Sweden	medium	Population growth (annual %)	1.0000
+Sweden	medium	CO2 emissions (metric tons per capita)	1.0000
+Monaco	medium	GDP per capita (current LCU)	1.0000

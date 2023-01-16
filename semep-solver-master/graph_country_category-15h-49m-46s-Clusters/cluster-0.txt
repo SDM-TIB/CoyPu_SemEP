@@ -1,0 +1,2 @@
+Sint Maarten (Dutch part)	mediumHigh	Incidence of tuberculosis (per 100000 people)	1.0000
+Sint Maarten (Dutch part)	mediumHigh	Population growth (annual %)	1.0000

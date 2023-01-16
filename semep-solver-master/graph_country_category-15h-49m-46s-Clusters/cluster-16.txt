@@ -1,0 +1,174 @@
+Virgin Islands (U.S.)	low	GDP (current US$)	1.0000
+Virgin Islands (U.S.)	low	Population growth (annual %)	1.0000
+West Bank and Gaza	low	GDP per capita (current LCU)	1.0000
+West Bank and Gaza	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+West Bank and Gaza	mediumLow	Gross national expenditure (current US$)	1.0000
+Croatia	low	Prevalence of current tobacco use (% of adults)	1.0000
+Croatia	low	Population growth (annual %)	1.0000
+Croatia	low	Gini index	1.0000
+Croatia	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Croatia	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Greece	low	Industry (including construction) value added (% of GDP)	1.0000
+Oman	low	GDP per capita (current LCU)	1.0000
+Virgin Islands (U.S.)	mediumLow	GDP per capita (current LCU)	1.0000
+Mauritius	low	Population growth (annual %)	1.0000
+Mauritius	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+French Polynesia	low	Gross national expenditure (current US$)	1.0000
+Philippines	low	Incidence of tuberculosis (per 100000 people)	1.0000
+Croatia	medium	GDP per capita (current LCU)	1.0000
+Croatia	medium	Gross national expenditure (current US$)	1.0000
+Croatia	medium	People using at least basic sanitation services (% of population)	1.0000
+Rwanda	mediumLow	GDP (current US$)	1.0000
+Rwanda	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Rwanda	mediumLow	Gross national expenditure (current US$)	1.0000
+Rwanda	mediumLow	Life expectancy at birth total (years)	1.0000
+Rwanda	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Rwanda	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+West Bank and Gaza	medium	GDP (current US$)	1.0000
+West Bank and Gaza	medium	Life expectancy at birth total (years)	1.0000
+Türkiye	low	Prevalence of current tobacco use (% of adults)	1.0000
+France	low	Prevalence of current tobacco use (% of adults)	1.0000
+Hungary	low	Prevalence of current tobacco use (% of adults)	1.0000
+Estonia	low	Prevalence of current tobacco use (% of adults)	1.0000
+Cayman Islands	low	Industry (including construction) value added (% of GDP)	1.0000
+Slovak Republic	low	GDP per capita (current LCU)	1.0000
+Czech Republic	low	Prevalence of current tobacco use (% of adults)	1.0000
+United Arab Emirates	low	CO2 emissions (metric tons per capita)	1.0000
+Lithuania	low	GDP per capita (current LCU)	1.0000
+Serbia	low	Prevalence of current tobacco use (% of adults)	1.0000
+Jordan	low	GDP per capita (current LCU)	1.0000
+Kuwait	low	GDP per capita (current LCU)	1.0000
+Kuwait	low	CO2 emissions (metric tons per capita)	1.0000
+Bulgaria	low	GDP per capita (current LCU)	1.0000
+Bulgaria	low	Prevalence of current tobacco use (% of adults)	1.0000
+Bulgaria	low	Population growth (annual %)	1.0000
+Lebanon	low	Industry (including construction) value added (% of GDP)	1.0000
+Armenia	low	Population growth (annual %)	1.0000
+Belarus	low	GDP per capita (current LCU)	1.0000
+Bosnia and Herzegovina	low	GDP per capita (current LCU)	1.0000
+Montenegro	low	Industry (including construction) value added (% of GDP)	1.0000
+Montenegro	low	GDP per capita (current LCU)	1.0000
+Montenegro	low	Gross national expenditure (current US$)	1.0000
+Montenegro	low	Prevalence of current tobacco use (% of adults)	1.0000
+Montenegro	low	Population growth (annual %)	1.0000
+Thailand	low	Population growth (annual %)	1.0000
+Cyprus	low	Industry (including construction) value added (% of GDP)	1.0000
+Cyprus	low	Prevalence of current tobacco use (% of adults)	1.0000
+Cuba	low	GDP per capita (current LCU)	1.0000
+Ukraine	low	Population growth (annual %)	1.0000
+Malta	low	Industry (including construction) value added (% of GDP)	1.0000
+North Macedonia	low	Population growth (annual %)	1.0000
+Türkiye	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Guam	mediumLow	GDP (current US$)	1.0000
+Guam	mediumLow	GDP per capita (current LCU)	1.0000
+Albania	low	Population growth (annual %)	1.0000
+Costa Rica	low	Hospital beds (per 1000 people)	1.0000
+El Salvador	low	GDP per capita (current LCU)	1.0000
+Jamaica	low	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Panama	low	GDP per capita (current LCU)	1.0000
+Barbados	low	Industry (including construction) value added (% of GDP)	1.0000
+Barbados	low	Gross national expenditure (current US$)	1.0000
+Barbados	low	Population growth (annual %)	1.0000
+Algeria	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Argentina	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Greece	medium	Gini index	1.0000
+Peru	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Egypt Arab Rep.	mediumLow	Life expectancy at birth total (years)	1.0000
+Mauritius	mediumLow	GDP (current US$)	1.0000
+Mauritius	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Mauritius	mediumLow	Gross national expenditure (current US$)	1.0000
+Malta	mediumLow	GDP (current US$)	1.0000
+Malta	mediumLow	GDP per capita (current LCU)	1.0000
+Malta	mediumLow	Gross national expenditure (current US$)	1.0000
+Malta	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Malta	mediumLow	Gini index	1.0000
+French Polynesia	mediumLow	Population growth (annual %)	1.0000
+Philippines	mediumLow	Life expectancy at birth total (years)	1.0000
+Philippines	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+Cayman Islands	mediumLow	GDP (current US$)	1.0000
+Rwanda	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Mauritius	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Mauritius	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Mauritius	medium	Life expectancy at birth total (years)	1.0000
+Mauritius	medium	CO2 emissions (metric tons per capita)	1.0000
+New Caledonia	low	Population growth (annual %)	1.0000
+Russian Federation	low	CO2 emissions (metric tons per capita)	1.0000
+Slovenia	low	Gini index	1.0000
+New Caledonia	mediumLow	GDP (current US$)	1.0000
+Chile	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Portugal	mediumLow	GDP per capita (current LCU)	1.0000
+Maldives	low	Industry (including construction) value added (% of GDP)	1.0000
+Maldives	low	Gross national expenditure (current US$)	1.0000
+Maldives	low	Prevalence of anemia among pregnant women (%)	1.0000
+Bahrain	low	GDP per capita (current LCU)	1.0000
+Trinidad and Tobago	mediumLow	Population growth (annual %)	1.0000
+Tunisia	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Bulgaria	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Uruguay	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Türkiye	medium	GDP per capita (current LCU)	1.0000
+Türkiye	medium	Population growth (annual %)	1.0000
+Sri Lanka	mediumLow	Prevalence of anemia among pregnant women (%)	1.0000
+Montenegro	mediumLow	GDP (current US$)	1.0000
+Montenegro	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Cyprus	mediumLow	GDP per capita (current LCU)	1.0000
+Cyprus	mediumLow	Gross national expenditure (current US$)	1.0000
+Cyprus	mediumLow	Population growth (annual %)	1.0000
+Cyprus	mediumLow	Gini index	1.0000
+Cyprus	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+North Macedonia	mediumLow	Gross national expenditure (current US$)	1.0000
+North Macedonia	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Albania	mediumLow	GDP (current US$)	1.0000
+Albania	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Albania	mediumLow	Gross national expenditure (current US$)	1.0000
+Albania	mediumLow	Gini index	1.0000
+Vietnam	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Vietnam	mediumLow	Incidence of tuberculosis (per 100000 people)	1.0000
+Costa Rica	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Costa Rica	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Dominican Republic	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Guatemala	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+El Salvador	mediumLow	People using at least basic sanitation services (% of population)	1.0000
+El Salvador	mediumLow	Population growth (annual %)	1.0000
+Jamaica	mediumLow	Gross national expenditure (current US$)	1.0000
+Jamaica	mediumLow	Population growth (annual %)	1.0000
+Barbados	mediumLow	GDP per capita (current LCU)	1.0000
+Panama	mediumLow	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Barbados	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Malta	medium	CO2 emissions (metric tons per capita)	1.0000
+Guam	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Guam	medium	Population growth (annual %)	1.0000
+Maldives	mediumLow	GDP (current US$)	1.0000
+Maldives	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Maldives	mediumLow	Gini index	1.0000
+Maldives	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Philippines	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Philippines	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Philippines	medium	Population growth (annual %)	1.0000
+Philippines	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+New Caledonia	medium	Industry (including construction) value added (% of GDP)	1.0000
+Bulgaria	medium	Industry (including construction) value added (% of GDP)	1.0000
+Bulgaria	medium	Gross national expenditure (current US$)	1.0000
+Bulgaria	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Bulgaria	medium	Life expectancy at birth total (years)	1.0000
+Bulgaria	medium	People using at least basic sanitation services (% of population)	1.0000
+Colombia	medium	Industry (including construction) value added (% of GDP)	1.0000
+Cyprus	medium	GDP (current US$)	1.0000
+Honduras	medium	GDP (current US$)	1.0000
+Albania	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Costa Rica	medium	Gross national expenditure (current US$)	1.0000
+Costa Rica	medium	Population growth (annual %)	1.0000
+El Salvador	medium	GDP (current US$)	1.0000
+El Salvador	medium	Industry (including construction) value added (% of GDP)	1.0000
+El Salvador	medium	Gross national expenditure (current US$)	1.0000
+El Salvador	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+El Salvador	medium	Life expectancy at birth total (years)	1.0000
+El Salvador	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+French Polynesia	medium	People using at least basic sanitation services (% of population)	1.0000
+Cayman Islands	medium	GDP per capita (current LCU)	1.0000
+Cayman Islands	medium	Population growth (annual %)	1.0000
+Jamaica	medium	GDP (current US$)	1.0000
+Jamaica	medium	Life expectancy at birth total (years)	1.0000
+Jamaica	medium	People using at least basic sanitation services (% of population)	1.0000
+Jamaica	medium	CO2 emissions (metric tons per capita)	1.0000
+Maldives	medium	GDP per capita (current LCU)	1.0000
+Maldives	medium	Incidence of tuberculosis (per 100000 people)	1.0000

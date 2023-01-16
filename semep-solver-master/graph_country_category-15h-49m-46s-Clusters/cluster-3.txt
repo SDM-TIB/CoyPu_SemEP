@@ -1,0 +1,92 @@
+Gibraltar	low	Population growth (annual %)	1.0000
+Andorra	low	GDP (current US$)	1.0000
+Andorra	low	Industry (including construction) value added (% of GDP)	1.0000
+Andorra	low	Prevalence of current tobacco use (% of adults)	1.0000
+Andorra	low	Population growth (annual %)	1.0000
+Israel	low	CO2 emissions (metric tons per capita)	1.0000
+Germany	low	Population growth (annual %)	1.0000
+Germany	low	CO2 emissions (metric tons per capita)	1.0000
+Italy	low	Population growth (annual %)	1.0000
+Hong Kong SAR China	low	Industry (including construction) value added (% of GDP)	1.0000
+Andorra	mediumLow	GDP per capita (current LCU)	1.0000
+Andorra	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Australia	low	CO2 emissions (metric tons per capita)	1.0000
+Italy	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Hong Kong SAR China	mediumLow	Population growth (annual %)	1.0000
+Liechtenstein	low	Population growth (annual %)	1.0000
+Liechtenstein	mediumLow	GDP (current US$)	1.0000
+Liechtenstein	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Netherlands	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Netherlands	mediumLow	GDP per capita (current LCU)	1.0000
+Netherlands	mediumLow	Population growth (annual %)	1.0000
+Netherlands	mediumLow	Gini index	1.0000
+Korea Rep.	low	CO2 emissions (metric tons per capita)	1.0000
+Denmark	low	Gini index	1.0000
+Bermuda	low	Industry (including construction) value added (% of GDP)	1.0000
+Bermuda	low	Gross national expenditure (current US$)	1.0000
+Bermuda	low	Population growth (annual %)	1.0000
+Ireland	low	CO2 emissions (metric tons per capita)	1.0000
+Finland	low	Population growth (annual %)	1.0000
+Finland	low	CO2 emissions (metric tons per capita)	1.0000
+New Zealand	low	CO2 emissions (metric tons per capita)	1.0000
+Japan	low	Population growth (annual %)	1.0000
+Denmark	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Bermuda	mediumLow	GDP (current US$)	1.0000
+Finland	mediumLow	GDP per capita (current LCU)	1.0000
+Spain	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Spain	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Spain	mediumLow	Population growth (annual %)	1.0000
+Spain	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+New Zealand	mediumLow	Hospital beds (per 1000 people)	1.0000
+Austria	mediumLow	GDP per capita (current LCU)	1.0000
+Austria	mediumLow	Population growth (annual %)	1.0000
+Austria	mediumLow	Gini index	1.0000
+Iceland	mediumLow	Industry (including construction) value added (% of GDP)	1.0000
+Iceland	mediumLow	Gross national expenditure (current US$)	1.0000
+Iceland	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Australia	medium	Industry (including construction) value added (% of GDP)	1.0000
+Australia	medium	GDP per capita (current LCU)	1.0000
+United States	low	CO2 emissions (metric tons per capita)	1.0000
+Portugal	low	Population growth (annual %)	1.0000
+Switzerland	mediumLow	Population growth (annual %)	1.0000
+Switzerland	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+United States	mediumLow	Population growth (annual %)	1.0000
+Chile	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Portugal	mediumLow	Prevalence of current tobacco use (% of adults)	1.0000
+Portugal	mediumLow	CO2 emissions (metric tons per capita)	1.0000
+Israel	medium	GDP per capita (current LCU)	1.0000
+Israel	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Germany	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Hong Kong SAR China	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Hong Kong SAR China	medium	People using at least basic sanitation services (% of population)	1.0000
+Italy	medium	Industry (including construction) value added (% of GDP)	1.0000
+Italy	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Liechtenstein	medium	GDP per capita (current LCU)	1.0000
+Korea Rep.	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Korea Rep.	medium	Incidence of tuberculosis (per 100000 people)	1.0000
+Bermuda	medium	GDP per capita (current LCU)	1.0000
+Spain	medium	Gini index	1.0000
+Netherlands	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Japan	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Iceland	medium	GDP (current US$)	1.0000
+Iceland	medium	Hospital beds (per 1000 people)	1.0000
+Denmark	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Denmark	medium	Hospital beds (per 1000 people)	1.0000
+Ireland	medium	GDP per capita (current LCU)	1.0000
+Ireland	medium	Prevalence of current tobacco use (% of adults)	1.0000
+Ireland	medium	People using at least basic sanitation services (% of population)	1.0000
+Ireland	medium	Population growth (annual %)	1.0000
+Finland	medium	Industry (including construction) value added (% of GDP)	1.0000
+Finland	medium	Prevalence of current tobacco use (% of adults)	1.0000
+New Zealand	medium	GDP per capita (current LCU)	1.0000
+Saudi Arabia	medium	GDP per capita (current LCU)	1.0000
+Saudi Arabia	medium	Prevalence of anemia among pregnant women (%)	1.0000
+Saudi Arabia	medium	Life expectancy at birth total (years)	1.0000
+Switzerland	medium	Industry (including construction) value added (% of GDP)	1.0000
+Switzerland	medium	GDP per capita (current LCU)	1.0000
+United States	medium	GDP per capita (current LCU)	1.0000
+United States	medium	Prevalence of current tobacco use (% of adults)	1.0000
+United States	medium	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Austria	medium	Industry (including construction) value added (% of GDP)	1.0000
+Chile	medium	Population growth (annual %)	1.0000
+Portugal	medium	Gini index	1.0000

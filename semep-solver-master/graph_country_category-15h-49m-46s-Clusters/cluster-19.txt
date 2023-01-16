@@ -1,0 +1,166 @@
+Vanuatu	high	Population growth (annual %)	1.0000
+West Bank and Gaza	high	Incidence of tuberculosis (per 100000 people)	1.0000
+West Bank and Gaza	high	Population growth (annual %)	1.0000
+Vanuatu	mediumHigh	GDP per capita (current LCU)	1.0000
+Vanuatu	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Chad	high	Prevalence of current tobacco use (% of adults)	1.0000
+Chad	high	Population growth (annual %)	1.0000
+Chad	high	CO2 emissions (metric tons per capita)	1.0000
+Rwanda	high	GDP per capita (current LCU)	1.0000
+Rwanda	high	Population growth (annual %)	1.0000
+Rwanda	high	CO2 emissions (metric tons per capita)	1.0000
+Ethiopia	high	Prevalence of current tobacco use (% of adults)	1.0000
+Ethiopia	high	Population growth (annual %)	1.0000
+Ethiopia	high	CO2 emissions (metric tons per capita)	1.0000
+Chad	mediumHigh	GDP per capita (current LCU)	1.0000
+West Bank and Gaza	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Rwanda	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Rwanda	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Ethiopia	mediumHigh	GDP (current US$)	1.0000
+Ethiopia	mediumHigh	Gross national expenditure (current US$)	1.0000
+Mauritania	high	Population growth (annual %)	1.0000
+Madagascar	high	GDP per capita (current LCU)	1.0000
+Madagascar	high	Population growth (annual %)	1.0000
+Madagascar	high	CO2 emissions (metric tons per capita)	1.0000
+Haiti	high	Prevalence of current tobacco use (% of adults)	1.0000
+Guyana	high	GDP per capita (current LCU)	1.0000
+Sudan	high	Population growth (annual %)	1.0000
+Sudan	high	CO2 emissions (metric tons per capita)	1.0000
+Cameroon	high	GDP per capita (current LCU)	1.0000
+Cameroon	high	Prevalence of current tobacco use (% of adults)	1.0000
+Cameroon	high	Population growth (annual %)	1.0000
+Cameroon	high	CO2 emissions (metric tons per capita)	1.0000
+Afghanistan	high	Population growth (annual %)	1.0000
+Afghanistan	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Afghanistan	high	CO2 emissions (metric tons per capita)	1.0000
+Guyana	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Guyana	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Tajikistan	high	Industry (including construction) value added (% of GDP)	1.0000
+Tajikistan	high	Population growth (annual %)	1.0000
+Micronesia Fed. Sts.	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Suriname	high	Industry (including construction) value added (% of GDP)	1.0000
+Lao PDR	high	GDP per capita (current LCU)	1.0000
+Bangladesh	high	GDP (current US$)	1.0000
+Bangladesh	high	Gross national expenditure (current US$)	1.0000
+Bangladesh	high	CO2 emissions (metric tons per capita)	1.0000
+Mongolia	high	Industry (including construction) value added (% of GDP)	1.0000
+Mongolia	high	GDP per capita (current LCU)	1.0000
+Mongolia	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Philippines	high	GDP (current US$)	1.0000
+Philippines	high	Gross national expenditure (current US$)	1.0000
+Macao SAR China	high	Life expectancy at birth total (years)	1.0000
+Macao SAR China	high	People using at least basic sanitation services (% of population)	1.0000
+Eswatini	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Suriname	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
+Lao PDR	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Lao PDR	mediumHigh	Population growth (annual %)	1.0000
+Malawi	high	Population growth (annual %)	1.0000
+Malawi	high	CO2 emissions (metric tons per capita)	1.0000
+Djibouti	high	CO2 emissions (metric tons per capita)	1.0000
+Zambia	high	Industry (including construction) value added (% of GDP)	1.0000
+Guinea	high	GDP per capita (current LCU)	1.0000
+Uganda	high	GDP per capita (current LCU)	1.0000
+Uganda	high	Prevalence of current tobacco use (% of adults)	1.0000
+Uganda	high	Population growth (annual %)	1.0000
+Uganda	high	Gini index	1.0000
+Uganda	high	CO2 emissions (metric tons per capita)	1.0000
+Zimbabwe	high	Gini index	1.0000
+Timor-Leste	high	CO2 emissions (metric tons per capita)	1.0000
+Togo	high	Prevalence of current tobacco use (% of adults)	1.0000
+Togo	high	Population growth (annual %)	1.0000
+Togo	high	CO2 emissions (metric tons per capita)	1.0000
+Mali	high	Prevalence of current tobacco use (% of adults)	1.0000
+Mali	high	Population growth (annual %)	1.0000
+Mali	high	CO2 emissions (metric tons per capita)	1.0000
+Solomon Islands	high	Population growth (annual %)	1.0000
+Solomon Islands	high	CO2 emissions (metric tons per capita)	1.0000
+Malawi	mediumHigh	GDP per capita (current LCU)	1.0000
+Malawi	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Malawi	mediumHigh	Gini index	1.0000
+Kenya	high	Population growth (annual %)	1.0000
+Kenya	high	CO2 emissions (metric tons per capita)	1.0000
+Djibouti	mediumHigh	GDP per capita (current LCU)	1.0000
+Djibouti	mediumHigh	Population growth (annual %)	1.0000
+Burkina Faso	high	Population growth (annual %)	1.0000
+Burkina Faso	high	CO2 emissions (metric tons per capita)	1.0000
+Yemen Rep.	high	Industry (including construction) value added (% of GDP)	1.0000
+Yemen Rep.	high	Population growth (annual %)	1.0000
+Yemen Rep.	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Yemen Rep.	high	CO2 emissions (metric tons per capita)	1.0000
+Niger	high	Prevalence of current tobacco use (% of adults)	1.0000
+Niger	high	Population growth (annual %)	1.0000
+Niger	high	CO2 emissions (metric tons per capita)	1.0000
+Nepal	high	CO2 emissions (metric tons per capita)	1.0000
+Senegal	high	GDP per capita (current LCU)	1.0000
+Senegal	high	Prevalence of current tobacco use (% of adults)	1.0000
+Senegal	high	Population growth (annual %)	1.0000
+Namibia	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Namibia	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Namibia	mediumHigh	Population growth (annual %)	1.0000
+Namibia	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Côte d\'Ivoire	high	GDP per capita (current LCU)	1.0000
+Côte d\'Ivoire	high	Prevalence of current tobacco use (% of adults)	1.0000
+Côte d\'Ivoire	high	Population growth (annual %)	1.0000
+Côte d\'Ivoire	high	CO2 emissions (metric tons per capita)	1.0000
+Benin	high	Prevalence of current tobacco use (% of adults)	1.0000
+Benin	high	Population growth (annual %)	1.0000
+Timor-Leste	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Timor-Leste	mediumHigh	Population growth (annual %)	1.0000
+Ghana	high	Prevalence of current tobacco use (% of adults)	1.0000
+Mali	mediumHigh	GDP per capita (current LCU)	1.0000
+Romania	high	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Uzbekistan	high	GDP per capita (current LCU)	1.0000
+Jamaica	high	Prevalence of current tobacco use (% of adults)	1.0000
+Jamaica	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Uzbekistan	high	People using at least basic sanitation services (% of population)	1.0000
+Pakistan	high	GDP (current US$)	1.0000
+Cayman Islands	high	Incidence of tuberculosis (per 100000 people)	1.0000
+Sudan	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Kenya	mediumHigh	GDP (current US$)	1.0000
+Kenya	mediumHigh	GDP per capita (current LCU)	1.0000
+Kenya	mediumHigh	Gross national expenditure (current US$)	1.0000
+Kenya	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Burkina Faso	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Burkina Faso	mediumHigh	GDP per capita (current LCU)	1.0000
+Burkina Faso	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Burkina Faso	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Yemen Rep.	mediumHigh	GDP per capita (current LCU)	1.0000
+Niger	mediumHigh	GDP per capita (current LCU)	1.0000
+Niger	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Kyrgyz Republic	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Kyrgyz Republic	mediumHigh	Population growth (annual %)	1.0000
+Kyrgyz Republic	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Uganda	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Bangladesh	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Bangladesh	mediumHigh	GDP per capita (current LCU)	1.0000
+Fiji	mediumHigh	People using at least basic sanitation services (% of population)	1.0000
+Romania	mediumHigh	GDP (current US$)	1.0000
+Romania	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Romania	mediumHigh	Gross national expenditure (current US$)	1.0000
+Mongolia	mediumHigh	Population growth (annual %)	1.0000
+Pakistan	mediumHigh	GDP per capita (current LCU)	1.0000
+Pakistan	mediumHigh	Gross national expenditure (current US$)	1.0000
+Pakistan	mediumHigh	Population growth (annual %)	1.0000
+Pakistan	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Philippines	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Philippines	mediumHigh	GDP per capita (current LCU)	1.0000
+Philippines	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Togo	mediumHigh	GDP per capita (current LCU)	1.0000
+Senegal	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Senegal	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Benin	mediumHigh	GDP per capita (current LCU)	1.0000
+Benin	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Bolivia	mediumHigh	Prevalence of current tobacco use (% of adults)	1.0000
+Bolivia	mediumHigh	Population growth (annual %)	1.0000
+Bolivia	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Bolivia	mediumHigh	Gini index	1.0000
+Ghana	mediumHigh	GDP (current US$)	1.0000
+Ghana	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Ghana	mediumHigh	Population growth (annual %)	1.0000
+Ghana	mediumHigh	CO2 emissions (metric tons per capita)	1.0000
+Uzbekistan	mediumHigh	GDP (current US$)	1.0000
+Uzbekistan	mediumHigh	Industry (including construction) value added (% of GDP)	1.0000
+Uzbekistan	mediumHigh	Population growth (annual %)	1.0000
+Uzbekistan	mediumHigh	Incidence of HIV all (per 1000 uninfected population)	1.0000
+Jamaica	mediumHigh	GDP per capita (current LCU)	1.0000
+Jamaica	mediumHigh	Prevalence of anemia among pregnant women (%)	1.0000
