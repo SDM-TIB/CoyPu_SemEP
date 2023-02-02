@@ -1,0 +1,7 @@
+Kyrgyz Republic	GDP per capita (current LCU)	medium	1.0000
+Tuvalu	GDP per capita (current LCU)	low	1.0000
+Timor-Leste	GDP per capita (current LCU)	low	1.0000
+Belize	GDP per capita (current LCU)	low	1.0000
+Fiji	GDP per capita (current LCU)	low	1.0000
+Marshall Islands	GDP per capita (current LCU)	low	1.0000
+Samoa	GDP per capita (current LCU)	low	1.0000

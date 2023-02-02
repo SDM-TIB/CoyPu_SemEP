@@ -1,0 +1,21 @@
+Montenegro	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+American Samoa	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Jamaica	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Marshall Islands	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Fiji	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+West Bank and Gaza	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Greece	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Nauru	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Samoa	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Fiji	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Barbados	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Montenegro	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Cayman Islands	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Jamaica	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Dominica	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Grenada	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Palau	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+St. Vincent and the Grenadines	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Maldives	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Greece	Incidence of tuberculosis (per 100000 people)	high	1.0000
+French Polynesia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000

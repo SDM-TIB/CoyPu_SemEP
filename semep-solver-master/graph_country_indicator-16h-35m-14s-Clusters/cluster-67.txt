@@ -1,0 +1,14 @@
+Panama	GDP per capita (current LCU)	low	1.0000
+Guatemala	GDP per capita (current LCU)	mediumLow	1.0000
+Uruguay	GDP per capita (current LCU)	mediumHigh	1.0000
+Dominican Republic	GDP per capita (current LCU)	mediumHigh	1.0000
+Ecuador	GDP per capita (current LCU)	low	1.0000
+Algeria	GDP per capita (current LCU)	mediumHigh	1.0000
+Ukraine	GDP per capita (current LCU)	medium	1.0000
+Costa Rica	GDP per capita (current LCU)	high	1.0000
+El Salvador	GDP per capita (current LCU)	low	1.0000
+Chile	GDP per capita (current LCU)	high	1.0000
+Mexico	GDP per capita (current LCU)	mediumHigh	1.0000
+Kazakhstan	GDP per capita (current LCU)	high	1.0000
+Egypt Arab Rep.	GDP per capita (current LCU)	medium	1.0000
+Morocco	GDP per capita (current LCU)	mediumLow	1.0000

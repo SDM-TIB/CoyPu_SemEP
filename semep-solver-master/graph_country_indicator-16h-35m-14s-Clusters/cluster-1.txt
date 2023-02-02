@@ -1,0 +1,32 @@
+Turks and Caicos Islands	GDP per capita (current LCU)	mediumLow	1.0000
+Macao SAR China	GDP per capita (current LCU)	mediumHigh	1.0000
+Tonga	GDP per capita (current LCU)	low	1.0000
+American Samoa	GDP per capita (current LCU)	low	1.0000
+Montenegro	GDP per capita (current LCU)	low	1.0000
+Grenada	GDP per capita (current LCU)	mediumLow	1.0000
+Barbados	GDP per capita (current LCU)	mediumLow	1.0000
+Nauru	GDP per capita (current LCU)	low	1.0000
+Curaçao	GDP per capita (current LCU)	mediumLow	1.0000
+Andorra	GDP per capita (current LCU)	mediumLow	1.0000
+Cayman Islands	GDP per capita (current LCU)	medium	1.0000
+Dominica	GDP per capita (current LCU)	mediumLow	1.0000
+Malta	GDP per capita (current LCU)	mediumLow	1.0000
+Turks and Caicos Islands	Industry (including construction) value added (% of GDP)	low	1.0000
+Grenada	Industry (including construction) value added (% of GDP)	low	1.0000
+St. Vincent and the Grenadines	GDP per capita (current LCU)	mediumLow	1.0000
+Greece	GDP per capita (current LCU)	low	1.0000
+Macao SAR China	Industry (including construction) value added (% of GDP)	low	1.0000
+San Marino	GDP per capita (current LCU)	mediumLow	1.0000
+Palau	GDP per capita (current LCU)	low	1.0000
+St. Lucia	GDP per capita (current LCU)	mediumLow	1.0000
+Tonga	Industry (including construction) value added (% of GDP)	low	1.0000
+Curaçao	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Bermuda	Industry (including construction) value added (% of GDP)	low	1.0000
+Andorra	Industry (including construction) value added (% of GDP)	low	1.0000
+Barbados	Industry (including construction) value added (% of GDP)	low	1.0000
+Montenegro	Industry (including construction) value added (% of GDP)	low	1.0000
+Malta	Industry (including construction) value added (% of GDP)	low	1.0000
+St. Vincent and the Grenadines	Industry (including construction) value added (% of GDP)	low	1.0000
+Greece	Industry (including construction) value added (% of GDP)	low	1.0000
+Palau	Industry (including construction) value added (% of GDP)	low	1.0000
+St. Lucia	Industry (including construction) value added (% of GDP)	low	1.0000

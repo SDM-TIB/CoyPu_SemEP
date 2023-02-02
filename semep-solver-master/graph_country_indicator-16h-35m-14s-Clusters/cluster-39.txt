@@ -1,0 +1,19 @@
+Libya	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Bahamas The	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Serbia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Bahamas The	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Qatar	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Lebanon	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Serbia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Lebanon	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Belarus	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Oman	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Estonia	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Slovak Republic	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Estonia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Portugal	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Iran Islamic Rep.	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Kuwait	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Lithuania	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Bulgaria	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Czech Republic	Incidence of tuberculosis (per 100000 people)	high	1.0000

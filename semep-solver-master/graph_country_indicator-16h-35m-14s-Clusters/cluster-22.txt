@@ -1,0 +1,15 @@
+Hungary	GDP per capita (current LCU)	high	1.0000
+Austria	GDP per capita (current LCU)	mediumLow	1.0000
+New Caledonia	GDP per capita (current LCU)	high	1.0000
+Virgin Islands (U.S.)	GDP per capita (current LCU)	mediumLow	1.0000
+Antigua and Barbuda	GDP per capita (current LCU)	mediumLow	1.0000
+St. Kitts and Nevis	GDP per capita (current LCU)	medium	1.0000
+Italy	GDP per capita (current LCU)	mediumLow	1.0000
+Cyprus	GDP per capita (current LCU)	mediumLow	1.0000
+Spain	GDP per capita (current LCU)	mediumLow	1.0000
+Finland	GDP per capita (current LCU)	mediumLow	1.0000
+Israel	GDP per capita (current LCU)	medium	1.0000
+Netherlands	GDP per capita (current LCU)	mediumLow	1.0000
+Belgium	GDP per capita (current LCU)	mediumLow	1.0000
+Sweden	GDP per capita (current LCU)	mediumHigh	1.0000
+France	GDP per capita (current LCU)	mediumLow	1.0000

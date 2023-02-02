@@ -1,0 +1,18 @@
+Papua New Guinea	People using at least basic sanitation services (% of population)	low	1.0000
+Tonga	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Micronesia Fed. Sts.	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Solomon Islands	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Tonga	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Tonga	Life expectancy at birth total (years)	mediumLow	1.0000
+Kiribati	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Kiribati	People using at least basic sanitation services (% of population)	low	1.0000
+Kiribati	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Kiribati	Life expectancy at birth total (years)	mediumLow	1.0000
+Solomon Islands	People using at least basic sanitation services (% of population)	low	1.0000
+Papua New Guinea	Prevalence of anemia among pregnant women (%)	low	1.0000
+Papua New Guinea	Life expectancy at birth total (years)	low	1.0000
+Solomon Islands	Prevalence of anemia among pregnant women (%)	low	1.0000
+Solomon Islands	Life expectancy at birth total (years)	medium	1.0000
+São Tomé and Principe	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+São Tomé and Principe	Prevalence of anemia among pregnant women (%)	low	1.0000
+São Tomé and Principe	Life expectancy at birth total (years)	mediumLow	1.0000

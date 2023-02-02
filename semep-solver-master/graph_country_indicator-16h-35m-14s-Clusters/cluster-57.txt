@@ -1,0 +1,101 @@
+Mongolia	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Nepal	GDP (current US$)	medium	1.0000
+Mongolia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Mongolia	Life expectancy at birth total (years)	mediumLow	1.0000
+Mongolia	GDP (current US$)	mediumLow	1.0000
+Mongolia	Gross national expenditure (current US$)	mediumLow	1.0000
+Myanmar	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Myanmar	Prevalence of anemia among pregnant women (%)	low	1.0000
+Myanmar	Life expectancy at birth total (years)	mediumLow	1.0000
+Myanmar	GDP (current US$)	mediumHigh	1.0000
+Myanmar	Gross national expenditure (current US$)	medium	1.0000
+Rwanda	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Rwanda	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Rwanda	Life expectancy at birth total (years)	mediumLow	1.0000
+Sri Lanka	People using at least basic sanitation services (% of population)	medium	1.0000
+Sri Lanka	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Sri Lanka	Life expectancy at birth total (years)	mediumHigh	1.0000
+Sri Lanka	GDP (current US$)	mediumHigh	1.0000
+Rwanda	GDP (current US$)	mediumLow	1.0000
+Rwanda	Gross national expenditure (current US$)	mediumLow	1.0000
+Sri Lanka	Gross national expenditure (current US$)	mediumHigh	1.0000
+Somalia	People using at least basic sanitation services (% of population)	low	1.0000
+Somalia	Prevalence of anemia among pregnant women (%)	low	1.0000
+Somalia	Life expectancy at birth total (years)	low	1.0000
+Somalia	GDP (current US$)	mediumLow	1.0000
+Tanzania	People using at least basic sanitation services (% of population)	low	1.0000
+Tanzania	Prevalence of anemia among pregnant women (%)	low	1.0000
+Tanzania	Life expectancy at birth total (years)	low	1.0000
+Tanzania	GDP (current US$)	mediumHigh	1.0000
+Uganda	People using at least basic sanitation services (% of population)	low	1.0000
+Uganda	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Uganda	Life expectancy at birth total (years)	low	1.0000
+Uganda	GDP (current US$)	medium	1.0000
+Angola	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Angola	Prevalence of anemia among pregnant women (%)	low	1.0000
+Angola	Life expectancy at birth total (years)	low	1.0000
+Angola	GDP (current US$)	mediumHigh	1.0000
+Tanzania	Gross national expenditure (current US$)	medium	1.0000
+Uganda	Gross national expenditure (current US$)	medium	1.0000
+Angola	Gross national expenditure (current US$)	medium	1.0000
+Cameroon	Prevalence of anemia among pregnant women (%)	low	1.0000
+Cameroon	Life expectancy at birth total (years)	low	1.0000
+Cameroon	GDP (current US$)	medium	1.0000
+Nepal	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Nepal	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Nepal	Life expectancy at birth total (years)	mediumLow	1.0000
+Zambia	People using at least basic sanitation services (% of population)	low	1.0000
+Zambia	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Zambia	Life expectancy at birth total (years)	low	1.0000
+Cameroon	Gross national expenditure (current US$)	medium	1.0000
+Gabon	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Senegal	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Gabon	Prevalence of anemia among pregnant women (%)	low	1.0000
+Senegal	Prevalence of anemia among pregnant women (%)	low	1.0000
+Gabon	Life expectancy at birth total (years)	mediumLow	1.0000
+Senegal	Life expectancy at birth total (years)	mediumLow	1.0000
+Yemen Rep.	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Yemen Rep.	Prevalence of anemia among pregnant women (%)	low	1.0000
+Yemen Rep.	Life expectancy at birth total (years)	low	1.0000
+Gabon	GDP (current US$)	medium	1.0000
+Senegal	GDP (current US$)	medium	1.0000
+Yemen Rep.	GDP (current US$)	medium	1.0000
+Nepal	Gross national expenditure (current US$)	medium	1.0000
+Zambia	Gross national expenditure (current US$)	mediumLow	1.0000
+Lao PDR	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Lao PDR	Prevalence of anemia among pregnant women (%)	low	1.0000
+Lao PDR	Life expectancy at birth total (years)	mediumLow	1.0000
+Lao PDR	GDP (current US$)	medium	1.0000
+Uzbekistan	People using at least basic sanitation services (% of population)	high	1.0000
+Uzbekistan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Uzbekistan	Life expectancy at birth total (years)	mediumLow	1.0000
+Botswana	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Botswana	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Botswana	Life expectancy at birth total (years)	mediumLow	1.0000
+Uzbekistan	GDP (current US$)	medium	1.0000
+Botswana	GDP (current US$)	medium	1.0000
+Gabon	Gross national expenditure (current US$)	mediumLow	1.0000
+Senegal	Gross national expenditure (current US$)	mediumLow	1.0000
+Uzbekistan	Gross national expenditure (current US$)	medium	1.0000
+Botswana	Gross national expenditure (current US$)	mediumLow	1.0000
+Guinea	Prevalence of anemia among pregnant women (%)	low	1.0000
+Guinea	Life expectancy at birth total (years)	low	1.0000
+Guinea	GDP (current US$)	mediumLow	1.0000
+Eswatini	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Congo Rep.	Prevalence of anemia among pregnant women (%)	low	1.0000
+Cambodia	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Cambodia	Prevalence of anemia among pregnant women (%)	low	1.0000
+Cambodia	Life expectancy at birth total (years)	mediumLow	1.0000
+Guinea	Gross national expenditure (current US$)	mediumLow	1.0000
+Cambodia	GDP (current US$)	medium	1.0000
+Zimbabwe	People using at least basic sanitation services (% of population)	low	1.0000
+Zimbabwe	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Zimbabwe	Life expectancy at birth total (years)	low	1.0000
+Tajikistan	GDP (current US$)	mediumLow	1.0000
+Zimbabwe	GDP (current US$)	medium	1.0000
+Cambodia	Gross national expenditure (current US$)	mediumLow	1.0000
+Zimbabwe	Gross national expenditure (current US$)	mediumLow	1.0000
+Tajikistan	People using at least basic sanitation services (% of population)	medium	1.0000
+Tajikistan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Tajikistan	Life expectancy at birth total (years)	mediumLow	1.0000
+Tajikistan	Gross national expenditure (current US$)	low	1.0000

@@ -1,0 +1,20 @@
+Czechia	CO2 emissions (metric tons per capita)	low	1.0000
+Bahamas The	CO2 emissions (metric tons per capita)	low	1.0000
+Serbia	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Slovak Republic	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Costa Rica	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Oman	CO2 emissions (metric tons per capita)	low	1.0000
+Luxembourg	CO2 emissions (metric tons per capita)	low	1.0000
+Belarus	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Bulgaria	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Czech Republic	CO2 emissions (metric tons per capita)	low	1.0000
+Portugal	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Latvia	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Iran Islamic Rep.	CO2 emissions (metric tons per capita)	low	1.0000
+Lebanon	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Kuwait	CO2 emissions (metric tons per capita)	low	1.0000
+Lithuania	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Cuba	CO2 emissions (metric tons per capita)	medium	1.0000
+Croatia	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Estonia	CO2 emissions (metric tons per capita)	low	1.0000
+Slovenia	CO2 emissions (metric tons per capita)	mediumLow	1.0000

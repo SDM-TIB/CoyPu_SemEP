@@ -1,0 +1,32 @@
+Libya	GDP per capita (current LCU)	low	1.0000
+Iraq	GDP per capita (current LCU)	high	1.0000
+Honduras	GDP per capita (current LCU)	medium	1.0000
+Guyana	GDP per capita (current LCU)	high	1.0000
+Mongolia	GDP per capita (current LCU)	high	1.0000
+Romania	GDP per capita (current LCU)	medium	1.0000
+Tunisia	GDP per capita (current LCU)	low	1.0000
+Bahrain	GDP per capita (current LCU)	low	1.0000
+Russian Federation	GDP per capita (current LCU)	high	1.0000
+China	GDP per capita (current LCU)	medium	1.0000
+Azerbaijan	GDP per capita (current LCU)	low	1.0000
+Paraguay	GDP per capita (current LCU)	high	1.0000
+Turkmenistan	GDP per capita (current LCU)	mediumLow	1.0000
+Jordan	GDP per capita (current LCU)	low	1.0000
+Brunei Darussalam	GDP per capita (current LCU)	mediumLow	1.0000
+Libya	Industry (including construction) value added (% of GDP)	high	1.0000
+Guyana	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Mongolia	Industry (including construction) value added (% of GDP)	high	1.0000
+Russian Federation	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Romania	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Tunisia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Iraq	Industry (including construction) value added (% of GDP)	high	1.0000
+Bahrain	Industry (including construction) value added (% of GDP)	high	1.0000
+China	Industry (including construction) value added (% of GDP)	high	1.0000
+Azerbaijan	Industry (including construction) value added (% of GDP)	high	1.0000
+Brunei Darussalam	Industry (including construction) value added (% of GDP)	high	1.0000
+Jordan	Industry (including construction) value added (% of GDP)	medium	1.0000
+Honduras	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Paraguay	Industry (including construction) value added (% of GDP)	high	1.0000
+Kazakhstan	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Turkmenistan	Industry (including construction) value added (% of GDP)	high	1.0000
+Egypt Arab Rep.	Industry (including construction) value added (% of GDP)	high	1.0000

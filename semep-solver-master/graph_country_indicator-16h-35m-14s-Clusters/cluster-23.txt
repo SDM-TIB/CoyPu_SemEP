@@ -1,0 +1,23 @@
+South Africa	Prevalence of current tobacco use (% of adults)	medium	1.0000
+India	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Timor-Leste	Prevalence of current tobacco use (% of adults)	low	1.0000
+Kiribati	Prevalence of current tobacco use (% of adults)	low	1.0000
+Lesotho	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Bangladesh	Prevalence of current tobacco use (% of adults)	low	1.0000
+Bangladesh	Population growth (annual %)	medium	1.0000
+Timor-Leste	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Indonesia	Gini index	mediumHigh	1.0000
+South Africa	Population growth (annual %)	medium	1.0000
+Korea Dem. People\'s Rep.	Prevalence of current tobacco use (% of adults)	medium	1.0000
+South Africa	Industry (including construction) value added (% of GDP)	medium	1.0000
+India	Population growth (annual %)	medium	1.0000
+Pakistan	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Philippines	Population growth (annual %)	medium	1.0000
+India	Industry (including construction) value added (% of GDP)	medium	1.0000
+Bangladesh	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Philippines	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Indonesia	Population growth (annual %)	medium	1.0000
+Korea Dem. People\'s Rep.	Population growth (annual %)	mediumLow	1.0000
+Indonesia	Industry (including construction) value added (% of GDP)	high	1.0000
+Pakistan	Population growth (annual %)	mediumHigh	1.0000
+Pakistan	Industry (including construction) value added (% of GDP)	mediumLow	1.0000

@@ -1,0 +1,64 @@
+Benin	Prevalence of current tobacco use (% of adults)	high	1.0000
+Mali	Prevalence of current tobacco use (% of adults)	high	1.0000
+Cameroon	Prevalence of current tobacco use (% of adults)	high	1.0000
+Papua New Guinea	Prevalence of current tobacco use (% of adults)	low	1.0000
+Niger	Prevalence of current tobacco use (% of adults)	high	1.0000
+Congo Dem. Rep.	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Burkina Faso	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Ethiopia	Prevalence of current tobacco use (% of adults)	high	1.0000
+Côte d\'Ivoire	Prevalence of current tobacco use (% of adults)	high	1.0000
+Malawi	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Malawi	Gini index	mediumHigh	1.0000
+Chad	Prevalence of current tobacco use (% of adults)	high	1.0000
+Liberia	Prevalence of current tobacco use (% of adults)	high	1.0000
+Mozambique	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Mali	Population growth (annual %)	high	1.0000
+Eritrea	Prevalence of current tobacco use (% of adults)	high	1.0000
+Somalia	Population growth (annual %)	high	1.0000
+Mozambique	Population growth (annual %)	high	1.0000
+Niger	Population growth (annual %)	high	1.0000
+Chad	Population growth (annual %)	high	1.0000
+Burkina Faso	Population growth (annual %)	high	1.0000
+Ethiopia	Population growth (annual %)	high	1.0000
+Mali	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Niger	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Chad	Industry (including construction) value added (% of GDP)	low	1.0000
+Burkina Faso	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Ethiopia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Sierra Leone	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Malawi	Population growth (annual %)	high	1.0000
+Malawi	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Liberia	Population growth (annual %)	high	1.0000
+Papua New Guinea	Population growth (annual %)	mediumHigh	1.0000
+Congo Dem. Rep.	Population growth (annual %)	high	1.0000
+Togo	Population growth (annual %)	high	1.0000
+Sudan	Population growth (annual %)	high	1.0000
+Zambia	Population growth (annual %)	high	1.0000
+Liberia	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Benin	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Mozambique	Industry (including construction) value added (% of GDP)	medium	1.0000
+Papua New Guinea	Industry (including construction) value added (% of GDP)	high	1.0000
+Côte d\'Ivoire	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Congo Dem. Rep.	Industry (including construction) value added (% of GDP)	high	1.0000
+Sudan	Industry (including construction) value added (% of GDP)	medium	1.0000
+Uganda	Gini index	high	1.0000
+Zambia	Industry (including construction) value added (% of GDP)	high	1.0000
+Zimbabwe	Gini index	high	1.0000
+Sierra Leone	Population growth (annual %)	mediumHigh	1.0000
+Uganda	Population growth (annual %)	high	1.0000
+Cameroon	Industry (including construction) value added (% of GDP)	medium	1.0000
+Togo	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Sierra Leone	Industry (including construction) value added (% of GDP)	low	1.0000
+Uganda	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Mauritania	Population growth (annual %)	high	1.0000
+Guinea-Bissau	Population growth (annual %)	high	1.0000
+Zimbabwe	Population growth (annual %)	mediumHigh	1.0000
+Mauritania	Industry (including construction) value added (% of GDP)	medium	1.0000
+Guinea-Bissau	Industry (including construction) value added (% of GDP)	low	1.0000
+Congo Rep.	Industry (including construction) value added (% of GDP)	high	1.0000
+Zimbabwe	Industry (including construction) value added (% of GDP)	high	1.0000
+Guinea	Population growth (annual %)	high	1.0000
+Eswatini	Population growth (annual %)	medium	1.0000
+Equatorial Guinea	Population growth (annual %)	high	1.0000
+Congo Rep.	Population growth (annual %)	high	1.0000
+Eswatini	Industry (including construction) value added (% of GDP)	high	1.0000

@@ -1,0 +1,19 @@
+Mali	CO2 emissions (metric tons per capita)	high	1.0000
+Benin	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Mozambique	CO2 emissions (metric tons per capita)	high	1.0000
+Vanuatu	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Burundi	CO2 emissions (metric tons per capita)	high	1.0000
+Central African Republic	CO2 emissions (metric tons per capita)	high	1.0000
+Chad	CO2 emissions (metric tons per capita)	high	1.0000
+Liberia	CO2 emissions (metric tons per capita)	high	1.0000
+Niger	CO2 emissions (metric tons per capita)	high	1.0000
+Malawi	CO2 emissions (metric tons per capita)	high	1.0000
+Togo	CO2 emissions (metric tons per capita)	high	1.0000
+Gambia The	CO2 emissions (metric tons per capita)	high	1.0000
+Solomon Islands	CO2 emissions (metric tons per capita)	high	1.0000
+Comoros	CO2 emissions (metric tons per capita)	high	1.0000
+Sierra Leone	CO2 emissions (metric tons per capita)	high	1.0000
+Mauritania	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Guinea-Bissau	CO2 emissions (metric tons per capita)	high	1.0000
+Afghanistan	CO2 emissions (metric tons per capita)	high	1.0000
+São Tomé and Principe	CO2 emissions (metric tons per capita)	mediumHigh	1.0000

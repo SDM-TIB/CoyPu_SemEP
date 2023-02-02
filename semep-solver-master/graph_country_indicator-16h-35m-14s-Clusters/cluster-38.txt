@@ -1,0 +1,34 @@
+Guyana	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Hong Kong SAR China	GDP (current US$)	high	1.0000
+Northern Mariana Islands	GDP (current US$)	low	1.0000
+Fiji	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Fiji	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Fiji	Life expectancy at birth total (years)	mediumLow	1.0000
+South Sudan	People using at least basic sanitation services (% of population)	low	1.0000
+South Sudan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+South Sudan	Life expectancy at birth total (years)	low	1.0000
+Hong Kong SAR China	Gross national expenditure (current US$)	high	1.0000
+Mauritius	Life expectancy at birth total (years)	medium	1.0000
+Guyana	Life expectancy at birth total (years)	mediumLow	1.0000
+Mauritius	GDP (current US$)	mediumLow	1.0000
+Fiji	GDP (current US$)	mediumLow	1.0000
+Cabo Verde	GDP (current US$)	low	1.0000
+Guyana	GDP (current US$)	mediumLow	1.0000
+Moldova	GDP (current US$)	mediumLow	1.0000
+Mauritius	Gross national expenditure (current US$)	mediumLow	1.0000
+Fiji	Gross national expenditure (current US$)	low	1.0000
+Suriname	People using at least basic sanitation services (% of population)	medium	1.0000
+Suriname	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Suriname	Life expectancy at birth total (years)	mediumLow	1.0000
+Suriname	GDP (current US$)	low	1.0000
+Djibouti	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Djibouti	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Djibouti	Life expectancy at birth total (years)	mediumLow	1.0000
+Cabo Verde	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Cabo Verde	Life expectancy at birth total (years)	medium	1.0000
+Moldova	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Moldova	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Moldova	Life expectancy at birth total (years)	mediumLow	1.0000
+Djibouti	Gross national expenditure (current US$)	low	1.0000
+Cabo Verde	Gross national expenditure (current US$)	low	1.0000
+Moldova	Gross national expenditure (current US$)	mediumLow	1.0000

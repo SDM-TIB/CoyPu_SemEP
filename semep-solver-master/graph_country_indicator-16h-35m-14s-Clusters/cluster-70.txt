@@ -1,0 +1,14 @@
+Tunisia	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Samoa	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Marshall Islands	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Nauru	Prevalence of current tobacco use (% of adults)	low	1.0000
+Palau	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Tunisia	Population growth (annual %)	medium	1.0000
+West Bank and Gaza	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Fiji	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Grenada	Population growth (annual %)	mediumLow	1.0000
+Cayman Islands	Industry (including construction) value added (% of GDP)	low	1.0000
+Dominica	Industry (including construction) value added (% of GDP)	low	1.0000
+Maldives	Industry (including construction) value added (% of GDP)	low	1.0000
+St. Vincent and the Grenadines	Population growth (annual %)	mediumLow	1.0000
+Samoa	Industry (including construction) value added (% of GDP)	low	1.0000

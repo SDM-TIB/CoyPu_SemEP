@@ -1,0 +1,21 @@
+Colombia	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Argentina	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Saudi Arabia	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Brazil	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Thailand	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Indonesia	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Suriname	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Brazil	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Saudi Arabia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Indonesia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Malaysia	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Malaysia	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Colombia	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Suriname	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Bangladesh	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Argentina	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Thailand	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Mexico	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Türkiye	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Vietnam	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Vietnam	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000

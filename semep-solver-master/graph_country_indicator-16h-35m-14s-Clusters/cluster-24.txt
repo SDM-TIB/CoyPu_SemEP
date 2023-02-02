@@ -1,0 +1,34 @@
+Israel	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Austria	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Brazil	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Guam	Population growth (annual %)	medium	1.0000
+Switzerland	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Netherlands	Prevalence of current tobacco use (% of adults)	medium	1.0000
+British Virgin Islands	Population growth (annual %)	medium	1.0000
+Brazil	Gini index	high	1.0000
+Brazil	Population growth (annual %)	mediumLow	1.0000
+Sweden	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+St. Kitts and Nevis	Population growth (annual %)	mediumLow	1.0000
+Brazil	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Antigua and Barbuda	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Italy	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Belgium	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+United Kingdom	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Spain	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+United States	Prevalence of current tobacco use (% of adults)	medium	1.0000
+France	Prevalence of current tobacco use (% of adults)	low	1.0000
+Austria	Industry (including construction) value added (% of GDP)	medium	1.0000
+Switzerland	Industry (including construction) value added (% of GDP)	medium	1.0000
+United Kingdom	Population growth (annual %)	mediumLow	1.0000
+Israel	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Netherlands	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Finland	Gini index	low	1.0000
+Italy	Industry (including construction) value added (% of GDP)	medium	1.0000
+Belgium	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+United Kingdom	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Sweden	Industry (including construction) value added (% of GDP)	medium	1.0000
+Germany	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Spain	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+United States	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Finland	Industry (including construction) value added (% of GDP)	medium	1.0000
+France	Industry (including construction) value added (% of GDP)	mediumLow	1.0000

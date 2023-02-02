@@ -1,0 +1,28 @@
+American Samoa	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+American Samoa	GDP (current US$)	low	1.0000
+Turks and Caicos Islands	GDP (current US$)	low	1.0000
+Micronesia Fed. Sts.	GDP (current US$)	low	1.0000
+Tonga	GDP (current US$)	low	1.0000
+Tuvalu	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Tuvalu	GDP (current US$)	low	1.0000
+Marshall Islands	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Marshall Islands	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Marshall Islands	GDP (current US$)	low	1.0000
+Nauru	GDP (current US$)	low	1.0000
+Nauru	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Curaçao	GDP (current US$)	low	1.0000
+Marshall Islands	Gross national expenditure (current US$)	low	1.0000
+Cayman Islands	GDP (current US$)	mediumLow	1.0000
+Samoa	People using at least basic sanitation services (% of population)	medium	1.0000
+Samoa	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Samoa	Life expectancy at birth total (years)	medium	1.0000
+Samoa	GDP (current US$)	low	1.0000
+Tonga	People using at least basic sanitation services (% of population)	medium	1.0000
+Tonga	Gross national expenditure (current US$)	low	1.0000
+Micronesia Fed. Sts.	People using at least basic sanitation services (% of population)	medium	1.0000
+Micronesia Fed. Sts.	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Micronesia Fed. Sts.	Life expectancy at birth total (years)	mediumLow	1.0000
+Dominica	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Palau	People using at least basic sanitation services (% of population)	high	1.0000
+Palau	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Palau	GDP (current US$)	low	1.0000

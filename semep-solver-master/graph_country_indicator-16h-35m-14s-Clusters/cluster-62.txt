@@ -1,0 +1,24 @@
+New Caledonia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Hungary	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Bermuda	Incidence of tuberculosis (per 100000 people)	high	1.0000
+St. Kitts and Nevis	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Monaco	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Curaçao	Incidence of tuberculosis (per 100000 people)	high	1.0000
+New Caledonia	People using at least basic sanitation services (% of population)	high	1.0000
+New Caledonia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Antigua and Barbuda	Incidence of tuberculosis (per 100000 people)	high	1.0000
+St. Lucia	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Italy	Prevalence of anemia among pregnant women (%)	high	1.0000
+Italy	Life expectancy at birth total (years)	high	1.0000
+Cyprus	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Virgin Islands (U.S.)	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Cyprus	People using at least basic sanitation services (% of population)	high	1.0000
+Cyprus	Prevalence of anemia among pregnant women (%)	high	1.0000
+Cyprus	Life expectancy at birth total (years)	high	1.0000
+Hungary	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Hungary	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Hungary	Life expectancy at birth total (years)	mediumHigh	1.0000
+San Marino	People using at least basic sanitation services (% of population)	high	1.0000
+Andorra	People using at least basic sanitation services (% of population)	high	1.0000
+Belgium	People using at least basic sanitation services (% of population)	high	1.0000
+France	People using at least basic sanitation services (% of population)	mediumHigh	1.0000

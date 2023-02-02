@@ -1,0 +1,75 @@
+Oman	GDP (current US$)	mediumHigh	1.0000
+Colombia	GDP (current US$)	high	1.0000
+Dominican Republic	People using at least basic sanitation services (% of population)	medium	1.0000
+Dominican Republic	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Dominican Republic	Life expectancy at birth total (years)	medium	1.0000
+Dominican Republic	GDP (current US$)	mediumHigh	1.0000
+Iraq	People using at least basic sanitation services (% of population)	high	1.0000
+Iraq	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Iraq	Life expectancy at birth total (years)	mediumLow	1.0000
+Iraq	GDP (current US$)	mediumHigh	1.0000
+Honduras	GDP (current US$)	medium	1.0000
+Paraguay	GDP (current US$)	medium	1.0000
+Dominican Republic	Gross national expenditure (current US$)	mediumHigh	1.0000
+Iraq	Gross national expenditure (current US$)	mediumHigh	1.0000
+Colombia	People using at least basic sanitation services (% of population)	medium	1.0000
+Colombia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Colombia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Colombia	Gross national expenditure (current US$)	mediumHigh	1.0000
+Paraguay	People using at least basic sanitation services (% of population)	medium	1.0000
+Paraguay	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Paraguay	Life expectancy at birth total (years)	medium	1.0000
+Paraguay	Gross national expenditure (current US$)	medium	1.0000
+Ecuador	GDP (current US$)	mediumHigh	1.0000
+Costa Rica	GDP (current US$)	mediumHigh	1.0000
+Guatemala	GDP (current US$)	mediumHigh	1.0000
+Kazakhstan	GDP (current US$)	mediumHigh	1.0000
+Qatar	People using at least basic sanitation services (% of population)	high	1.0000
+Qatar	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Qatar	Life expectancy at birth total (years)	high	1.0000
+Qatar	GDP (current US$)	mediumHigh	1.0000
+El Salvador	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+El Salvador	Prevalence of anemia among pregnant women (%)	high	1.0000
+El Salvador	Life expectancy at birth total (years)	medium	1.0000
+El Salvador	GDP (current US$)	medium	1.0000
+Qatar	Gross national expenditure (current US$)	mediumHigh	1.0000
+El Salvador	Gross national expenditure (current US$)	medium	1.0000
+Panama	GDP (current US$)	mediumHigh	1.0000
+Bahrain	GDP (current US$)	medium	1.0000
+Peru	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Peru	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Peru	Life expectancy at birth total (years)	mediumHigh	1.0000
+Iran Islamic Rep.	GDP (current US$)	mediumHigh	1.0000
+Peru	GDP (current US$)	mediumHigh	1.0000
+Azerbaijan	People using at least basic sanitation services (% of population)	medium	1.0000
+Azerbaijan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Azerbaijan	Life expectancy at birth total (years)	medium	1.0000
+Peru	Gross national expenditure (current US$)	mediumHigh	1.0000
+Azerbaijan	GDP (current US$)	medium	1.0000
+Lithuania	GDP (current US$)	medium	1.0000
+Turkmenistan	GDP (current US$)	medium	1.0000
+Azerbaijan	Gross national expenditure (current US$)	medium	1.0000
+Algeria	People using at least basic sanitation services (% of population)	medium	1.0000
+Algeria	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Algeria	Life expectancy at birth total (years)	mediumHigh	1.0000
+Algeria	GDP (current US$)	mediumHigh	1.0000
+Algeria	Gross national expenditure (current US$)	mediumHigh	1.0000
+Costa Rica	Hospital beds (per 1000 people)	low	1.0000
+Oman	Gross national expenditure (current US$)	mediumHigh	1.0000
+Morocco	GDP (current US$)	mediumHigh	1.0000
+Panama	Gross national expenditure (current US$)	medium	1.0000
+Egypt Arab Rep.	People using at least basic sanitation services (% of population)	medium	1.0000
+Egypt Arab Rep.	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Egypt Arab Rep.	Life expectancy at birth total (years)	mediumLow	1.0000
+Ecuador	Gross national expenditure (current US$)	mediumHigh	1.0000
+Costa Rica	Gross national expenditure (current US$)	medium	1.0000
+Egypt Arab Rep.	GDP (current US$)	mediumHigh	1.0000
+Bahrain	Gross national expenditure (current US$)	medium	1.0000
+Guatemala	Gross national expenditure (current US$)	mediumHigh	1.0000
+Lithuania	Gross national expenditure (current US$)	medium	1.0000
+Kazakhstan	Gross national expenditure (current US$)	mediumHigh	1.0000
+Egypt Arab Rep.	Gross national expenditure (current US$)	mediumHigh	1.0000
+Morocco	Gross national expenditure (current US$)	mediumHigh	1.0000
+Honduras	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Honduras	Life expectancy at birth total (years)	medium	1.0000
+Honduras	Gross national expenditure (current US$)	medium	1.0000

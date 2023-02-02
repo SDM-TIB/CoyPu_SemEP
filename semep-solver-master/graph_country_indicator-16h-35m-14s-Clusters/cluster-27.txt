@@ -1,0 +1,33 @@
+Guyana	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Malaysia	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Iraq	Prevalence of current tobacco use (% of adults)	medium	1.0000
+El Salvador	Prevalence of current tobacco use (% of adults)	high	1.0000
+El Salvador	Gini index	mediumHigh	1.0000
+Vietnam	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Azerbaijan	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Jordan	Prevalence of current tobacco use (% of adults)	low	1.0000
+Myanmar	Prevalence of current tobacco use (% of adults)	low	1.0000
+Paraguay	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Lao PDR	Prevalence of current tobacco use (% of adults)	low	1.0000
+Malaysia	Population growth (annual %)	medium	1.0000
+Uzbekistan	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Turkmenistan	Prevalence of current tobacco use (% of adults)	high	1.0000
+Malaysia	Industry (including construction) value added (% of GDP)	high	1.0000
+Honduras	Gini index	high	1.0000
+Paraguay	Gini index	high	1.0000
+El Salvador	Industry (including construction) value added (% of GDP)	medium	1.0000
+Guyana	Population growth (annual %)	mediumLow	1.0000
+Jordan	Population growth (annual %)	medium	1.0000
+Bolivia	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Venezuela RB	Population growth (annual %)	low	1.0000
+Myanmar	Population growth (annual %)	mediumLow	1.0000
+Senegal	Population growth (annual %)	high	1.0000
+Lao PDR	Population growth (annual %)	mediumHigh	1.0000
+Bolivia	Gini index	mediumHigh	1.0000
+Myanmar	Industry (including construction) value added (% of GDP)	high	1.0000
+Senegal	Industry (including construction) value added (% of GDP)	medium	1.0000
+Azerbaijan	Population growth (annual %)	medium	1.0000
+Bolivia	Population growth (annual %)	mediumHigh	1.0000
+Lao PDR	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Bolivia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Uzbekistan	Population growth (annual %)	mediumHigh	1.0000

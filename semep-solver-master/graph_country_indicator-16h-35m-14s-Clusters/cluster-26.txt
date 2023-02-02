@@ -1,0 +1,17 @@
+Colombia	Prevalence of current tobacco use (% of adults)	high	1.0000
+Sint Maarten (Dutch part)	Population growth (annual %)	mediumHigh	1.0000
+Peru	Prevalence of current tobacco use (% of adults)	high	1.0000
+Panama	Prevalence of current tobacco use (% of adults)	high	1.0000
+Guatemala	Prevalence of current tobacco use (% of adults)	high	1.0000
+Peru	Gini index	mediumHigh	1.0000
+Panama	Gini index	high	1.0000
+Colombia	Gini index	high	1.0000
+Ecuador	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Colombia	Population growth (annual %)	medium	1.0000
+Peru	Population growth (annual %)	mediumHigh	1.0000
+Panama	Population growth (annual %)	mediumHigh	1.0000
+Ecuador	Gini index	high	1.0000
+Guatemala	Industry (including construction) value added (% of GDP)	medium	1.0000
+Panama	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Colombia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Peru	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000

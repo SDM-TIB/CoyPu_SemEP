@@ -1,0 +1,27 @@
+West Bank and Gaza	Population growth (annual %)	high	1.0000
+Jamaica	CO2 emissions (metric tons per capita)	medium	1.0000
+Antigua and Barbuda	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Hungary	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Dominica	CO2 emissions (metric tons per capita)	medium	1.0000
+Barbados	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Greece	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Cayman Islands	Population growth (annual %)	medium	1.0000
+Montenegro	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Albania	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Malta	CO2 emissions (metric tons per capita)	medium	1.0000
+St. Lucia	CO2 emissions (metric tons per capita)	medium	1.0000
+Grenada	CO2 emissions (metric tons per capita)	medium	1.0000
+St. Vincent and the Grenadines	CO2 emissions (metric tons per capita)	medium	1.0000
+Virgin Islands (U.S.)	Population growth (annual %)	low	1.0000
+Antigua and Barbuda	Population growth (annual %)	medium	1.0000
+North Macedonia	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Maldives	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Barbados	Population growth (annual %)	low	1.0000
+Montenegro	Population growth (annual %)	low	1.0000
+Jamaica	Population growth (annual %)	mediumLow	1.0000
+Malta	Population growth (annual %)	high	1.0000
+Albania	Population growth (annual %)	low	1.0000
+North Macedonia	Population growth (annual %)	low	1.0000
+Greece	Population growth (annual %)	low	1.0000
+Maldives	Population growth (annual %)	high	1.0000
+Croatia	Population growth (annual %)	low	1.0000

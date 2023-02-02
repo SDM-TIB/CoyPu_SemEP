@@ -1,0 +1,12 @@
+11	
+Machine Translation	Heuristic Search	is_reference	1.0
+Geffner	Heuristic Search	wrote	1.0
+Bonet	Heuristic Search	wrote	1.0
+Hal	Machine Translation	wrote	1.0
+icml	Machine Translation	published_in	1.0
+icml	Model	published in	1.0
+Machine Translation	Model	contains	1.0
+Heuristic Search	icaps	  published_in	1.0
+Heuristic Search	Planning	contains	1.0
+Planning	icaps	contains	1.0
+icaps	Model	contains	1.0

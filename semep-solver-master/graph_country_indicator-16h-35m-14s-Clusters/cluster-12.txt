@@ -1,0 +1,19 @@
+India	GDP per capita (current LCU)	medium	1.0000
+South Africa	GDP per capita (current LCU)	medium	1.0000
+Kiribati	GDP per capita (current LCU)	low	1.0000
+Lesotho	GDP per capita (current LCU)	low	1.0000
+Bhutan	GDP per capita (current LCU)	mediumHigh	1.0000
+Burundi	GDP per capita (current LCU)	mediumHigh	1.0000
+Central African Republic	GDP per capita (current LCU)	mediumHigh	1.0000
+Sierra Leone	GDP per capita (current LCU)	high	1.0000
+Guinea-Bissau	GDP per capita (current LCU)	mediumHigh	1.0000
+Mauritania	GDP per capita (current LCU)	medium	1.0000
+Haiti	GDP per capita (current LCU)	medium	1.0000
+Namibia	GDP per capita (current LCU)	medium	1.0000
+Madagascar	GDP per capita (current LCU)	high	1.0000
+Kenya	GDP per capita (current LCU)	mediumHigh	1.0000
+São Tomé and Principe	GDP per capita (current LCU)	mediumLow	1.0000
+Congo Rep.	GDP per capita (current LCU)	high	1.0000
+Pakistan	GDP per capita (current LCU)	mediumHigh	1.0000
+Afghanistan	GDP per capita (current LCU)	mediumLow	1.0000
+Eswatini	GDP per capita (current LCU)	medium	1.0000

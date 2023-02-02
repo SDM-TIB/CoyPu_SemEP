@@ -1,0 +1,10 @@
+French Polynesia	GDP per capita (current LCU)	high	1.0000
+Vanuatu	GDP per capita (current LCU)	mediumHigh	1.0000
+Northern Mariana Islands	GDP per capita (current LCU)	low	1.0000
+Comoros	GDP per capita (current LCU)	mediumHigh	1.0000
+Micronesia Fed. Sts.	GDP per capita (current LCU)	low	1.0000
+Moldova	GDP per capita (current LCU)	medium	1.0000
+Seychelles	GDP per capita (current LCU)	mediumHigh	1.0000
+Mauritius	GDP per capita (current LCU)	mediumHigh	1.0000
+Djibouti	GDP per capita (current LCU)	mediumHigh	1.0000
+Cabo Verde	GDP per capita (current LCU)	mediumHigh	1.0000

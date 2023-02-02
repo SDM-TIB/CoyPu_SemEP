@@ -1,0 +1,31 @@
+Libya	CO2 emissions (metric tons per capita)	low	1.0000
+Peru	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Dominican Republic	CO2 emissions (metric tons per capita)	medium	1.0000
+Panama	CO2 emissions (metric tons per capita)	medium	1.0000
+Iraq	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Guatemala	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Ecuador	CO2 emissions (metric tons per capita)	medium	1.0000
+El Salvador	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Vietnam	CO2 emissions (metric tons per capita)	medium	1.0000
+Algeria	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Honduras	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Paraguay	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Morocco	CO2 emissions (metric tons per capita)	medium	1.0000
+Libya	Population growth (annual %)	mediumHigh	1.0000
+Iraq	Population growth (annual %)	high	1.0000
+Guatemala	Population growth (annual %)	mediumHigh	1.0000
+Qatar	CO2 emissions (metric tons per capita)	low	1.0000
+Egypt Arab Rep.	CO2 emissions (metric tons per capita)	medium	1.0000
+Vietnam	Population growth (annual %)	medium	1.0000
+Kazakhstan	CO2 emissions (metric tons per capita)	low	1.0000
+Turkmenistan	CO2 emissions (metric tons per capita)	low	1.0000
+El Salvador	Population growth (annual %)	mediumLow	1.0000
+Paraguay	Population growth (annual %)	medium	1.0000
+Ecuador	Population growth (annual %)	mediumHigh	1.0000
+Honduras	Population growth (annual %)	mediumHigh	1.0000
+Algeria	Population growth (annual %)	mediumHigh	1.0000
+Kazakhstan	Population growth (annual %)	medium	1.0000
+Qatar	Population growth (annual %)	mediumHigh	1.0000
+Turkmenistan	Population growth (annual %)	mediumHigh	1.0000
+Egypt Arab Rep.	Population growth (annual %)	mediumHigh	1.0000
+Morocco	Population growth (annual %)	medium	1.0000

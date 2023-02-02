@@ -1,0 +1,16 @@
+Vanuatu	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Vanuatu	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Greenland	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Hong Kong SAR China	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Seychelles	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Aruba	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Faroe Islands	Life expectancy at birth total (years)	high	1.0000
+Hong Kong SAR China	People using at least basic sanitation services (% of population)	medium	1.0000
+Hong Kong SAR China	Life expectancy at birth total (years)	high	1.0000
+Vanuatu	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Vanuatu	Life expectancy at birth total (years)	mediumLow	1.0000
+Seychelles	People using at least basic sanitation services (% of population)	high	1.0000
+Seychelles	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Seychelles	Life expectancy at birth total (years)	medium	1.0000
+Northern Mariana Islands	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Northern Mariana Islands	People using at least basic sanitation services (% of population)	mediumLow	1.0000

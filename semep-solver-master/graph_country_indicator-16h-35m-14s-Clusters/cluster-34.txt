@@ -1,0 +1,83 @@
+Brazil	People using at least basic sanitation services (% of population)	medium	1.0000
+Australia	People using at least basic sanitation services (% of population)	high	1.0000
+Australia	Prevalence of anemia among pregnant women (%)	high	1.0000
+Australia	Life expectancy at birth total (years)	high	1.0000
+Brazil	Prevalence of anemia among pregnant women (%)	high	1.0000
+Brazil	Life expectancy at birth total (years)	medium	1.0000
+Australia	GDP (current US$)	high	1.0000
+Canada	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Canada	Prevalence of anemia among pregnant women (%)	high	1.0000
+Canada	Life expectancy at birth total (years)	high	1.0000
+Canada	Hospital beds (per 1000 people)	mediumLow	1.0000
+Poland	People using at least basic sanitation services (% of population)	high	1.0000
+Poland	Life expectancy at birth total (years)	mediumHigh	1.0000
+Saudi Arabia	People using at least basic sanitation services (% of population)	high	1.0000
+Saudi Arabia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Saudi Arabia	Life expectancy at birth total (years)	medium	1.0000
+Saudi Arabia	GDP (current US$)	high	1.0000
+Mexico	People using at least basic sanitation services (% of population)	medium	1.0000
+Mexico	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Mexico	Life expectancy at birth total (years)	medium	1.0000
+Mexico	GDP (current US$)	high	1.0000
+Saudi Arabia	Gross national expenditure (current US$)	high	1.0000
+Mexico	Gross national expenditure (current US$)	high	1.0000
+Norway	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Norway	Life expectancy at birth total (years)	high	1.0000
+Brazil	GDP (current US$)	high	1.0000
+Korea Rep.	People using at least basic sanitation services (% of population)	high	1.0000
+Korea Rep.	Prevalence of anemia among pregnant women (%)	high	1.0000
+Korea Rep.	Life expectancy at birth total (years)	high	1.0000
+Russian Federation	People using at least basic sanitation services (% of population)	medium	1.0000
+Russian Federation	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Russian Federation	Life expectancy at birth total (years)	medium	1.0000
+Korea Rep.	GDP (current US$)	high	1.0000
+Russian Federation	GDP (current US$)	high	1.0000
+Brazil	Gross national expenditure (current US$)	high	1.0000
+Korea Rep.	Gross national expenditure (current US$)	high	1.0000
+Russian Federation	Gross national expenditure (current US$)	high	1.0000
+Norway	GDP (current US$)	high	1.0000
+Türkiye	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Türkiye	Life expectancy at birth total (years)	mediumHigh	1.0000
+Türkiye	GDP (current US$)	high	1.0000
+Türkiye	Gross national expenditure (current US$)	high	1.0000
+Ireland	People using at least basic sanitation services (% of population)	medium	1.0000
+Ireland	Prevalence of anemia among pregnant women (%)	high	1.0000
+Ireland	Life expectancy at birth total (years)	high	1.0000
+Ireland	GDP (current US$)	high	1.0000
+Ireland	Gross national expenditure (current US$)	high	1.0000
+Argentina	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Argentina	Life expectancy at birth total (years)	mediumHigh	1.0000
+United Arab Emirates	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+United Arab Emirates	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+United Arab Emirates	Life expectancy at birth total (years)	mediumHigh	1.0000
+Norway	Gross national expenditure (current US$)	high	1.0000
+Germany	Prevalence of anemia among pregnant women (%)	high	1.0000
+Germany	Life expectancy at birth total (years)	high	1.0000
+Singapore	People using at least basic sanitation services (% of population)	high	1.0000
+Singapore	Life expectancy at birth total (years)	high	1.0000
+Canada	Gross national expenditure (current US$)	high	1.0000
+Argentina	GDP (current US$)	high	1.0000
+Poland	Gross national expenditure (current US$)	high	1.0000
+United Arab Emirates	GDP (current US$)	high	1.0000
+China	People using at least basic sanitation services (% of population)	medium	1.0000
+China	Prevalence of anemia among pregnant women (%)	high	1.0000
+China	Life expectancy at birth total (years)	mediumHigh	1.0000
+Singapore	GDP (current US$)	high	1.0000
+China	GDP (current US$)	high	1.0000
+United States	Prevalence of anemia among pregnant women (%)	high	1.0000
+United States	Life expectancy at birth total (years)	mediumHigh	1.0000
+Argentina	Gross national expenditure (current US$)	high	1.0000
+United Arab Emirates	Gross national expenditure (current US$)	mediumHigh	1.0000
+Singapore	Gross national expenditure (current US$)	mediumHigh	1.0000
+China	Gross national expenditure (current US$)	high	1.0000
+Chile	People using at least basic sanitation services (% of population)	high	1.0000
+Chile	Prevalence of anemia among pregnant women (%)	high	1.0000
+Chile	Life expectancy at birth total (years)	high	1.0000
+Chile	GDP (current US$)	mediumHigh	1.0000
+Trinidad and Tobago	People using at least basic sanitation services (% of population)	medium	1.0000
+Trinidad and Tobago	Prevalence of anemia among pregnant women (%)	high	1.0000
+Trinidad and Tobago	Life expectancy at birth total (years)	medium	1.0000
+Germany	Gross national expenditure (current US$)	high	1.0000
+Chile	Gross national expenditure (current US$)	mediumHigh	1.0000
+United States	Gross national expenditure (current US$)	high	1.0000
+Trinidad and Tobago	GDP (current US$)	medium	1.0000

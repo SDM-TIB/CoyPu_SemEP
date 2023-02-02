@@ -1,0 +1,42 @@
+Bahamas The	People using at least basic sanitation services (% of population)	medium	1.0000
+Bahamas The	Prevalence of anemia among pregnant women (%)	high	1.0000
+Bahamas The	Life expectancy at birth total (years)	medium	1.0000
+Bahamas The	GDP (current US$)	mediumLow	1.0000
+Macao SAR China	GDP (current US$)	medium	1.0000
+Bahamas The	Gross national expenditure (current US$)	mediumLow	1.0000
+Libya	GDP (current US$)	mediumHigh	1.0000
+Kuwait	GDP (current US$)	mediumHigh	1.0000
+Serbia	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Serbia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Serbia	Life expectancy at birth total (years)	medium	1.0000
+Libya	People using at least basic sanitation services (% of population)	medium	1.0000
+Libya	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Libya	Life expectancy at birth total (years)	medium	1.0000
+Serbia	GDP (current US$)	medium	1.0000
+Libya	Gross national expenditure (current US$)	medium	1.0000
+Serbia	Gross national expenditure (current US$)	medium	1.0000
+Macao SAR China	Gross national expenditure (current US$)	medium	1.0000
+Bosnia and Herzegovina	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Latvia	GDP (current US$)	medium	1.0000
+Luxembourg	GDP (current US$)	mediumHigh	1.0000
+Greece	GDP (current US$)	mediumHigh	1.0000
+Slovenia	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Slovenia	Life expectancy at birth total (years)	high	1.0000
+Estonia	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Estonia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Estonia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Estonia	GDP (current US$)	medium	1.0000
+Portugal	GDP (current US$)	mediumHigh	1.0000
+Kuwait	Gross national expenditure (current US$)	mediumHigh	1.0000
+Estonia	Gross national expenditure (current US$)	medium	1.0000
+Lebanon	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Luxembourg	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Luxembourg	Prevalence of anemia among pregnant women (%)	high	1.0000
+Luxembourg	Life expectancy at birth total (years)	high	1.0000
+Belarus	GDP (current US$)	mediumHigh	1.0000
+Croatia	People using at least basic sanitation services (% of population)	medium	1.0000
+Bulgaria	GDP (current US$)	mediumHigh	1.0000
+Slovenia	GDP (current US$)	medium	1.0000
+Luxembourg	Gross national expenditure (current US$)	medium	1.0000
+Slovenia	Gross national expenditure (current US$)	medium	1.0000
+Portugal	Gross national expenditure (current US$)	mediumHigh	1.0000

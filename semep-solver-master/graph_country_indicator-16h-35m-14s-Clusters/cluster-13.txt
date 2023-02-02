@@ -1,0 +1,21 @@
+Liberia	GDP per capita (current LCU)	low	1.0000
+Mali	GDP per capita (current LCU)	mediumHigh	1.0000
+Benin	GDP per capita (current LCU)	mediumHigh	1.0000
+Côte d\'Ivoire	GDP per capita (current LCU)	high	1.0000
+Congo Dem. Rep.	GDP per capita (current LCU)	high	1.0000
+Ethiopia	GDP per capita (current LCU)	mediumLow	1.0000
+Gambia The	GDP per capita (current LCU)	mediumLow	1.0000
+Chad	GDP per capita (current LCU)	mediumHigh	1.0000
+Somalia	GDP per capita (current LCU)	high	1.0000
+Papua New Guinea	GDP per capita (current LCU)	low	1.0000
+Cameroon	GDP per capita (current LCU)	high	1.0000
+Niger	GDP per capita (current LCU)	mediumHigh	1.0000
+Malawi	GDP per capita (current LCU)	mediumHigh	1.0000
+Zambia	GDP per capita (current LCU)	low	1.0000
+Solomon Islands	GDP per capita (current LCU)	low	1.0000
+Burkina Faso	GDP per capita (current LCU)	mediumHigh	1.0000
+Togo	GDP per capita (current LCU)	mediumHigh	1.0000
+Sudan	GDP per capita (current LCU)	mediumLow	1.0000
+Mozambique	GDP per capita (current LCU)	mediumLow	1.0000
+Guinea	GDP per capita (current LCU)	high	1.0000
+Equatorial Guinea	GDP per capita (current LCU)	high	1.0000

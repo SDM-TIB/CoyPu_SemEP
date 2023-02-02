@@ -1,0 +1,39 @@
+Tonga	Prevalence of current tobacco use (% of adults)	low	1.0000
+Vanuatu	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Comoros	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Greenland	Population growth (annual %)	mediumLow	1.0000
+Northern Mariana Islands	Population growth (annual %)	mediumLow	1.0000
+Vanuatu	Gini index	medium	1.0000
+Tuvalu	Prevalence of current tobacco use (% of adults)	low	1.0000
+Gambia The	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Vanuatu	Population growth (annual %)	high	1.0000
+Solomon Islands	Prevalence of current tobacco use (% of adults)	low	1.0000
+Burundi	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Cabo Verde	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Comoros	Population growth (annual %)	mediumHigh	1.0000
+Marshall Islands	Gini index	medium	1.0000
+Micronesia Fed. Sts.	Population growth (annual %)	medium	1.0000
+Kiribati	Gini index	low	1.0000
+Afghanistan	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Burundi	Population growth (annual %)	high	1.0000
+Gambia The	Population growth (annual %)	high	1.0000
+Central African Republic	Population growth (annual %)	mediumHigh	1.0000
+Solomon Islands	Population growth (annual %)	high	1.0000
+Afghanistan	Population growth (annual %)	high	1.0000
+Comoros	Industry (including construction) value added (% of GDP)	low	1.0000
+Gambia The	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Micronesia Fed. Sts.	Industry (including construction) value added (% of GDP)	low	1.0000
+São Tomé and Principe	Prevalence of current tobacco use (% of adults)	high	1.0000
+Lesotho	Population growth (annual %)	medium	1.0000
+Cabo Verde	Population growth (annual %)	medium	1.0000
+Burundi	Industry (including construction) value added (% of GDP)	low	1.0000
+Kiribati	Industry (including construction) value added (% of GDP)	low	1.0000
+Lesotho	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Central African Republic	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Djibouti	Population growth (annual %)	mediumHigh	1.0000
+Marshall Islands	Industry (including construction) value added (% of GDP)	low	1.0000
+Cabo Verde	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Afghanistan	Industry (including construction) value added (% of GDP)	low	1.0000
+São Tomé and Principe	Population growth (annual %)	mediumHigh	1.0000
+Djibouti	Industry (including construction) value added (% of GDP)	low	1.0000
+São Tomé and Principe	Industry (including construction) value added (% of GDP)	low	1.0000

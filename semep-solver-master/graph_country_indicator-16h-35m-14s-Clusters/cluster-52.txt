@@ -1,0 +1,22 @@
+Romania	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Tunisia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Ecuador	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Guyana	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Guyana	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Azerbaijan	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Azerbaijan	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Russian Federation	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+El Salvador	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Romania	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+El Salvador	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Tunisia	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Armenia	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Jordan	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Jordan	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Trinidad and Tobago	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Honduras	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Trinidad and Tobago	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Libya	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Brunei Darussalam	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Egypt Arab Rep.	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Kazakhstan	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000

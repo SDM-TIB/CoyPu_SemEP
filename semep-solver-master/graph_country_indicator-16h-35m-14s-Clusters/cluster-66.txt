@@ -1,0 +1,15 @@
+Ireland	GDP per capita (current LCU)	medium	1.0000
+Australia	GDP per capita (current LCU)	medium	1.0000
+Norway	GDP per capita (current LCU)	mediumHigh	1.0000
+Canada	GDP per capita (current LCU)	medium	1.0000
+Poland	GDP per capita (current LCU)	medium	1.0000
+Switzerland	GDP per capita (current LCU)	medium	1.0000
+New Zealand	GDP per capita (current LCU)	medium	1.0000
+Denmark	GDP per capita (current LCU)	mediumHigh	1.0000
+United Arab Emirates	GDP per capita (current LCU)	medium	1.0000
+United Kingdom	GDP per capita (current LCU)	mediumLow	1.0000
+Singapore	GDP per capita (current LCU)	medium	1.0000
+Germany	GDP per capita (current LCU)	mediumLow	1.0000
+Iceland	GDP per capita (current LCU)	high	1.0000
+Japan	GDP per capita (current LCU)	high	1.0000
+United States	GDP per capita (current LCU)	medium	1.0000

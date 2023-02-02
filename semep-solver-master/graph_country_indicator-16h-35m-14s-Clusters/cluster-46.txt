@@ -1,0 +1,29 @@
+Andorra	Prevalence of current tobacco use (% of adults)	low	1.0000
+Bahamas The	Prevalence of current tobacco use (% of adults)	high	1.0000
+Barbados	Prevalence of current tobacco use (% of adults)	high	1.0000
+Montenegro	Prevalence of current tobacco use (% of adults)	low	1.0000
+Gibraltar	Population growth (annual %)	low	1.0000
+Curaçao	Population growth (annual %)	low	1.0000
+Latvia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Macao SAR China	Population growth (annual %)	medium	1.0000
+Lebanon	Prevalence of current tobacco use (% of adults)	low	1.0000
+Bahamas The	Population growth (annual %)	medium	1.0000
+Latvia	Gini index	medium	1.0000
+Bahamas The	Industry (including construction) value added (% of GDP)	low	1.0000
+Latvia	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Cyprus	Prevalence of current tobacco use (% of adults)	low	1.0000
+Bosnia and Herzegovina	Prevalence of current tobacco use (% of adults)	low	1.0000
+Greece	Prevalence of current tobacco use (% of adults)	low	1.0000
+Dominica	Population growth (annual %)	low	1.0000
+Croatia	Gini index	mediumLow	1.0000
+Lebanon	Industry (including construction) value added (% of GDP)	low	1.0000
+New Caledonia	Population growth (annual %)	low	1.0000
+Latvia	Population growth (annual %)	low	1.0000
+New Caledonia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Bosnia and Herzegovina	Industry (including construction) value added (% of GDP)	medium	1.0000
+St. Lucia	Population growth (annual %)	mediumLow	1.0000
+Lebanon	Population growth (annual %)	low	1.0000
+France	Population growth (annual %)	low	1.0000
+Bosnia and Herzegovina	Population growth (annual %)	low	1.0000
+Cyprus	Industry (including construction) value added (% of GDP)	low	1.0000
+Croatia	Industry (including construction) value added (% of GDP)	mediumLow	1.0000

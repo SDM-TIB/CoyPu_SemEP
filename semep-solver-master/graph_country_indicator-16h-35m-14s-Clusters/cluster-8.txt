@@ -1,0 +1,45 @@
+Liberia	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Benin	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Burundi	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Gambia The	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Papua New Guinea	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Chad	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Mali	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Niger	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Côte d\'Ivoire	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Somalia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Cameroon	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Sudan	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Benin	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Mali	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Niger	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Côte d\'Ivoire	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Sudan	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Somalia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Cameroon	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Equatorial Guinea	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Mozambique	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Congo Dem. Rep.	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Yemen Rep.	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Gabon	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Congo Dem. Rep.	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Gabon	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Yemen Rep.	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Togo	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Burkina Faso	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Guinea	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Malawi	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Mozambique	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Guinea	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Malawi	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Nigeria	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Liberia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Burundi	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Gambia The	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Central African Republic	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Papua New Guinea	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Chad	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Guinea-Bissau	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Burkina Faso	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Nigeria	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Congo Rep.	Incidence of tuberculosis (per 100000 people)	low	1.0000

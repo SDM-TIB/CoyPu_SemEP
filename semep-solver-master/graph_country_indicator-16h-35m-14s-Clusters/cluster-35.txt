@@ -1,0 +1,52 @@
+Oman	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Sint Maarten (Dutch part)	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Latvia	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Oman	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Oman	Life expectancy at birth total (years)	mediumHigh	1.0000
+Panama	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Costa Rica	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Panama	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Panama	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Panama	Life expectancy at birth total (years)	mediumHigh	1.0000
+Ecuador	People using at least basic sanitation services (% of population)	medium	1.0000
+Ecuador	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Ecuador	Life expectancy at birth total (years)	mediumHigh	1.0000
+Costa Rica	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Costa Rica	Prevalence of anemia among pregnant women (%)	high	1.0000
+Costa Rica	Life expectancy at birth total (years)	high	1.0000
+Guatemala	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Bahrain	People using at least basic sanitation services (% of population)	high	1.0000
+Bahrain	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Bahrain	Life expectancy at birth total (years)	mediumHigh	1.0000
+Guatemala	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Guatemala	Prevalence of anemia among pregnant women (%)	high	1.0000
+Guatemala	Life expectancy at birth total (years)	medium	1.0000
+Iran Islamic Rep.	People using at least basic sanitation services (% of population)	medium	1.0000
+Iran Islamic Rep.	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Iran Islamic Rep.	Life expectancy at birth total (years)	mediumHigh	1.0000
+Kuwait	People using at least basic sanitation services (% of population)	high	1.0000
+Kuwait	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Kuwait	Life expectancy at birth total (years)	medium	1.0000
+Turkmenistan	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Lithuania	People using at least basic sanitation services (% of population)	medium	1.0000
+Lithuania	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Lithuania	Life expectancy at birth total (years)	mediumHigh	1.0000
+Kazakhstan	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Kazakhstan	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Kazakhstan	Life expectancy at birth total (years)	medium	1.0000
+Turkmenistan	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Turkmenistan	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Turkmenistan	Life expectancy at birth total (years)	mediumLow	1.0000
+Morocco	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Morocco	People using at least basic sanitation services (% of population)	medium	1.0000
+Morocco	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Morocco	Life expectancy at birth total (years)	mediumHigh	1.0000
+Ecuador	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Latvia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Latvia	Life expectancy at birth total (years)	medium	1.0000
+Bahrain	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Belarus	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Belarus	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Belarus	Life expectancy at birth total (years)	medium	1.0000
+Bulgaria	People using at least basic sanitation services (% of population)	medium	1.0000
+Bulgaria	Life expectancy at birth total (years)	medium	1.0000

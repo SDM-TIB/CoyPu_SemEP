@@ -1,0 +1,33 @@
+Kuwait	Prevalence of current tobacco use (% of adults)	medium	1.0000
+St. Martin (French part)	Population growth (annual %)	mediumHigh	1.0000
+Canada	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Poland	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Japan	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Australia	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Korea Rep.	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Canada	Population growth (annual %)	mediumHigh	1.0000
+Russian Federation	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Poland	Population growth (annual %)	low	1.0000
+Korea Rep.	Population growth (annual %)	mediumLow	1.0000
+Russian Federation	Gini index	mediumHigh	1.0000
+Norway	Gini index	low	1.0000
+Poland	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Ireland	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Australia	Population growth (annual %)	mediumHigh	1.0000
+Singapore	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Kuwait	Industry (including construction) value added (% of GDP)	high	1.0000
+Russian Federation	Population growth (annual %)	low	1.0000
+Germany	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Chile	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+New Zealand	Population growth (annual %)	mediumHigh	1.0000
+United Arab Emirates	Population growth (annual %)	mediumHigh	1.0000
+Singapore	Population growth (annual %)	medium	1.0000
+Japan	Population growth (annual %)	low	1.0000
+Korea Rep.	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Japan	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Kuwait	Population growth (annual %)	mediumHigh	1.0000
+United States	Gini index	mediumHigh	1.0000
+United Arab Emirates	Industry (including construction) value added (% of GDP)	high	1.0000
+Singapore	Industry (including construction) value added (% of GDP)	medium	1.0000
+Chile	Population growth (annual %)	medium	1.0000
+Chile	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000

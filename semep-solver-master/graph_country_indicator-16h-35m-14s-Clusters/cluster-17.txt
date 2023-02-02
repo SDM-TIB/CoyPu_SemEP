@@ -1,0 +1,19 @@
+Nepal	GDP per capita (current LCU)	medium	1.0000
+Myanmar	GDP per capita (current LCU)	high	1.0000
+Tanzania	GDP per capita (current LCU)	high	1.0000
+Peru	GDP per capita (current LCU)	mediumLow	1.0000
+Sri Lanka	GDP per capita (current LCU)	mediumHigh	1.0000
+Senegal	GDP per capita (current LCU)	high	1.0000
+Uganda	GDP per capita (current LCU)	high	1.0000
+Angola	GDP per capita (current LCU)	high	1.0000
+Bolivia	GDP per capita (current LCU)	mediumLow	1.0000
+Ghana	GDP per capita (current LCU)	low	1.0000
+Bangladesh	GDP per capita (current LCU)	mediumHigh	1.0000
+Uzbekistan	GDP per capita (current LCU)	high	1.0000
+Yemen Rep.	GDP per capita (current LCU)	mediumHigh	1.0000
+Cambodia	GDP per capita (current LCU)	high	1.0000
+Lao PDR	GDP per capita (current LCU)	high	1.0000
+Zimbabwe	GDP per capita (current LCU)	low	1.0000
+Botswana	GDP per capita (current LCU)	medium	1.0000
+Gabon	GDP per capita (current LCU)	high	1.0000
+Tajikistan	GDP per capita (current LCU)	low	1.0000

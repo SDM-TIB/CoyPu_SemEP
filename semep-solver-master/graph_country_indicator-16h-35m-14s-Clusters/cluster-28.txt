@@ -1,0 +1,32 @@
+St. Martin (French part)	People using at least basic sanitation services (% of population)	high	1.0000
+St. Martin (French part)	Life expectancy at birth total (years)	high	1.0000
+Turks and Caicos Islands	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Andorra	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+San Marino	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Macao SAR China	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Guam	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Guam	Life expectancy at birth total (years)	high	1.0000
+Macao SAR China	People using at least basic sanitation services (% of population)	high	1.0000
+Macao SAR China	Life expectancy at birth total (years)	high	1.0000
+Malta	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+San Marino	Prevalence of anemia among pregnant women (%)	high	1.0000
+Andorra	Prevalence of anemia among pregnant women (%)	high	1.0000
+Belgium	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Malta	People using at least basic sanitation services (% of population)	high	1.0000
+Malta	Prevalence of anemia among pregnant women (%)	high	1.0000
+Malta	Life expectancy at birth total (years)	high	1.0000
+France	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Spain	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Finland	Prevalence of anemia among pregnant women (%)	high	1.0000
+Finland	Life expectancy at birth total (years)	high	1.0000
+Portugal	People using at least basic sanitation services (% of population)	high	1.0000
+Portugal	Life expectancy at birth total (years)	high	1.0000
+Belgium	Prevalence of anemia among pregnant women (%)	high	1.0000
+Belgium	Life expectancy at birth total (years)	high	1.0000
+France	Prevalence of anemia among pregnant women (%)	high	1.0000
+France	Life expectancy at birth total (years)	high	1.0000
+Luxembourg	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Portugal	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Spain	People using at least basic sanitation services (% of population)	high	1.0000
+Spain	Prevalence of anemia among pregnant women (%)	high	1.0000
+Spain	Life expectancy at birth total (years)	high	1.0000

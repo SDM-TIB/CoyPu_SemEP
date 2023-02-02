@@ -1,0 +1,16 @@
+New Zealand	CO2 emissions (metric tons per capita)	low	1.0000
+Australia	CO2 emissions (metric tons per capita)	low	1.0000
+Norway	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Canada	CO2 emissions (metric tons per capita)	low	1.0000
+Ireland	CO2 emissions (metric tons per capita)	low	1.0000
+Korea Rep.	CO2 emissions (metric tons per capita)	low	1.0000
+United Arab Emirates	CO2 emissions (metric tons per capita)	low	1.0000
+China	CO2 emissions (metric tons per capita)	low	1.0000
+Poland	CO2 emissions (metric tons per capita)	low	1.0000
+United Kingdom	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Germany	CO2 emissions (metric tons per capita)	low	1.0000
+Russian Federation	CO2 emissions (metric tons per capita)	low	1.0000
+Singapore	CO2 emissions (metric tons per capita)	low	1.0000
+Japan	CO2 emissions (metric tons per capita)	low	1.0000
+Chile	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+United States	CO2 emissions (metric tons per capita)	low	1.0000

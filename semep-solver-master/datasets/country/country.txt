@@ -1,4 +1,4 @@
-215
+211
 Afghanistan
 Albania
 Algeria
@@ -47,10 +47,8 @@ Congo Rep.
 Costa Rica
 Croatia
 Cuba
-Curaçao
 Cyprus
 Czech Republic
-Côte d\'Ivoire
 Denmark
 Djibouti
 Dominica
@@ -186,7 +184,6 @@ Suriname
 Sweden
 Switzerland
 Syrian Arab Republic
-São Tomé and Principe
 Tajikistan
 Tanzania
 Thailand
@@ -198,7 +195,6 @@ Tunisia
 Turkmenistan
 Turks and Caicos Islands
 Tuvalu
-Türkiye
 Uganda
 Ukraine
 United Arab Emirates

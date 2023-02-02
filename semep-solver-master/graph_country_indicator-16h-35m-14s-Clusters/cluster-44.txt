@@ -1,0 +1,14 @@
+Sri Lanka	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Mongolia	CO2 emissions (metric tons per capita)	low	1.0000
+Rwanda	CO2 emissions (metric tons per capita)	high	1.0000
+Nepal	CO2 emissions (metric tons per capita)	high	1.0000
+Belize	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Venezuela RB	CO2 emissions (metric tons per capita)	medium	1.0000
+Guyana	CO2 emissions (metric tons per capita)	medium	1.0000
+Bahrain	CO2 emissions (metric tons per capita)	low	1.0000
+Kyrgyz Republic	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Bolivia	CO2 emissions (metric tons per capita)	medium	1.0000
+Ukraine	CO2 emissions (metric tons per capita)	medium	1.0000
+Nicaragua	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Uzbekistan	CO2 emissions (metric tons per capita)	medium	1.0000
+Botswana	CO2 emissions (metric tons per capita)	medium	1.0000

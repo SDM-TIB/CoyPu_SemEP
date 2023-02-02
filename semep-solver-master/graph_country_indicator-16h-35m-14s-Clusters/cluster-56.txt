@@ -1,0 +1,70 @@
+Vanuatu	GDP (current US$)	low	1.0000
+South Africa	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+South Africa	Prevalence of anemia among pregnant women (%)	medium	1.0000
+South Africa	Life expectancy at birth total (years)	low	1.0000
+South Africa	GDP (current US$)	high	1.0000
+South Africa	Gross national expenditure (current US$)	high	1.0000
+Namibia	People using at least basic sanitation services (% of population)	low	1.0000
+Namibia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Namibia	Life expectancy at birth total (years)	low	1.0000
+Namibia	GDP (current US$)	mediumLow	1.0000
+Namibia	Gross national expenditure (current US$)	mediumLow	1.0000
+Lesotho	People using at least basic sanitation services (% of population)	low	1.0000
+Lesotho	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Lesotho	Life expectancy at birth total (years)	low	1.0000
+Kiribati	GDP (current US$)	low	1.0000
+Lesotho	GDP (current US$)	low	1.0000
+Timor-Leste	GDP (current US$)	low	1.0000
+Lesotho	Gross national expenditure (current US$)	low	1.0000
+Timor-Leste	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Timor-Leste	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Timor-Leste	Life expectancy at birth total (years)	mediumLow	1.0000
+Comoros	GDP (current US$)	low	1.0000
+Burundi	GDP (current US$)	low	1.0000
+Comoros	People using at least basic sanitation services (% of population)	low	1.0000
+Comoros	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Comoros	Life expectancy at birth total (years)	low	1.0000
+Vanuatu	Gross national expenditure (current US$)	low	1.0000
+Central African Republic	GDP (current US$)	low	1.0000
+Sierra Leone	People using at least basic sanitation services (% of population)	low	1.0000
+Sierra Leone	Prevalence of anemia among pregnant women (%)	low	1.0000
+Sierra Leone	Life expectancy at birth total (years)	low	1.0000
+Sierra Leone	GDP (current US$)	low	1.0000
+Guinea-Bissau	People using at least basic sanitation services (% of population)	low	1.0000
+Guinea-Bissau	Life expectancy at birth total (years)	low	1.0000
+Djibouti	GDP (current US$)	low	1.0000
+Guinea-Bissau	GDP (current US$)	low	1.0000
+Timor-Leste	Gross national expenditure (current US$)	low	1.0000
+Comoros	Gross national expenditure (current US$)	low	1.0000
+Kenya	People using at least basic sanitation services (% of population)	low	1.0000
+Kenya	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Kenya	Life expectancy at birth total (years)	mediumLow	1.0000
+Kenya	GDP (current US$)	mediumHigh	1.0000
+São Tomé and Principe	GDP (current US$)	low	1.0000
+Korea Dem. People\'s Rep.	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Korea Dem. People\'s Rep.	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Korea Dem. People\'s Rep.	Life expectancy at birth total (years)	mediumLow	1.0000
+Sierra Leone	Gross national expenditure (current US$)	low	1.0000
+Mauritania	Gross national expenditure (current US$)	low	1.0000
+Guinea-Bissau	Gross national expenditure (current US$)	low	1.0000
+Kenya	Gross national expenditure (current US$)	mediumHigh	1.0000
+Burundi	People using at least basic sanitation services (% of population)	low	1.0000
+Burundi	Prevalence of anemia among pregnant women (%)	low	1.0000
+Burundi	Life expectancy at birth total (years)	low	1.0000
+Central African Republic	People using at least basic sanitation services (% of population)	low	1.0000
+Central African Republic	Prevalence of anemia among pregnant women (%)	low	1.0000
+Central African Republic	Life expectancy at birth total (years)	low	1.0000
+Cabo Verde	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Burundi	Gross national expenditure (current US$)	low	1.0000
+Eswatini	Life expectancy at birth total (years)	low	1.0000
+Central African Republic	Gross national expenditure (current US$)	low	1.0000
+Eswatini	GDP (current US$)	mediumLow	1.0000
+Pakistan	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Pakistan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Pakistan	Life expectancy at birth total (years)	mediumLow	1.0000
+Congo Rep.	People using at least basic sanitation services (% of population)	low	1.0000
+Pakistan	GDP (current US$)	high	1.0000
+Congo Rep.	GDP (current US$)	mediumLow	1.0000
+Eswatini	Gross national expenditure (current US$)	low	1.0000
+Pakistan	Gross national expenditure (current US$)	mediumHigh	1.0000
+Congo Rep.	Gross national expenditure (current US$)	low	1.0000

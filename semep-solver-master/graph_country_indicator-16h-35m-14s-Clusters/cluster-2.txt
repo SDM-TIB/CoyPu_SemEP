@@ -1,0 +1,36 @@
+Liechtenstein	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Israel	CO2 emissions (metric tons per capita)	low	1.0000
+Austria	CO2 emissions (metric tons per capita)	low	1.0000
+St. Kitts and Nevis	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Andorra	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Switzerland	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Netherlands	CO2 emissions (metric tons per capita)	low	1.0000
+Italy	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Denmark	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Belgium	CO2 emissions (metric tons per capita)	low	1.0000
+Sweden	CO2 emissions (metric tons per capita)	medium	1.0000
+France	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Spain	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Liechtenstein	Population growth (annual %)	low	1.0000
+Faroe Islands	Population growth (annual %)	mediumLow	1.0000
+Aruba	Population growth (annual %)	mediumLow	1.0000
+Iceland	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Finland	CO2 emissions (metric tons per capita)	low	1.0000
+San Marino	Population growth (annual %)	low	1.0000
+Bermuda	Population growth (annual %)	low	1.0000
+Andorra	Population growth (annual %)	low	1.0000
+Monaco	Population growth (annual %)	mediumLow	1.0000
+Cyprus	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Israel	Population growth (annual %)	mediumHigh	1.0000
+Austria	Population growth (annual %)	mediumLow	1.0000
+Switzerland	Population growth (annual %)	mediumLow	1.0000
+Netherlands	Population growth (annual %)	mediumLow	1.0000
+Denmark	Population growth (annual %)	mediumLow	1.0000
+Iceland	Population growth (annual %)	mediumHigh	1.0000
+Belgium	Population growth (annual %)	mediumLow	1.0000
+Sweden	Population growth (annual %)	medium	1.0000
+Italy	Population growth (annual %)	low	1.0000
+Spain	Population growth (annual %)	mediumLow	1.0000
+United States	Population growth (annual %)	mediumLow	1.0000
+Cyprus	Population growth (annual %)	mediumLow	1.0000
+Finland	Population growth (annual %)	low	1.0000

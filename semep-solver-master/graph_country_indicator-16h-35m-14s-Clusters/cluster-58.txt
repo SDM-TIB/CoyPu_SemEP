@@ -1,0 +1,59 @@
+Jamaica	People using at least basic sanitation services (% of population)	medium	1.0000
+Jamaica	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Jamaica	Life expectancy at birth total (years)	medium	1.0000
+Jamaica	GDP (current US$)	mediumLow	1.0000
+West Bank and Gaza	GDP (current US$)	medium	1.0000
+West Bank and Gaza	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+West Bank and Gaza	Life expectancy at birth total (years)	medium	1.0000
+West Bank and Gaza	Gross national expenditure (current US$)	mediumLow	1.0000
+Slovak Republic	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Slovak Republic	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Slovak Republic	Life expectancy at birth total (years)	mediumHigh	1.0000
+Slovak Republic	GDP (current US$)	mediumHigh	1.0000
+Belize	GDP (current US$)	low	1.0000
+Slovak Republic	Gross national expenditure (current US$)	mediumHigh	1.0000
+Jamaica	Gross national expenditure (current US$)	mediumLow	1.0000
+Barbados	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Montenegro	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Jordan	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Jordan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Jordan	Life expectancy at birth total (years)	medium	1.0000
+Jordan	GDP (current US$)	medium	1.0000
+Jordan	Gross national expenditure (current US$)	medium	1.0000
+Belize	People using at least basic sanitation services (% of population)	medium	1.0000
+Belize	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Belize	Life expectancy at birth total (years)	medium	1.0000
+Belize	Gross national expenditure (current US$)	low	1.0000
+Dominica	GDP (current US$)	low	1.0000
+Tunisia	People using at least basic sanitation services (% of population)	medium	1.0000
+Tunisia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Tunisia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Tunisia	GDP (current US$)	medium	1.0000
+Tunisia	Gross national expenditure (current US$)	medium	1.0000
+Albania	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Bosnia and Herzegovina	Life expectancy at birth total (years)	mediumHigh	1.0000
+Grenada	GDP (current US$)	low	1.0000
+Bosnia and Herzegovina	GDP (current US$)	medium	1.0000
+St. Vincent and the Grenadines	GDP (current US$)	low	1.0000
+Bosnia and Herzegovina	Gross national expenditure (current US$)	mediumLow	1.0000
+North Macedonia	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Latvia	People using at least basic sanitation services (% of population)	medium	1.0000
+Maldives	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Lebanon	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Lebanon	Life expectancy at birth total (years)	mediumHigh	1.0000
+Lebanon	GDP (current US$)	medium	1.0000
+Greece	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Greece	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Greece	Life expectancy at birth total (years)	high	1.0000
+Cuba	People using at least basic sanitation services (% of population)	medium	1.0000
+Cuba	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Cuba	Life expectancy at birth total (years)	mediumHigh	1.0000
+Latvia	Gross national expenditure (current US$)	medium	1.0000
+Cuba	GDP (current US$)	mediumHigh	1.0000
+Lebanon	Gross national expenditure (current US$)	medium	1.0000
+Greece	Gross national expenditure (current US$)	mediumHigh	1.0000
+Cuba	Gross national expenditure (current US$)	mediumHigh	1.0000
+Belarus	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Bulgaria	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Belarus	Gross national expenditure (current US$)	medium	1.0000
+Bulgaria	Gross national expenditure (current US$)	medium	1.0000

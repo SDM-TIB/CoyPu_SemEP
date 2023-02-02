@@ -1,0 +1,31 @@
+South Sudan	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+South Africa	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+India	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+South Africa	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Tuvalu	Incidence of tuberculosis (per 100000 people)	low	1.0000
+India	Incidence of tuberculosis (per 100000 people)	low	1.0000
+South Sudan	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Sierra Leone	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Djibouti	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Guinea-Bissau	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Haiti	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Madagascar	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Kenya	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Philippines	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Congo Rep.	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Bhutan	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Sierra Leone	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Togo	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Mauritania	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Djibouti	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Haiti	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Kenya	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Madagascar	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Philippines	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Korea Dem. People\'s Rep.	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Namibia	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Eswatini	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Pakistan	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Cabo Verde	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Pakistan	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Bhutan	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000

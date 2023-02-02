@@ -1,0 +1,11 @@
+Colombia	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Brazil	CO2 emissions (metric tons per capita)	medium	1.0000
+Thailand	CO2 emissions (metric tons per capita)	medium	1.0000
+Argentina	CO2 emissions (metric tons per capita)	medium	1.0000
+Seychelles	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Malaysia	CO2 emissions (metric tons per capita)	low	1.0000
+Saudi Arabia	CO2 emissions (metric tons per capita)	low	1.0000
+Suriname	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Uruguay	CO2 emissions (metric tons per capita)	medium	1.0000
+Mexico	CO2 emissions (metric tons per capita)	medium	1.0000
+Türkiye	CO2 emissions (metric tons per capita)	mediumLow	1.0000

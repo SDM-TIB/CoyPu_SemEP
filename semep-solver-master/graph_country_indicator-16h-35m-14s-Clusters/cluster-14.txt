@@ -1,0 +1,17 @@
+India	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+South Sudan	CO2 emissions (metric tons per capita)	high	1.0000
+South Africa	CO2 emissions (metric tons per capita)	low	1.0000
+Philippines	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Bangladesh	CO2 emissions (metric tons per capita)	high	1.0000
+Bhutan	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Namibia	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Djibouti	CO2 emissions (metric tons per capita)	high	1.0000
+Haiti	CO2 emissions (metric tons per capita)	high	1.0000
+Kenya	CO2 emissions (metric tons per capita)	high	1.0000
+Indonesia	CO2 emissions (metric tons per capita)	medium	1.0000
+Korea Dem. People\'s Rep.	CO2 emissions (metric tons per capita)	medium	1.0000
+Cabo Verde	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Pakistan	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Madagascar	CO2 emissions (metric tons per capita)	high	1.0000
+Eswatini	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Congo Rep.	CO2 emissions (metric tons per capita)	mediumHigh	1.0000

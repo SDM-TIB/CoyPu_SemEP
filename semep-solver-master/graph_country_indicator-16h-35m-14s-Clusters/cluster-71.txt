@@ -1,0 +1,63 @@
+Denmark	People using at least basic sanitation services (% of population)	high	1.0000
+Denmark	Prevalence of anemia among pregnant women (%)	high	1.0000
+Denmark	Life expectancy at birth total (years)	high	1.0000
+Denmark	Hospital beds (per 1000 people)	medium	1.0000
+Puerto Rico	People using at least basic sanitation services (% of population)	high	1.0000
+Puerto Rico	Life expectancy at birth total (years)	high	1.0000
+Austria	People using at least basic sanitation services (% of population)	high	1.0000
+Denmark	GDP (current US$)	high	1.0000
+Iceland	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Iceland	Prevalence of anemia among pregnant women (%)	high	1.0000
+Iceland	Life expectancy at birth total (years)	high	1.0000
+Iceland	Hospital beds (per 1000 people)	medium	1.0000
+Denmark	Gross national expenditure (current US$)	mediumHigh	1.0000
+Hungary	GDP (current US$)	mediumHigh	1.0000
+Czech Republic	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Czech Republic	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Czech Republic	Life expectancy at birth total (years)	mediumHigh	1.0000
+Czech Republic	GDP (current US$)	mediumHigh	1.0000
+Czech Republic	Gross national expenditure (current US$)	mediumHigh	1.0000
+Austria	Prevalence of anemia among pregnant women (%)	high	1.0000
+Austria	Life expectancy at birth total (years)	high	1.0000
+Switzerland	People using at least basic sanitation services (% of population)	high	1.0000
+Switzerland	Prevalence of anemia among pregnant women (%)	high	1.0000
+Switzerland	Life expectancy at birth total (years)	high	1.0000
+Norway	Prevalence of anemia among pregnant women (%)	high	1.0000
+Canada	GDP (current US$)	high	1.0000
+Italy	People using at least basic sanitation services (% of population)	high	1.0000
+Poland	GDP (current US$)	high	1.0000
+New Zealand	People using at least basic sanitation services (% of population)	high	1.0000
+New Zealand	Prevalence of anemia among pregnant women (%)	high	1.0000
+New Zealand	Life expectancy at birth total (years)	high	1.0000
+New Zealand	Hospital beds (per 1000 people)	mediumLow	1.0000
+United Kingdom	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+United Kingdom	Prevalence of anemia among pregnant women (%)	high	1.0000
+United Kingdom	Life expectancy at birth total (years)	high	1.0000
+United Kingdom	Hospital beds (per 1000 people)	low	1.0000
+Germany	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Singapore	Prevalence of anemia among pregnant women (%)	high	1.0000
+Japan	People using at least basic sanitation services (% of population)	high	1.0000
+Japan	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Japan	Life expectancy at birth total (years)	high	1.0000
+Japan	GDP (current US$)	high	1.0000
+Japan	Gross national expenditure (current US$)	high	1.0000
+Puerto Rico	GDP (current US$)	mediumHigh	1.0000
+United States	People using at least basic sanitation services (% of population)	high	1.0000
+Puerto Rico	Gross national expenditure (current US$)	mediumHigh	1.0000
+Slovenia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Hungary	Gross national expenditure (current US$)	mediumHigh	1.0000
+Israel	People using at least basic sanitation services (% of population)	high	1.0000
+Israel	Prevalence of anemia among pregnant women (%)	high	1.0000
+Israel	Life expectancy at birth total (years)	high	1.0000
+Netherlands	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Netherlands	Prevalence of anemia among pregnant women (%)	high	1.0000
+Netherlands	Life expectancy at birth total (years)	high	1.0000
+Australia	Gross national expenditure (current US$)	high	1.0000
+Sweden	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Sweden	Prevalence of anemia among pregnant women (%)	high	1.0000
+Sweden	Life expectancy at birth total (years)	high	1.0000
+Luxembourg	Hospital beds (per 1000 people)	mediumHigh	1.0000
+Finland	People using at least basic sanitation services (% of population)	high	1.0000
+Portugal	Prevalence of anemia among pregnant women (%)	high	1.0000
+Belgium	Hospital beds (per 1000 people)	high	1.0000
+Spain	GDP (current US$)	high	1.0000

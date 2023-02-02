@@ -1,0 +1,17 @@
+Tonga	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Micronesia Fed. Sts.	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Turks and Caicos Islands	Population growth (annual %)	mediumHigh	1.0000
+Timor-Leste	CO2 emissions (metric tons per capita)	high	1.0000
+Marshall Islands	CO2 emissions (metric tons per capita)	medium	1.0000
+Tuvalu	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Nauru	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Kiribati	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Lesotho	CO2 emissions (metric tons per capita)	high	1.0000
+American Samoa	Population growth (annual %)	low	1.0000
+Timor-Leste	Population growth (annual %)	mediumHigh	1.0000
+Tuvalu	Population growth (annual %)	medium	1.0000
+Tonga	Population growth (annual %)	medium	1.0000
+Marshall Islands	Population growth (annual %)	mediumLow	1.0000
+Nauru	Population growth (annual %)	medium	1.0000
+Samoa	Population growth (annual %)	mediumLow	1.0000
+Kiribati	Population growth (annual %)	mediumHigh	1.0000

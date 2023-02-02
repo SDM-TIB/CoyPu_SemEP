@@ -1,0 +1,48 @@
+India	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+India	Prevalence of anemia among pregnant women (%)	low	1.0000
+India	Life expectancy at birth total (years)	mediumLow	1.0000
+India	GDP (current US$)	high	1.0000
+India	Gross national expenditure (current US$)	high	1.0000
+Nigeria	GDP (current US$)	high	1.0000
+Nigeria	People using at least basic sanitation services (% of population)	low	1.0000
+Nigeria	Prevalence of anemia among pregnant women (%)	low	1.0000
+Nigeria	Life expectancy at birth total (years)	low	1.0000
+Nigeria	Gross national expenditure (current US$)	high	1.0000
+Malaysia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Malaysia	Life expectancy at birth total (years)	medium	1.0000
+Malaysia	GDP (current US$)	high	1.0000
+Malaysia	Gross national expenditure (current US$)	mediumHigh	1.0000
+Indonesia	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Indonesia	Prevalence of anemia among pregnant women (%)	low	1.0000
+Indonesia	Life expectancy at birth total (years)	mediumLow	1.0000
+Indonesia	GDP (current US$)	high	1.0000
+Indonesia	Gross national expenditure (current US$)	high	1.0000
+Bolivia	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Bolivia	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Bolivia	Life expectancy at birth total (years)	mediumLow	1.0000
+Bolivia	GDP (current US$)	medium	1.0000
+Bolivia	Gross national expenditure (current US$)	medium	1.0000
+Philippines	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Philippines	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Philippines	Life expectancy at birth total (years)	mediumLow	1.0000
+Philippines	GDP (current US$)	high	1.0000
+Philippines	Gross national expenditure (current US$)	high	1.0000
+Thailand	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Thailand	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Thailand	Life expectancy at birth total (years)	mediumHigh	1.0000
+Thailand	GDP (current US$)	high	1.0000
+Thailand	Gross national expenditure (current US$)	high	1.0000
+Bangladesh	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Bangladesh	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Bangladesh	Life expectancy at birth total (years)	medium	1.0000
+Bangladesh	GDP (current US$)	high	1.0000
+Vietnam	People using at least basic sanitation services (% of population)	medium	1.0000
+Vietnam	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Vietnam	Life expectancy at birth total (years)	medium	1.0000
+Vietnam	GDP (current US$)	high	1.0000
+Bangladesh	Gross national expenditure (current US$)	high	1.0000
+Bhutan	GDP (current US$)	low	1.0000
+Bhutan	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Bhutan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Bhutan	Life expectancy at birth total (years)	mediumLow	1.0000
+Bhutan	Gross national expenditure (current US$)	low	1.0000

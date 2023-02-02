@@ -1,0 +1,21 @@
+Cuba	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Algeria	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Costa Rica	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Algeria	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+United Arab Emirates	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Mexico	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Chile	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Czechia	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Cuba	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Japan	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Morocco	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Chile	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Iran Islamic Rep.	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+New Zealand	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+United Arab Emirates	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Qatar	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Japan	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Singapore	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Kazakhstan	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Egypt Arab Rep.	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+China	Incidence of tuberculosis (per 100000 people)	medium	1.0000

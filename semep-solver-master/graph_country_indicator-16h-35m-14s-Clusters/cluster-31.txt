@@ -1,0 +1,30 @@
+Liechtenstein	People using at least basic sanitation services (% of population)	high	1.0000
+Liechtenstein	Life expectancy at birth total (years)	high	1.0000
+Liechtenstein	GDP (current US$)	mediumLow	1.0000
+Gibraltar	People using at least basic sanitation services (% of population)	high	1.0000
+Greenland	GDP (current US$)	low	1.0000
+Faroe Islands	GDP (current US$)	low	1.0000
+St. Kitts and Nevis	GDP (current US$)	low	1.0000
+Isle of Man	GDP (current US$)	mediumLow	1.0000
+Aruba	GDP (current US$)	low	1.0000
+Bermuda	GDP (current US$)	mediumLow	1.0000
+San Marino	GDP (current US$)	low	1.0000
+Aruba	Life expectancy at birth total (years)	mediumHigh	1.0000
+Faroe Islands	Gross national expenditure (current US$)	low	1.0000
+Bermuda	People using at least basic sanitation services (% of population)	high	1.0000
+Bermuda	Life expectancy at birth total (years)	high	1.0000
+Andorra	GDP (current US$)	low	1.0000
+Greenland	People using at least basic sanitation services (% of population)	high	1.0000
+Greenland	Life expectancy at birth total (years)	mediumLow	1.0000
+St. Kitts and Nevis	Prevalence of anemia among pregnant women (%)	high	1.0000
+Monaco	GDP (current US$)	mediumLow	1.0000
+Aruba	Gross national expenditure (current US$)	low	1.0000
+Monaco	People using at least basic sanitation services (% of population)	high	1.0000
+Monaco	Prevalence of anemia among pregnant women (%)	high	1.0000
+Bermuda	Gross national expenditure (current US$)	low	1.0000
+Greenland	Gross national expenditure (current US$)	low	1.0000
+St. Lucia	GDP (current US$)	low	1.0000
+San Marino	Gross national expenditure (current US$)	low	1.0000
+St. Lucia	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+St. Lucia	Prevalence of anemia among pregnant women (%)	high	1.0000
+St. Lucia	Life expectancy at birth total (years)	medium	1.0000

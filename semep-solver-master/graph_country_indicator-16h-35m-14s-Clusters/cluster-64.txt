@@ -1,0 +1,14 @@
+West Bank and Gaza	GDP per capita (current LCU)	low	1.0000
+Jamaica	GDP per capita (current LCU)	mediumHigh	1.0000
+Albania	GDP per capita (current LCU)	mediumHigh	1.0000
+Rwanda	GDP per capita (current LCU)	high	1.0000
+Guam	GDP per capita (current LCU)	mediumLow	1.0000
+Armenia	GDP per capita (current LCU)	high	1.0000
+North Macedonia	GDP per capita (current LCU)	mediumHigh	1.0000
+Latvia	GDP per capita (current LCU)	low	1.0000
+Bosnia and Herzegovina	GDP per capita (current LCU)	low	1.0000
+Nicaragua	GDP per capita (current LCU)	medium	1.0000
+Maldives	GDP per capita (current LCU)	medium	1.0000
+Trinidad and Tobago	GDP per capita (current LCU)	medium	1.0000
+Georgia	GDP per capita (current LCU)	low	1.0000
+Croatia	GDP per capita (current LCU)	medium	1.0000

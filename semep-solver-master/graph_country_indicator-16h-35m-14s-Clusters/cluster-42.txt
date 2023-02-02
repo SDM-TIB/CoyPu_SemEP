@@ -1,0 +1,15 @@
+Moldova	CO2 emissions (metric tons per capita)	medium	1.0000
+Syrian Arab Republic	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Fiji	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Hong Kong SAR China	Population growth (annual %)	mediumLow	1.0000
+Isle of Man	Population growth (annual %)	mediumLow	1.0000
+Samoa	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Mauritius	CO2 emissions (metric tons per capita)	medium	1.0000
+Palau	CO2 emissions (metric tons per capita)	low	1.0000
+Georgia	CO2 emissions (metric tons per capita)	medium	1.0000
+Mauritius	Population growth (annual %)	low	1.0000
+Syrian Arab Republic	Population growth (annual %)	mediumLow	1.0000
+Fiji	Population growth (annual %)	mediumLow	1.0000
+Moldova	Population growth (annual %)	low	1.0000
+Palau	Population growth (annual %)	mediumLow	1.0000
+Georgia	Population growth (annual %)	low	1.0000

@@ -1,0 +1,20 @@
+Czechia	GDP per capita (current LCU)	mediumHigh	1.0000
+Oman	GDP per capita (current LCU)	low	1.0000
+Kuwait	GDP per capita (current LCU)	low	1.0000
+Bahamas The	GDP per capita (current LCU)	mediumLow	1.0000
+Qatar	GDP per capita (current LCU)	mediumHigh	1.0000
+Bulgaria	GDP per capita (current LCU)	low	1.0000
+Lebanon	GDP per capita (current LCU)	high	1.0000
+Serbia	GDP per capita (current LCU)	high	1.0000
+Puerto Rico	GDP per capita (current LCU)	mediumLow	1.0000
+Türkiye	GDP per capita (current LCU)	medium	1.0000
+Slovak Republic	GDP per capita (current LCU)	low	1.0000
+Iran Islamic Rep.	GDP per capita (current LCU)	high	1.0000
+Belarus	GDP per capita (current LCU)	low	1.0000
+Cuba	GDP per capita (current LCU)	low	1.0000
+Lithuania	GDP per capita (current LCU)	low	1.0000
+Luxembourg	GDP per capita (current LCU)	medium	1.0000
+Slovenia	GDP per capita (current LCU)	mediumLow	1.0000
+Czech Republic	GDP per capita (current LCU)	mediumHigh	1.0000
+Portugal	GDP per capita (current LCU)	mediumLow	1.0000
+Estonia	GDP per capita (current LCU)	mediumLow	1.0000

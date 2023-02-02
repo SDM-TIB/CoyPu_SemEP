@@ -1,0 +1,30 @@
+South Sudan	Industry (including construction) value added (% of GDP)	high	1.0000
+Togo	Prevalence of current tobacco use (% of adults)	high	1.0000
+Haiti	Prevalence of current tobacco use (% of adults)	high	1.0000
+South Sudan	Population growth (annual %)	mediumLow	1.0000
+Nigeria	Prevalence of current tobacco use (% of adults)	high	1.0000
+Indonesia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Philippines	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Suriname	Industry (including construction) value added (% of GDP)	high	1.0000
+Mauritania	Prevalence of current tobacco use (% of adults)	high	1.0000
+Guinea-Bissau	Prevalence of current tobacco use (% of adults)	high	1.0000
+Kenya	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Madagascar	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Eswatini	Prevalence of current tobacco use (% of adults)	high	1.0000
+Benin	Population growth (annual %)	high	1.0000
+Congo Rep.	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Côte d\'Ivoire	Population growth (annual %)	high	1.0000
+Nigeria	Population growth (annual %)	high	1.0000
+Bhutan	Population growth (annual %)	medium	1.0000
+Suriname	Population growth (annual %)	medium	1.0000
+Nigeria	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Bhutan	Industry (including construction) value added (% of GDP)	high	1.0000
+Haiti	Population growth (annual %)	medium	1.0000
+Haiti	Industry (including construction) value added (% of GDP)	medium	1.0000
+Kenya	Population growth (annual %)	high	1.0000
+Guinea	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Kenya	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Madagascar	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Equatorial Guinea	Industry (including construction) value added (% of GDP)	high	1.0000
+Madagascar	Population growth (annual %)	high	1.0000
+Gabon	Industry (including construction) value added (% of GDP)	high	1.0000

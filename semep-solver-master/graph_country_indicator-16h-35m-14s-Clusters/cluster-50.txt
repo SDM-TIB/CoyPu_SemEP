@@ -1,0 +1,31 @@
+Argentina	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Argentina	Gini index	high	1.0000
+Seychelles	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Norway	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Saudi Arabia	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Seychelles	Population growth (annual %)	medium	1.0000
+Romania	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Thailand	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Mexico	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Türkiye	Prevalence of current tobacco use (% of adults)	low	1.0000
+Thailand	Gini index	medium	1.0000
+Romania	Gini index	medium	1.0000
+Argentina	Population growth (annual %)	medium	1.0000
+Thailand	Population growth (annual %)	low	1.0000
+Romania	Population growth (annual %)	low	1.0000
+Seychelles	Industry (including construction) value added (% of GDP)	low	1.0000
+Thailand	Industry (including construction) value added (% of GDP)	high	1.0000
+Qatar	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Norway	Population growth (annual %)	mediumLow	1.0000
+Ireland	Population growth (annual %)	medium	1.0000
+Norway	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Saudi Arabia	Industry (including construction) value added (% of GDP)	high	1.0000
+Argentina	Industry (including construction) value added (% of GDP)	medium	1.0000
+Ireland	Industry (including construction) value added (% of GDP)	high	1.0000
+Saudi Arabia	Population growth (annual %)	mediumHigh	1.0000
+Trinidad and Tobago	Population growth (annual %)	mediumLow	1.0000
+Qatar	Industry (including construction) value added (% of GDP)	high	1.0000
+Mexico	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Mexico	Population growth (annual %)	medium	1.0000
+Iran Islamic Rep.	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Trinidad and Tobago	Industry (including construction) value added (% of GDP)	high	1.0000

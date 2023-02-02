@@ -1,0 +1,41 @@
+New Zealand	GDP (current US$)	mediumHigh	1.0000
+Liechtenstein	Industry (including construction) value added (% of GDP)	high	1.0000
+Austria	Gini index	mediumLow	1.0000
+Netherlands	Gini index	mediumLow	1.0000
+Guam	GDP (current US$)	mediumLow	1.0000
+Austria	GDP (current US$)	high	1.0000
+Switzerland	GDP (current US$)	high	1.0000
+New Caledonia	GDP (current US$)	mediumLow	1.0000
+Malta	GDP (current US$)	mediumLow	1.0000
+Italy	GDP (current US$)	high	1.0000
+Iceland	GDP (current US$)	medium	1.0000
+Cyprus	GDP (current US$)	medium	1.0000
+Iceland	Gross national expenditure (current US$)	mediumLow	1.0000
+New Zealand	Gross national expenditure (current US$)	mediumHigh	1.0000
+Finland	GDP (current US$)	mediumHigh	1.0000
+Israel	GDP (current US$)	high	1.0000
+Belgium	Gini index	low	1.0000
+Australia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Netherlands	GDP (current US$)	high	1.0000
+Sweden	Gini index	mediumLow	1.0000
+Austria	Gross national expenditure (current US$)	high	1.0000
+Switzerland	Gross national expenditure (current US$)	high	1.0000
+Belgium	GDP (current US$)	high	1.0000
+United Kingdom	GDP (current US$)	high	1.0000
+Sweden	GDP (current US$)	high	1.0000
+France	GDP (current US$)	high	1.0000
+Germany	GDP (current US$)	high	1.0000
+Italy	Gross national expenditure (current US$)	high	1.0000
+Slovenia	Gini index	low	1.0000
+United Kingdom	Gross national expenditure (current US$)	high	1.0000
+Cyprus	Gross national expenditure (current US$)	mediumLow	1.0000
+United States	GDP (current US$)	high	1.0000
+Israel	Gross national expenditure (current US$)	high	1.0000
+Spain	Gini index	medium	1.0000
+Netherlands	Gross national expenditure (current US$)	high	1.0000
+Malta	Gross national expenditure (current US$)	mediumLow	1.0000
+Sweden	Gross national expenditure (current US$)	high	1.0000
+Finland	Gross national expenditure (current US$)	mediumHigh	1.0000
+Belgium	Gross national expenditure (current US$)	high	1.0000
+France	Gross national expenditure (current US$)	high	1.0000
+Spain	Gross national expenditure (current US$)	high	1.0000

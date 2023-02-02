@@ -1,0 +1,34 @@
+Australia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Netherlands	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Norway	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Italy	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+United States	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Iceland	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Denmark	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Germany	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+New Zealand	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Ireland	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Israel	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Austria	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Switzerland	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Australia	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Netherlands	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Norway	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Canada	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Poland	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Denmark	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Sweden	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Italy	Incidence of tuberculosis (per 100000 people)	high	1.0000
+British Virgin Islands	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Ireland	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Puerto Rico	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Iceland	Incidence of tuberculosis (per 100000 people)	high	1.0000
+United Kingdom	Incidence of tuberculosis (per 100000 people)	mediumHigh	1.0000
+Germany	Incidence of tuberculosis (per 100000 people)	high	1.0000
+United States	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Spain	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Korea Rep.	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Slovenia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Singapore	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Finland	Incidence of tuberculosis (per 100000 people)	high	1.0000
+Slovenia	Incidence of tuberculosis (per 100000 people)	high	1.0000

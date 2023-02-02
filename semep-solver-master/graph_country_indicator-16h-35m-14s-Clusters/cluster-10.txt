@@ -1,0 +1,12 @@
+Colombia	GDP per capita (current LCU)	high	1.0000
+Brazil	GDP per capita (current LCU)	mediumLow	1.0000
+Thailand	GDP per capita (current LCU)	mediumHigh	1.0000
+Suriname	GDP per capita (current LCU)	medium	1.0000
+Nigeria	GDP per capita (current LCU)	high	1.0000
+Malaysia	GDP per capita (current LCU)	mediumLow	1.0000
+Saudi Arabia	GDP per capita (current LCU)	medium	1.0000
+Korea Rep.	GDP per capita (current LCU)	high	1.0000
+Argentina	GDP per capita (current LCU)	mediumHigh	1.0000
+Philippines	GDP per capita (current LCU)	medium	1.0000
+Indonesia	GDP per capita (current LCU)	high	1.0000
+Vietnam	GDP per capita (current LCU)	high	1.0000

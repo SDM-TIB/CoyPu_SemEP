@@ -1,0 +1,51 @@
+Czechia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Dominican Republic	Prevalence of current tobacco use (% of adults)	high	1.0000
+Serbia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Slovak Republic	Prevalence of current tobacco use (% of adults)	low	1.0000
+Serbia	Gini index	medium	1.0000
+Dominican Republic	Gini index	high	1.0000
+Oman	Prevalence of current tobacco use (% of adults)	high	1.0000
+Costa Rica	Prevalence of current tobacco use (% of adults)	high	1.0000
+China	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Algeria	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Lithuania	Prevalence of current tobacco use (% of adults)	low	1.0000
+Czechia	Gini index	low	1.0000
+Slovak Republic	Gini index	low	1.0000
+Belarus	Prevalence of current tobacco use (% of adults)	low	1.0000
+Dominican Republic	Population growth (annual %)	medium	1.0000
+Ukraine	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+China	Gini index	mediumHigh	1.0000
+Slovak Republic	Population growth (annual %)	low	1.0000
+China	Population growth (annual %)	mediumLow	1.0000
+Costa Rica	Gini index	high	1.0000
+Türkiye	Gini index	high	1.0000
+Dominican Republic	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Serbia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Lithuania	Gini index	medium	1.0000
+Belarus	Gini index	low	1.0000
+Ukraine	Gini index	low	1.0000
+Oman	Population growth (annual %)	high	1.0000
+Iran Islamic Rep.	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Kazakhstan	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Egypt Arab Rep.	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Serbia	Population growth (annual %)	low	1.0000
+Czechia	Population growth (annual %)	mediumLow	1.0000
+Costa Rica	Population growth (annual %)	medium	1.0000
+Oman	Industry (including construction) value added (% of GDP)	high	1.0000
+Iran Islamic Rep.	Gini index	mediumHigh	1.0000
+Czechia	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Ecuador	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Slovak Republic	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Türkiye	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Algeria	Industry (including construction) value added (% of GDP)	medium	1.0000
+Ukraine	Industry (including construction) value added (% of GDP)	medium	1.0000
+Morocco	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Türkiye	Population growth (annual %)	medium	1.0000
+Belarus	Population growth (annual %)	low	1.0000
+Ukraine	Population growth (annual %)	low	1.0000
+Costa Rica	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Belarus	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Lithuania	Population growth (annual %)	low	1.0000
+Lithuania	Industry (including construction) value added (% of GDP)	medium	1.0000
+Morocco	Industry (including construction) value added (% of GDP)	medium	1.0000
+Iran Islamic Rep.	Population growth (annual %)	medium	1.0000

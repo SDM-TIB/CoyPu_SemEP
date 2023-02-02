@@ -1,0 +1,25 @@
+Myanmar	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Somalia	CO2 emissions (metric tons per capita)	high	1.0000
+Cameroon	CO2 emissions (metric tons per capita)	high	1.0000
+Congo Dem. Rep.	CO2 emissions (metric tons per capita)	high	1.0000
+Papua New Guinea	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Côte d\'Ivoire	CO2 emissions (metric tons per capita)	high	1.0000
+Ethiopia	CO2 emissions (metric tons per capita)	high	1.0000
+Ghana	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Tanzania	CO2 emissions (metric tons per capita)	high	1.0000
+Sudan	CO2 emissions (metric tons per capita)	high	1.0000
+Zambia	CO2 emissions (metric tons per capita)	high	1.0000
+Burkina Faso	CO2 emissions (metric tons per capita)	high	1.0000
+Senegal	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Eritrea	CO2 emissions (metric tons per capita)	high	1.0000
+Nigeria	CO2 emissions (metric tons per capita)	high	1.0000
+Lao PDR	CO2 emissions (metric tons per capita)	medium	1.0000
+Uganda	CO2 emissions (metric tons per capita)	high	1.0000
+Angola	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Gabon	CO2 emissions (metric tons per capita)	medium	1.0000
+Yemen Rep.	CO2 emissions (metric tons per capita)	high	1.0000
+Cambodia	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Zimbabwe	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Tajikistan	CO2 emissions (metric tons per capita)	mediumHigh	1.0000
+Guinea	CO2 emissions (metric tons per capita)	high	1.0000
+Equatorial Guinea	CO2 emissions (metric tons per capita)	mediumLow	1.0000

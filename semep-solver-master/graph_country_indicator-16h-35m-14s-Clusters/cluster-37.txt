@@ -1,0 +1,45 @@
+Albania	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Seychelles	GDP (current US$)	low	1.0000
+Czechia	People using at least basic sanitation services (% of population)	mediumHigh	1.0000
+Czechia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Czechia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Antigua and Barbuda	GDP (current US$)	low	1.0000
+Czechia	GDP (current US$)	mediumHigh	1.0000
+French Polynesia	GDP (current US$)	mediumLow	1.0000
+Czechia	Gross national expenditure (current US$)	mediumHigh	1.0000
+French Polynesia	People using at least basic sanitation services (% of population)	medium	1.0000
+French Polynesia	Life expectancy at birth total (years)	mediumHigh	1.0000
+French Polynesia	Gross national expenditure (current US$)	low	1.0000
+Barbados	GDP (current US$)	mediumLow	1.0000
+Montenegro	GDP (current US$)	mediumLow	1.0000
+Barbados	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Barbados	Life expectancy at birth total (years)	mediumHigh	1.0000
+Virgin Islands (U.S.)	GDP (current US$)	low	1.0000
+Montenegro	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Montenegro	Life expectancy at birth total (years)	mediumHigh	1.0000
+Virgin Islands (U.S.)	Life expectancy at birth total (years)	mediumHigh	1.0000
+Seychelles	Gross national expenditure (current US$)	low	1.0000
+Antigua and Barbuda	Prevalence of anemia among pregnant women (%)	high	1.0000
+Antigua and Barbuda	Life expectancy at birth total (years)	mediumHigh	1.0000
+Albania	Life expectancy at birth total (years)	mediumHigh	1.0000
+Albania	GDP (current US$)	mediumLow	1.0000
+Barbados	Gross national expenditure (current US$)	low	1.0000
+Montenegro	Gross national expenditure (current US$)	low	1.0000
+Albania	Gross national expenditure (current US$)	mediumLow	1.0000
+Maldives	GDP (current US$)	mediumLow	1.0000
+Antigua and Barbuda	Gross national expenditure (current US$)	low	1.0000
+North Macedonia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+North Macedonia	Life expectancy at birth total (years)	mediumHigh	1.0000
+North Macedonia	GDP (current US$)	mediumLow	1.0000
+Grenada	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Grenada	Life expectancy at birth total (years)	medium	1.0000
+St. Vincent and the Grenadines	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+St. Vincent and the Grenadines	Life expectancy at birth total (years)	medium	1.0000
+Maldives	Prevalence of anemia among pregnant women (%)	low	1.0000
+Maldives	Life expectancy at birth total (years)	mediumHigh	1.0000
+North Macedonia	Gross national expenditure (current US$)	mediumLow	1.0000
+Croatia	Prevalence of anemia among pregnant women (%)	mediumHigh	1.0000
+Croatia	Life expectancy at birth total (years)	mediumHigh	1.0000
+Maldives	Gross national expenditure (current US$)	low	1.0000
+Croatia	GDP (current US$)	mediumHigh	1.0000
+Croatia	Gross national expenditure (current US$)	medium	1.0000

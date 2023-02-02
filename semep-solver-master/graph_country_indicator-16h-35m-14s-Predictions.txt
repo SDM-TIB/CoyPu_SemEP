@@ -1,0 +1,519 @@
+Cluster	0
+Sweden	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Switzerland	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Finland	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Austria	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+United Kingdom	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+British Virgin Islands	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Israel	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Canada	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Poland	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Puerto Rico	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Korea Rep.	high	Incidence of HIV all (per 1000 uninfected population)	0.1046
+Cluster	1
+American Samoa	high	Industry (including construction) value added (% of GDP)	0.1524
+Nauru	high	Industry (including construction) value added (% of GDP)	0.1524
+San Marino	high	Industry (including construction) value added (% of GDP)	0.1524
+Cluster	2
+Faroe Islands	high	CO2 emissions (metric tons per capita)	0.1304
+Aruba	high	CO2 emissions (metric tons per capita)	0.1304
+Monaco	high	CO2 emissions (metric tons per capita)	0.1304
+Bermuda	high	CO2 emissions (metric tons per capita)	0.1304
+San Marino	high	CO2 emissions (metric tons per capita)	0.1304
+Cluster	3
+Aruba	high	Industry (including construction) value added (% of GDP)	0.2545
+Cluster	4
+Maldives	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+St. Vincent and the Grenadines	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+American Samoa	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Marshall Islands	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+French Polynesia	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Nauru	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Barbados	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Grenada	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Palau	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+West Bank and Gaza	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Cayman Islands	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Samoa	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Dominica	high	Incidence of HIV all (per 1000 uninfected population)	0.1228
+Cluster	5
+Mauritania	high	Incidence of HIV all (per 1000 uninfected population)	0.1342
+Tuvalu	high	Incidence of HIV all (per 1000 uninfected population)	0.1342
+Cabo Verde	high	Incidence of HIV all (per 1000 uninfected population)	0.1342
+Korea Dem. People\'s Rep.	high	Incidence of HIV all (per 1000 uninfected population)	0.1342
+Cluster	6
+Bangladesh	high	Incidence of HIV all (per 1000 uninfected population)	0.2308
+Türkiye	high	Incidence of HIV all (per 1000 uninfected population)	0.2308
+Cluster	7
+American Samoa	high	CO2 emissions (metric tons per capita)	0.2179
+Turks and Caicos Islands	high	CO2 emissions (metric tons per capita)	0.2179
+Cluster	8
+Equatorial Guinea	high	Incidence of HIV all (per 1000 uninfected population)	0.1282
+Central African Republic	high	Incidence of HIV all (per 1000 uninfected population)	0.1282
+Cluster	21
+Afghanistan	high	Gini index	0.1688
+Micronesia Fed. Sts.	high	Gini index	0.1688
+Micronesia Fed. Sts.	high	Prevalence of current tobacco use (% of adults)	0.1688
+São Tomé and Principe	high	Gini index	0.1688
+Gambia The	high	Gini index	0.1688
+Tonga	high	Gini index	0.1688
+Greenland	high	Gini index	0.1688
+Greenland	high	Prevalence of current tobacco use (% of adults)	0.1688
+Tuvalu	high	Gini index	0.1688
+Tuvalu	high	Industry (including construction) value added (% of GDP)	0.1688
+Northern Mariana Islands	high	Gini index	0.1688
+Northern Mariana Islands	high	Industry (including construction) value added (% of GDP)	0.1688
+Northern Mariana Islands	high	Prevalence of current tobacco use (% of adults)	0.1688
+Vanuatu	high	Industry (including construction) value added (% of GDP)	0.1688
+Burundi	high	Gini index	0.1688
+Cabo Verde	high	Gini index	0.1688
+Central African Republic	high	Gini index	0.1688
+Central African Republic	high	Prevalence of current tobacco use (% of adults)	0.1688
+Comoros	high	Gini index	0.1688
+Lesotho	high	Gini index	0.1688
+Solomon Islands	high	Gini index	0.1688
+Solomon Islands	high	Industry (including construction) value added (% of GDP)	0.1688
+Djibouti	high	Gini index	0.1688
+Djibouti	high	Prevalence of current tobacco use (% of adults)	0.1688
+Cluster	23
+Timor-Leste	high	Gini index	0.2527
+Pakistan	high	Gini index	0.2527
+South Africa	high	Gini index	0.2527
+Korea Dem. People\'s Rep.	high	Gini index	0.2527
+Korea Dem. People\'s Rep.	high	Industry (including construction) value added (% of GDP)	0.2527
+Philippines	high	Gini index	0.2527
+Lesotho	high	Gini index	0.2527
+Bangladesh	high	Gini index	0.2527
+India	high	Gini index	0.2527
+Cluster	24
+Antigua and Barbuda	high	Gini index	0.1472
+Antigua and Barbuda	high	Prevalence of current tobacco use (% of adults)	0.1472
+Switzerland	high	Gini index	0.1472
+France	high	Gini index	0.1472
+Germany	high	Gini index	0.1472
+Guam	high	Gini index	0.1472
+Guam	high	Industry (including construction) value added (% of GDP)	0.1472
+Guam	high	Prevalence of current tobacco use (% of adults)	0.1472
+United Kingdom	high	Gini index	0.1472
+British Virgin Islands	high	Gini index	0.1472
+British Virgin Islands	high	Industry (including construction) value added (% of GDP)	0.1472
+British Virgin Islands	high	Prevalence of current tobacco use (% of adults)	0.1472
+Israel	high	Gini index	0.1472
+Italy	high	Gini index	0.1472
+St. Kitts and Nevis	high	Gini index	0.1472
+St. Kitts and Nevis	high	Prevalence of current tobacco use (% of adults)	0.1472
+Cluster	25
+Equatorial Guinea	high	Gini index	0.1376
+Equatorial Guinea	high	Prevalence of current tobacco use (% of adults)	0.1376
+Mali	high	Gini index	0.1376
+Eritrea	high	Gini index	0.1376
+Eritrea	high	Industry (including construction) value added (% of GDP)	0.1376
+Eritrea	high	Population growth (annual %)	0.1376
+Sudan	high	Gini index	0.1376
+Sudan	high	Prevalence of current tobacco use (% of adults)	0.1376
+Ethiopia	high	Gini index	0.1376
+Mauritania	high	Gini index	0.1376
+Eswatini	high	Gini index	0.1376
+Mozambique	high	Gini index	0.1376
+Togo	high	Gini index	0.1376
+Benin	high	Gini index	0.1376
+Niger	high	Gini index	0.1376
+Guinea-Bissau	high	Gini index	0.1376
+Guinea	high	Gini index	0.1376
+Guinea	high	Prevalence of current tobacco use (% of adults)	0.1376
+Burkina Faso	high	Gini index	0.1376
+Papua New Guinea	high	Gini index	0.1376
+Cameroon	high	Gini index	0.1376
+Zambia	high	Gini index	0.1376
+Chad	high	Gini index	0.1376
+Congo Dem. Rep.	high	Gini index	0.1376
+Congo Rep.	high	Gini index	0.1376
+Sierra Leone	high	Gini index	0.1376
+Liberia	high	Gini index	0.1376
+Côte d\'Ivoire	high	Gini index	0.1376
+Somalia	high	Gini index	0.1376
+Somalia	high	Industry (including construction) value added (% of GDP)	0.1376
+Somalia	high	Prevalence of current tobacco use (% of adults)	0.1376
+Cluster	26
+Sint Maarten (Dutch part)	high	Gini index	0.3778
+Sint Maarten (Dutch part)	high	Industry (including construction) value added (% of GDP)	0.3778
+Sint Maarten (Dutch part)	high	Prevalence of current tobacco use (% of adults)	0.3778
+Guatemala	high	Gini index	0.3778
+Cluster	27
+Malaysia	high	Gini index	0.1737
+Azerbaijan	high	Gini index	0.1737
+Myanmar	high	Gini index	0.1737
+Turkmenistan	high	Gini index	0.1737
+Guyana	high	Gini index	0.1737
+Honduras	high	Prevalence of current tobacco use (% of adults)	0.1737
+Uzbekistan	high	Gini index	0.1737
+Venezuela RB	high	Gini index	0.1737
+Venezuela RB	high	Industry (including construction) value added (% of GDP)	0.1737
+Venezuela RB	high	Prevalence of current tobacco use (% of adults)	0.1737
+Vietnam	high	Gini index	0.1737
+Vietnam	high	Industry (including construction) value added (% of GDP)	0.1737
+Iraq	high	Gini index	0.1737
+Jordan	high	Gini index	0.1737
+Senegal	high	Gini index	0.1737
+Lao PDR	high	Gini index	0.1737
+Cluster	28
+St. Martin (French part)	high	Incidence of tuberculosis (per 100000 people)	0.2353
+St. Martin (French part)	high	Prevalence of anemia among pregnant women (%)	0.2353
+Andorra	high	Life expectancy at birth total (years)	0.2353
+Turks and Caicos Islands	high	Life expectancy at birth total (years)	0.2353
+Turks and Caicos Islands	high	People using at least basic sanitation services (% of population)	0.2353
+Turks and Caicos Islands	high	Prevalence of anemia among pregnant women (%)	0.2353
+Guam	high	People using at least basic sanitation services (% of population)	0.2353
+Guam	high	Prevalence of anemia among pregnant women (%)	0.2353
+San Marino	high	Life expectancy at birth total (years)	0.2353
+Macao SAR China	high	Prevalence of anemia among pregnant women (%)	0.2353
+Cluster	29
+Algeria	high	Gini index	0.2429
+Morocco	high	Gini index	0.2429
+Oman	high	Gini index	0.2429
+Kazakhstan	high	Gini index	0.2429
+Egypt Arab Rep.	high	Gini index	0.2429
+Cluster	30
+Virgin Islands (U.S.)	high	CO2 emissions (metric tons per capita)	0.1421
+West Bank and Gaza	high	CO2 emissions (metric tons per capita)	0.1421
+Cayman Islands	high	CO2 emissions (metric tons per capita)	0.1421
+Cluster	31
+St. Lucia	high	Gross national expenditure (current US$)	0.2206
+Andorra	high	Gross national expenditure (current US$)	0.2206
+Andorra	high	Life expectancy at birth total (years)	0.2206
+Faroe Islands	high	People using at least basic sanitation services (% of population)	0.2206
+Faroe Islands	high	Prevalence of anemia among pregnant women (%)	0.2206
+Aruba	high	People using at least basic sanitation services (% of population)	0.2206
+Aruba	high	Prevalence of anemia among pregnant women (%)	0.2206
+Monaco	high	Gross national expenditure (current US$)	0.2206
+Monaco	high	Life expectancy at birth total (years)	0.2206
+Gibraltar	high	GDP (current US$)	0.2206
+Gibraltar	high	Gross national expenditure (current US$)	0.2206
+Gibraltar	high	Life expectancy at birth total (years)	0.2206
+Gibraltar	high	Prevalence of anemia among pregnant women (%)	0.2206
+Greenland	high	Prevalence of anemia among pregnant women (%)	0.2206
+Bermuda	high	Prevalence of anemia among pregnant women (%)	0.2206
+Isle of Man	high	Gross national expenditure (current US$)	0.2206
+Isle of Man	high	Life expectancy at birth total (years)	0.2206
+Isle of Man	high	People using at least basic sanitation services (% of population)	0.2206
+Isle of Man	high	Prevalence of anemia among pregnant women (%)	0.2206
+San Marino	high	Life expectancy at birth total (years)	0.2206
+Liechtenstein	high	Gross national expenditure (current US$)	0.2206
+Liechtenstein	high	Prevalence of anemia among pregnant women (%)	0.2206
+St. Kitts and Nevis	high	Gross national expenditure (current US$)	0.2206
+St. Kitts and Nevis	high	Life expectancy at birth total (years)	0.2206
+St. Kitts and Nevis	high	People using at least basic sanitation services (% of population)	0.2206
+Cluster	32
+American Samoa	high	Gross national expenditure (current US$)	0.2059
+American Samoa	high	Life expectancy at birth total (years)	0.2059
+American Samoa	high	Prevalence of anemia among pregnant women (%)	0.2059
+Marshall Islands	high	Life expectancy at birth total (years)	0.2059
+Micronesia Fed. Sts.	high	Gross national expenditure (current US$)	0.2059
+Nauru	high	Gross national expenditure (current US$)	0.2059
+Nauru	high	Life expectancy at birth total (years)	0.2059
+Nauru	high	People using at least basic sanitation services (% of population)	0.2059
+Turks and Caicos Islands	high	Gross national expenditure (current US$)	0.2059
+Turks and Caicos Islands	high	Life expectancy at birth total (years)	0.2059
+Turks and Caicos Islands	high	People using at least basic sanitation services (% of population)	0.2059
+Turks and Caicos Islands	high	Prevalence of anemia among pregnant women (%)	0.2059
+Tuvalu	high	Gross national expenditure (current US$)	0.2059
+Tuvalu	high	Life expectancy at birth total (years)	0.2059
+Tuvalu	high	People using at least basic sanitation services (% of population)	0.2059
+Palau	high	Gross national expenditure (current US$)	0.2059
+Palau	high	Life expectancy at birth total (years)	0.2059
+Cayman Islands	high	Gross national expenditure (current US$)	0.2059
+Cayman Islands	high	Life expectancy at birth total (years)	0.2059
+Cayman Islands	high	People using at least basic sanitation services (% of population)	0.2059
+Cayman Islands	high	Prevalence of anemia among pregnant women (%)	0.2059
+Samoa	high	Gross national expenditure (current US$)	0.2059
+Curaçao	high	Gross national expenditure (current US$)	0.2059
+Curaçao	high	Life expectancy at birth total (years)	0.2059
+Curaçao	high	People using at least basic sanitation services (% of population)	0.2059
+Curaçao	high	Prevalence of anemia among pregnant women (%)	0.2059
+Dominica	high	Gross national expenditure (current US$)	0.2059
+Dominica	high	Life expectancy at birth total (years)	0.2059
+Dominica	high	People using at least basic sanitation services (% of population)	0.2059
+Cluster	33
+Northern Mariana Islands	high	Life expectancy at birth total (years)	0.2909
+Northern Mariana Islands	high	Prevalence of anemia among pregnant women (%)	0.2909
+Greenland	high	Prevalence of anemia among pregnant women (%)	0.2909
+Aruba	high	People using at least basic sanitation services (% of population)	0.2909
+Aruba	high	Prevalence of anemia among pregnant women (%)	0.2909
+Hong Kong SAR China	high	Prevalence of anemia among pregnant women (%)	0.2909
+Faroe Islands	high	Incidence of tuberculosis (per 100000 people)	0.2909
+Faroe Islands	high	People using at least basic sanitation services (% of population)	0.2909
+Faroe Islands	high	Prevalence of anemia among pregnant women (%)	0.2909
+Cluster	34
+Mexico	high	Hospital beds (per 1000 people)	0.2767
+Argentina	high	Hospital beds (per 1000 people)	0.2767
+Argentina	high	People using at least basic sanitation services (% of population)	0.2767
+Australia	high	Hospital beds (per 1000 people)	0.2767
+Germany	high	Hospital beds (per 1000 people)	0.2767
+Trinidad and Tobago	high	Gross national expenditure (current US$)	0.2767
+Trinidad and Tobago	high	Hospital beds (per 1000 people)	0.2767
+Türkiye	high	Hospital beds (per 1000 people)	0.2767
+Türkiye	high	Prevalence of anemia among pregnant women (%)	0.2767
+United Arab Emirates	high	Hospital beds (per 1000 people)	0.2767
+United States	high	Hospital beds (per 1000 people)	0.2767
+Brazil	high	Hospital beds (per 1000 people)	0.2767
+Norway	high	Hospital beds (per 1000 people)	0.2767
+Ireland	high	Hospital beds (per 1000 people)	0.2767
+Poland	high	Hospital beds (per 1000 people)	0.2767
+Poland	high	Prevalence of anemia among pregnant women (%)	0.2767
+Chile	high	Hospital beds (per 1000 people)	0.2767
+Russian Federation	high	Hospital beds (per 1000 people)	0.2767
+China	high	Hospital beds (per 1000 people)	0.2767
+Korea Rep.	high	Hospital beds (per 1000 people)	0.2767
+Saudi Arabia	high	Hospital beds (per 1000 people)	0.2767
+Singapore	high	Hospital beds (per 1000 people)	0.2767
+Cluster	35
+Sint Maarten (Dutch part)	high	Life expectancy at birth total (years)	0.2737
+Sint Maarten (Dutch part)	high	People using at least basic sanitation services (% of population)	0.2737
+Sint Maarten (Dutch part)	high	Prevalence of anemia among pregnant women (%)	0.2737
+Cluster	37
+St. Vincent and the Grenadines	high	Gross national expenditure (current US$)	0.2941
+St. Vincent and the Grenadines	high	People using at least basic sanitation services (% of population)	0.2941
+Antigua and Barbuda	high	People using at least basic sanitation services (% of population)	0.2941
+French Polynesia	high	Prevalence of anemia among pregnant women (%)	0.2941
+Grenada	high	Gross national expenditure (current US$)	0.2941
+Grenada	high	People using at least basic sanitation services (% of population)	0.2941
+Virgin Islands (U.S.)	high	Gross national expenditure (current US$)	0.2941
+Virgin Islands (U.S.)	high	Prevalence of anemia among pregnant women (%)	0.2941
+Cluster	38
+Northern Mariana Islands	high	Gross national expenditure (current US$)	0.3238
+Northern Mariana Islands	high	Life expectancy at birth total (years)	0.3238
+Northern Mariana Islands	high	Prevalence of anemia among pregnant women (%)	0.3238
+Mauritius	high	People using at least basic sanitation services (% of population)	0.3238
+South Sudan	high	GDP (current US$)	0.3238
+South Sudan	high	Gross national expenditure (current US$)	0.3238
+Guyana	high	Gross national expenditure (current US$)	0.3238
+Hong Kong SAR China	high	Prevalence of anemia among pregnant women (%)	0.3238
+Suriname	high	Gross national expenditure (current US$)	0.3238
+Cluster	39
+Oman	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Bulgaria	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Kuwait	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Czech Republic	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Slovak Republic	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Lithuania	high	Incidence of HIV all (per 1000 uninfected population)	0.1397
+Cluster	40
+North Macedonia	high	Incidence of HIV all (per 1000 uninfected population)	0.2083
+Bosnia and Herzegovina	high	Incidence of HIV all (per 1000 uninfected population)	0.2083
+Cluster	42
+Hong Kong SAR China	high	CO2 emissions (metric tons per capita)	0.2727
+Isle of Man	high	CO2 emissions (metric tons per capita)	0.2727
+Cluster	46
+St. Lucia	high	Gini index	0.1381
+St. Lucia	high	Prevalence of current tobacco use (% of adults)	0.1381
+Andorra	high	Gini index	0.1381
+France	high	Gini index	0.1381
+Montenegro	high	Gini index	0.1381
+Bahamas The	high	Gini index	0.1381
+Gibraltar	high	Gini index	0.1381
+Gibraltar	high	Industry (including construction) value added (% of GDP)	0.1381
+Gibraltar	high	Prevalence of current tobacco use (% of adults)	0.1381
+Barbados	high	Gini index	0.1381
+New Caledonia	high	Gini index	0.1381
+New Caledonia	high	Prevalence of current tobacco use (% of adults)	0.1381
+Bosnia and Herzegovina	high	Gini index	0.1381
+Curaçao	high	Gini index	0.1381
+Curaçao	high	Prevalence of current tobacco use (% of adults)	0.1381
+Lebanon	high	Gini index	0.1381
+Dominica	high	Gini index	0.1381
+Dominica	high	Prevalence of current tobacco use (% of adults)	0.1381
+Macao SAR China	high	Gini index	0.1381
+Macao SAR China	high	Prevalence of current tobacco use (% of adults)	0.1381
+Cluster	47
+Mauritius	high	Gini index	0.2158
+French Polynesia	high	Gini index	0.2158
+French Polynesia	high	Industry (including construction) value added (% of GDP)	0.2158
+French Polynesia	high	Prevalence of current tobacco use (% of adults)	0.2158
+Belize	high	Gini index	0.2158
+Nicaragua	high	Gini index	0.2158
+Nicaragua	high	Prevalence of current tobacco use (% of adults)	0.2158
+North Macedonia	high	Gini index	0.2158
+North Macedonia	high	Prevalence of current tobacco use (% of adults)	0.2158
+Brunei Darussalam	high	Gini index	0.2158
+Jamaica	high	Gini index	0.2158
+Rwanda	high	Gini index	0.2158
+Cluster	48
+Angola	high	Prevalence of current tobacco use (% of adults)	0.1688
+Tajikistan	high	Prevalence of current tobacco use (% of adults)	0.1688
+Gabon	high	Prevalence of current tobacco use (% of adults)	0.1688
+Cluster	49
+Germany	high	Gini index	0.1991
+New Zealand	high	Gini index	0.1991
+Iceland	high	Gini index	0.1991
+Puerto Rico	high	Gini index	0.1991
+Puerto Rico	high	Prevalence of current tobacco use (% of adults)	0.1991
+Cuba	high	Gini index	0.1991
+Cluster	50
+Mexico	high	Gini index	0.2583
+Trinidad and Tobago	high	Gini index	0.2583
+Trinidad and Tobago	high	Prevalence of current tobacco use (% of adults)	0.2583
+Ireland	high	Gini index	0.2583
+Qatar	high	Gini index	0.2583
+Saudi Arabia	high	Gini index	0.2583
+Seychelles	high	Gini index	0.2583
+Cluster	51
+St. Martin (French part)	high	Gini index	0.1737
+St. Martin (French part)	high	Industry (including construction) value added (% of GDP)	0.1737
+St. Martin (French part)	high	Prevalence of current tobacco use (% of adults)	0.1737
+Australia	high	Gini index	0.1737
+Germany	high	Gini index	0.1737
+New Zealand	high	Gini index	0.1737
+United Arab Emirates	high	Gini index	0.1737
+United Arab Emirates	high	Prevalence of current tobacco use (% of adults)	0.1737
+Ireland	high	Gini index	0.1737
+Canada	high	Gini index	0.1737
+Canada	high	Industry (including construction) value added (% of GDP)	0.1737
+Poland	high	Gini index	0.1737
+Japan	high	Gini index	0.1737
+Chile	high	Gini index	0.1737
+Korea Rep.	high	Gini index	0.1737
+Kuwait	high	Gini index	0.1737
+Singapore	high	Gini index	0.1737
+Cluster	52
+Brunei Darussalam	high	Incidence of HIV all (per 1000 uninfected population)	0.1618
+Russian Federation	high	Incidence of HIV all (per 1000 uninfected population)	0.1618
+Cluster	53
+Myanmar	high	Incidence of HIV all (per 1000 uninfected population)	0.1383
+Iraq	high	Incidence of HIV all (per 1000 uninfected population)	0.1383
+Cluster	54
+China	high	Incidence of HIV all (per 1000 uninfected population)	0.1373
+Czechia	high	Incidence of HIV all (per 1000 uninfected population)	0.1373
+Cluster	55
+Algeria	high	Hospital beds (per 1000 people)	0.1984
+Azerbaijan	high	Hospital beds (per 1000 people)	0.1984
+Morocco	high	Hospital beds (per 1000 people)	0.1984
+Bahrain	high	Hospital beds (per 1000 people)	0.1984
+Turkmenistan	high	Gross national expenditure (current US$)	0.1984
+Turkmenistan	high	Hospital beds (per 1000 people)	0.1984
+Guatemala	high	Hospital beds (per 1000 people)	0.1984
+Honduras	high	Hospital beds (per 1000 people)	0.1984
+Oman	high	Hospital beds (per 1000 people)	0.1984
+Panama	high	Hospital beds (per 1000 people)	0.1984
+Iran Islamic Rep.	high	Gross national expenditure (current US$)	0.1984
+Iran Islamic Rep.	high	Hospital beds (per 1000 people)	0.1984
+Paraguay	high	Hospital beds (per 1000 people)	0.1984
+Iraq	high	Hospital beds (per 1000 people)	0.1984
+Peru	high	Hospital beds (per 1000 people)	0.1984
+Qatar	high	Hospital beds (per 1000 people)	0.1984
+Kazakhstan	high	Hospital beds (per 1000 people)	0.1984
+Colombia	high	Hospital beds (per 1000 people)	0.1984
+Lithuania	high	Hospital beds (per 1000 people)	0.1984
+Dominican Republic	high	Hospital beds (per 1000 people)	0.1984
+Ecuador	high	Hospital beds (per 1000 people)	0.1984
+Egypt Arab Rep.	high	Hospital beds (per 1000 people)	0.1984
+El Salvador	high	Hospital beds (per 1000 people)	0.1984
+Cluster	56
+São Tomé and Principe	high	Gross national expenditure (current US$)	0.2333
+Kiribati	high	Gross national expenditure (current US$)	0.2333
+Korea Dem. People\'s Rep.	high	GDP (current US$)	0.2333
+Korea Dem. People\'s Rep.	high	Gross national expenditure (current US$)	0.2333
+Cluster	57
+Yemen Rep.	high	Gross national expenditure (current US$)	0.2672
+Lao PDR	high	Gross national expenditure (current US$)	0.2672
+Somalia	high	Gross national expenditure (current US$)	0.2672
+Cluster	58
+St. Vincent and the Grenadines	high	Gross national expenditure (current US$)	0.1815
+St. Vincent and the Grenadines	high	People using at least basic sanitation services (% of population)	0.1815
+Grenada	high	Gross national expenditure (current US$)	0.1815
+Grenada	high	People using at least basic sanitation services (% of population)	0.1815
+Bosnia and Herzegovina	high	People using at least basic sanitation services (% of population)	0.1815
+West Bank and Gaza	high	Prevalence of anemia among pregnant women (%)	0.1815
+Dominica	high	Gross national expenditure (current US$)	0.1815
+Dominica	high	Life expectancy at birth total (years)	0.1815
+Dominica	high	People using at least basic sanitation services (% of population)	0.1815
+Cluster	59
+Malaysia	high	People using at least basic sanitation services (% of population)	0.4571
+Vietnam	high	Gross national expenditure (current US$)	0.4571
+Cluster	60
+Afghanistan	high	Gross national expenditure (current US$)	0.1798
+Eritrea	high	GDP (current US$)	0.1798
+Eritrea	high	Gross national expenditure (current US$)	0.1798
+Eritrea	high	People using at least basic sanitation services (% of population)	0.1798
+Equatorial Guinea	high	People using at least basic sanitation services (% of population)	0.1798
+São Tomé and Principe	high	Gross national expenditure (current US$)	0.1798
+Papua New Guinea	high	Gross national expenditure (current US$)	0.1798
+Liberia	high	Gross national expenditure (current US$)	0.1798
+Malawi	high	Gross national expenditure (current US$)	0.1798
+Cluster	61
+Bosnia and Herzegovina	high	People using at least basic sanitation services (% of population)	0.2000
+Macao SAR China	high	Prevalence of anemia among pregnant women (%)	0.2000
+Cluster	62
+Andorra	high	Life expectancy at birth total (years)	0.1404
+Antigua and Barbuda	high	People using at least basic sanitation services (% of population)	0.1404
+Monaco	high	Life expectancy at birth total (years)	0.1404
+New Caledonia	high	Prevalence of anemia among pregnant women (%)	0.1404
+Bermuda	high	Prevalence of anemia among pregnant women (%)	0.1404
+Virgin Islands (U.S.)	high	Incidence of tuberculosis (per 100000 people)	0.1404
+Virgin Islands (U.S.)	high	Prevalence of anemia among pregnant women (%)	0.1404
+San Marino	high	Life expectancy at birth total (years)	0.1404
+Curaçao	high	Life expectancy at birth total (years)	0.1404
+Curaçao	high	People using at least basic sanitation services (% of population)	0.1404
+Curaçao	high	Prevalence of anemia among pregnant women (%)	0.1404
+St. Kitts and Nevis	high	Life expectancy at birth total (years)	0.1404
+St. Kitts and Nevis	high	People using at least basic sanitation services (% of population)	0.1404
+Cluster	63
+Switzerland	high	Gini index	0.1262
+France	high	Gini index	0.1262
+Australia	high	Gini index	0.1262
+Germany	high	Gini index	0.1262
+Guam	high	Gini index	0.1262
+Guam	high	Gross national expenditure (current US$)	0.1262
+Guam	high	Industry (including construction) value added (% of GDP)	0.1262
+New Zealand	high	Gini index	0.1262
+New Caledonia	high	Gini index	0.1262
+New Caledonia	high	Gross national expenditure (current US$)	0.1262
+United Kingdom	high	Gini index	0.1262
+Iceland	high	Gini index	0.1262
+Israel	high	Gini index	0.1262
+Italy	high	Gini index	0.1262
+Liechtenstein	high	Gini index	0.1262
+Liechtenstein	high	Gross national expenditure (current US$)	0.1262
+Cluster	69
+Equatorial Guinea	high	Prevalence of current tobacco use (% of adults)	0.1299
+Suriname	high	Prevalence of current tobacco use (% of adults)	0.1299
+Gabon	high	Prevalence of current tobacco use (% of adults)	0.1299
+Guinea	high	Prevalence of current tobacco use (% of adults)	0.1299
+Bhutan	high	Prevalence of current tobacco use (% of adults)	0.1299
+South Sudan	high	Prevalence of current tobacco use (% of adults)	0.1299
+Cluster	70
+St. Vincent and the Grenadines	high	Prevalence of current tobacco use (% of adults)	0.1333
+Nauru	high	Industry (including construction) value added (% of GDP)	0.1333
+Grenada	high	Prevalence of current tobacco use (% of adults)	0.1333
+West Bank and Gaza	high	Prevalence of current tobacco use (% of adults)	0.1333
+Cayman Islands	high	Prevalence of current tobacco use (% of adults)	0.1333
+Dominica	high	Prevalence of current tobacco use (% of adults)	0.1333
+Cluster	71
+Sweden	high	Hospital beds (per 1000 people)	0.1193
+Switzerland	high	Hospital beds (per 1000 people)	0.1193
+Finland	high	Hospital beds (per 1000 people)	0.1193
+Australia	high	Hospital beds (per 1000 people)	0.1193
+Austria	high	Hospital beds (per 1000 people)	0.1193
+Germany	high	Hospital beds (per 1000 people)	0.1193
+Netherlands	high	Hospital beds (per 1000 people)	0.1193
+United States	high	Hospital beds (per 1000 people)	0.1193
+Norway	high	Hospital beds (per 1000 people)	0.1193
+Hungary	high	Hospital beds (per 1000 people)	0.1193
+Italy	high	Hospital beds (per 1000 people)	0.1193
+Puerto Rico	high	Hospital beds (per 1000 people)	0.1193
+Puerto Rico	high	Prevalence of anemia among pregnant women (%)	0.1193
+Poland	high	Hospital beds (per 1000 people)	0.1193
+Poland	high	Prevalence of anemia among pregnant women (%)	0.1193
+Japan	high	Hospital beds (per 1000 people)	0.1193
+Israel	high	Hospital beds (per 1000 people)	0.1193
+Portugal	high	Hospital beds (per 1000 people)	0.1193
+Singapore	high	Hospital beds (per 1000 people)	0.1193
+Czech Republic	high	Hospital beds (per 1000 people)	0.1193
+Slovenia	high	Hospital beds (per 1000 people)	0.1193
+Spain	high	Hospital beds (per 1000 people)	0.1193
+Cluster	72
+Mauritius	high	People using at least basic sanitation services (% of population)	0.3137
+Syrian Arab Republic	high	GDP (current US$)	0.3137
+Syrian Arab Republic	high	Gross national expenditure (current US$)	0.3137
+Guyana	high	Gross national expenditure (current US$)	0.3137
+Brunei Darussalam	high	People using at least basic sanitation services (% of population)	0.3137
+Venezuela RB	high	GDP (current US$)	0.3137
+Venezuela RB	high	Gross national expenditure (current US$)	0.3137

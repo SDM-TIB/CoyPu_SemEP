@@ -1,0 +1,41 @@
+Jamaica	Prevalence of current tobacco use (% of adults)	high	1.0000
+Kyrgyz Republic	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Belize	Prevalence of current tobacco use (% of adults)	high	1.0000
+Kyrgyz Republic	Gini index	mediumLow	1.0000
+Georgia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Georgia	Gini index	mediumHigh	1.0000
+Mauritius	Prevalence of current tobacco use (% of adults)	medium	1.0000
+French Polynesia	Population growth (annual %)	mediumLow	1.0000
+Rwanda	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Armenia	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Albania	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Moldova	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Maldives	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Brunei Darussalam	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Uruguay	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Armenia	Gini index	mediumLow	1.0000
+Rwanda	Population growth (annual %)	high	1.0000
+Kyrgyz Republic	Population growth (annual %)	mediumHigh	1.0000
+Albania	Gini index	mediumLow	1.0000
+Armenia	Population growth (annual %)	low	1.0000
+Brunei Darussalam	Population growth (annual %)	medium	1.0000
+Moldova	Gini index	low	1.0000
+Maldives	Gini index	mediumLow	1.0000
+Mauritius	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Rwanda	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Uruguay	Gini index	mediumHigh	1.0000
+North Macedonia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Kyrgyz Republic	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Armenia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Fiji	Gini index	mediumLow	1.0000
+Belize	Population growth (annual %)	mediumHigh	1.0000
+Jamaica	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Albania	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Belize	Industry (including construction) value added (% of GDP)	low	1.0000
+Nicaragua	Industry (including construction) value added (% of GDP)	medium	1.0000
+Uruguay	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Nicaragua	Population growth (annual %)	medium	1.0000
+Uruguay	Population growth (annual %)	mediumLow	1.0000
+Fiji	Industry (including construction) value added (% of GDP)	low	1.0000
+Georgia	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Moldova	Industry (including construction) value added (% of GDP)	medium	1.0000

@@ -1,0 +1,107 @@
+Solomon Islands	GDP (current US$)	low	1.0000
+Chad	GDP (current US$)	mediumLow	1.0000
+Mali	People using at least basic sanitation services (% of population)	low	1.0000
+Mali	Prevalence of anemia among pregnant women (%)	low	1.0000
+Mali	Life expectancy at birth total (years)	low	1.0000
+Mali	GDP (current US$)	medium	1.0000
+Congo Dem. Rep.	People using at least basic sanitation services (% of population)	low	1.0000
+Congo Dem. Rep.	Prevalence of anemia among pregnant women (%)	low	1.0000
+Congo Dem. Rep.	Life expectancy at birth total (years)	low	1.0000
+Congo Dem. Rep.	GDP (current US$)	medium	1.0000
+Mali	Gross national expenditure (current US$)	mediumLow	1.0000
+Burkina Faso	People using at least basic sanitation services (% of population)	low	1.0000
+Burkina Faso	Prevalence of anemia among pregnant women (%)	low	1.0000
+Burkina Faso	Life expectancy at birth total (years)	low	1.0000
+Burkina Faso	GDP (current US$)	medium	1.0000
+Congo Dem. Rep.	Gross national expenditure (current US$)	medium	1.0000
+Burkina Faso	Gross national expenditure (current US$)	mediumLow	1.0000
+Benin	People using at least basic sanitation services (% of population)	low	1.0000
+Benin	Prevalence of anemia among pregnant women (%)	low	1.0000
+Benin	Life expectancy at birth total (years)	low	1.0000
+Benin	GDP (current US$)	mediumLow	1.0000
+Benin	Gross national expenditure (current US$)	mediumLow	1.0000
+Liberia	GDP (current US$)	low	1.0000
+Niger	People using at least basic sanitation services (% of population)	low	1.0000
+Niger	Prevalence of anemia among pregnant women (%)	low	1.0000
+Niger	Life expectancy at birth total (years)	low	1.0000
+Niger	GDP (current US$)	mediumLow	1.0000
+Togo	People using at least basic sanitation services (% of population)	low	1.0000
+Togo	Prevalence of anemia among pregnant women (%)	low	1.0000
+Togo	Life expectancy at birth total (years)	low	1.0000
+Togo	GDP (current US$)	mediumLow	1.0000
+Ghana	GDP (current US$)	mediumHigh	1.0000
+Gambia The	GDP (current US$)	low	1.0000
+Niger	Gross national expenditure (current US$)	mediumLow	1.0000
+Togo	Gross national expenditure (current US$)	low	1.0000
+Malawi	People using at least basic sanitation services (% of population)	low	1.0000
+Malawi	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Malawi	Life expectancy at birth total (years)	low	1.0000
+Malawi	GDP (current US$)	mediumLow	1.0000
+Liberia	People using at least basic sanitation services (% of population)	low	1.0000
+Liberia	Prevalence of anemia among pregnant women (%)	low	1.0000
+Liberia	Life expectancy at birth total (years)	low	1.0000
+Mozambique	People using at least basic sanitation services (% of population)	low	1.0000
+Mozambique	Prevalence of anemia among pregnant women (%)	low	1.0000
+Mozambique	Life expectancy at birth total (years)	low	1.0000
+Mozambique	GDP (current US$)	mediumLow	1.0000
+Côte d\'Ivoire	People using at least basic sanitation services (% of population)	low	1.0000
+Côte d\'Ivoire	Prevalence of anemia among pregnant women (%)	low	1.0000
+Côte d\'Ivoire	Life expectancy at birth total (years)	low	1.0000
+Papua New Guinea	GDP (current US$)	medium	1.0000
+Gambia The	People using at least basic sanitation services (% of population)	low	1.0000
+Gambia The	Prevalence of anemia among pregnant women (%)	low	1.0000
+Gambia The	Life expectancy at birth total (years)	low	1.0000
+Côte d\'Ivoire	GDP (current US$)	medium	1.0000
+Chad	People using at least basic sanitation services (% of population)	low	1.0000
+Mauritania	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Chad	Prevalence of anemia among pregnant women (%)	low	1.0000
+Mauritania	Prevalence of anemia among pregnant women (%)	low	1.0000
+Chad	Life expectancy at birth total (years)	low	1.0000
+Mauritania	Life expectancy at birth total (years)	low	1.0000
+Sudan	People using at least basic sanitation services (% of population)	low	1.0000
+Sudan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Sudan	Life expectancy at birth total (years)	low	1.0000
+Sudan	GDP (current US$)	medium	1.0000
+Haiti	People using at least basic sanitation services (% of population)	low	1.0000
+Haiti	Prevalence of anemia among pregnant women (%)	low	1.0000
+Haiti	Life expectancy at birth total (years)	low	1.0000
+Eritrea	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Eritrea	Life expectancy at birth total (years)	mediumLow	1.0000
+Haiti	GDP (current US$)	mediumLow	1.0000
+Ethiopia	People using at least basic sanitation services (% of population)	low	1.0000
+Ethiopia	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Ethiopia	Life expectancy at birth total (years)	mediumLow	1.0000
+Ethiopia	GDP (current US$)	mediumHigh	1.0000
+Côte d\'Ivoire	Gross national expenditure (current US$)	medium	1.0000
+Sudan	Gross national expenditure (current US$)	medium	1.0000
+Haiti	Gross national expenditure (current US$)	mediumLow	1.0000
+Ethiopia	Gross national expenditure (current US$)	mediumHigh	1.0000
+Cameroon	People using at least basic sanitation services (% of population)	low	1.0000
+Mauritania	GDP (current US$)	mediumLow	1.0000
+Ghana	People using at least basic sanitation services (% of population)	low	1.0000
+Ghana	Prevalence of anemia among pregnant women (%)	low	1.0000
+Ghana	Life expectancy at birth total (years)	low	1.0000
+Guinea-Bissau	Prevalence of anemia among pregnant women (%)	low	1.0000
+Afghanistan	GDP (current US$)	medium	1.0000
+Zambia	GDP (current US$)	medium	1.0000
+Mozambique	Gross national expenditure (current US$)	mediumLow	1.0000
+Madagascar	People using at least basic sanitation services (% of population)	low	1.0000
+Madagascar	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Madagascar	Life expectancy at birth total (years)	mediumLow	1.0000
+Gambia The	Gross national expenditure (current US$)	low	1.0000
+Madagascar	GDP (current US$)	mediumLow	1.0000
+Equatorial Guinea	Prevalence of anemia among pregnant women (%)	low	1.0000
+Equatorial Guinea	Life expectancy at birth total (years)	low	1.0000
+Equatorial Guinea	GDP (current US$)	mediumLow	1.0000
+Chad	Gross national expenditure (current US$)	mediumLow	1.0000
+Solomon Islands	Gross national expenditure (current US$)	low	1.0000
+Ghana	Gross national expenditure (current US$)	medium	1.0000
+Madagascar	Gross national expenditure (current US$)	mediumLow	1.0000
+Equatorial Guinea	Gross national expenditure (current US$)	low	1.0000
+Afghanistan	People using at least basic sanitation services (% of population)	mediumLow	1.0000
+Afghanistan	Prevalence of anemia among pregnant women (%)	mediumLow	1.0000
+Afghanistan	Life expectancy at birth total (years)	low	1.0000
+Guinea	People using at least basic sanitation services (% of population)	low	1.0000
+São Tomé and Principe	People using at least basic sanitation services (% of population)	low	1.0000
+Eswatini	Prevalence of anemia among pregnant women (%)	medium	1.0000
+Congo Rep.	Life expectancy at birth total (years)	low	1.0000

@@ -1,0 +1,26 @@
+Kyrgyz Republic	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Timor-Leste	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Lesotho	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Comoros	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Mongolia	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Lesotho	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Mongolia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Nepal	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Zambia	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Ghana	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Belize	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Afghanistan	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Tajikistan	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Timor-Leste	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Comoros	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Nepal	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Afghanistan	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Belize	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Zambia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Kyrgyz Republic	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Zimbabwe	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Botswana	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Ghana	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Namibia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Eswatini	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Tajikistan	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000

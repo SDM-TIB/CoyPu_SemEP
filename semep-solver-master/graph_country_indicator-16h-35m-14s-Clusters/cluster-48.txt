@@ -1,0 +1,39 @@
+Nepal	Prevalence of current tobacco use (% of adults)	low	1.0000
+Mongolia	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Tanzania	Prevalence of current tobacco use (% of adults)	high	1.0000
+Sri Lanka	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Ghana	Prevalence of current tobacco use (% of adults)	high	1.0000
+Zambia	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Bahrain	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Sri Lanka	Population growth (annual %)	mediumLow	1.0000
+Nepal	Population growth (annual %)	mediumHigh	1.0000
+Sri Lanka	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Senegal	Prevalence of current tobacco use (% of adults)	high	1.0000
+Tanzania	Population growth (annual %)	high	1.0000
+Tanzania	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Mongolia	Population growth (annual %)	mediumHigh	1.0000
+Yemen Rep.	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Uganda	Prevalence of current tobacco use (% of adults)	high	1.0000
+Zimbabwe	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Botswana	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Ghana	Population growth (annual %)	mediumHigh	1.0000
+Nepal	Industry (including construction) value added (% of GDP)	low	1.0000
+Uzbekistan	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Namibia	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Cambodia	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Cameroon	Population growth (annual %)	high	1.0000
+Bahrain	Population growth (annual %)	high	1.0000
+Tajikistan	Population growth (annual %)	high	1.0000
+Ghana	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Namibia	Population growth (annual %)	mediumHigh	1.0000
+Yemen Rep.	Population growth (annual %)	high	1.0000
+Angola	Population growth (annual %)	high	1.0000
+Namibia	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Yemen Rep.	Industry (including construction) value added (% of GDP)	high	1.0000
+Angola	Industry (including construction) value added (% of GDP)	high	1.0000
+Botswana	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Gabon	Population growth (annual %)	high	1.0000
+Cambodia	Population growth (annual %)	mediumHigh	1.0000
+Botswana	Population growth (annual %)	mediumHigh	1.0000
+Cambodia	Industry (including construction) value added (% of GDP)	high	1.0000
+Tajikistan	Industry (including construction) value added (% of GDP)	high	1.0000

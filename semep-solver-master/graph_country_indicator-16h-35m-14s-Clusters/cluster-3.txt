@@ -1,0 +1,14 @@
+Liechtenstein	GDP per capita (current LCU)	medium	1.0000
+Faroe Islands	GDP per capita (current LCU)	mediumHigh	1.0000
+Isle of Man	GDP per capita (current LCU)	medium	1.0000
+Hong Kong SAR China	GDP per capita (current LCU)	mediumHigh	1.0000
+Aruba	GDP per capita (current LCU)	medium	1.0000
+Isle of Man	Industry (including construction) value added (% of GDP)	low	1.0000
+Greenland	GDP per capita (current LCU)	mediumHigh	1.0000
+Monaco	GDP per capita (current LCU)	medium	1.0000
+Faroe Islands	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Hong Kong SAR China	Industry (including construction) value added (% of GDP)	low	1.0000
+Bermuda	GDP per capita (current LCU)	medium	1.0000
+Greenland	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+St. Kitts and Nevis	Industry (including construction) value added (% of GDP)	medium	1.0000
+Monaco	Industry (including construction) value added (% of GDP)	low	1.0000

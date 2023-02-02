@@ -1,0 +1,35 @@
+Senegal	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Dominican Republic	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Peru	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Sri Lanka	Incidence of HIV all (per 1000 uninfected population)	high	1.0000
+Tanzania	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Bolivia	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Uganda	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Dominican Republic	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Sri Lanka	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Tanzania	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Myanmar	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Senegal	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Uganda	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Bolivia	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Panama	Incidence of HIV all (per 1000 uninfected population)	mediumLow	1.0000
+Guatemala	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Peru	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Iraq	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Ethiopia	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Cambodia	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Angola	Incidence of HIV all (per 1000 uninfected population)	low	1.0000
+Cambodia	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Angola	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Eritrea	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Paraguay	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Lao PDR	Incidence of HIV all (per 1000 uninfected population)	medium	1.0000
+Eritrea	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Ethiopia	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Paraguay	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Lao PDR	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Uzbekistan	Incidence of HIV all (per 1000 uninfected population)	mediumHigh	1.0000
+Honduras	Incidence of tuberculosis (per 100000 people)	medium	1.0000
+Zimbabwe	Incidence of tuberculosis (per 100000 people)	low	1.0000
+Uzbekistan	Incidence of tuberculosis (per 100000 people)	mediumLow	1.0000
+Botswana	Incidence of tuberculosis (per 100000 people)	low	1.0000

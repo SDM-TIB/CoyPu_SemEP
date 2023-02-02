@@ -1,0 +1,46 @@
+New Zealand	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Malta	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Malta	Gini index	mediumLow	1.0000
+Hungary	Prevalence of current tobacco use (% of adults)	low	1.0000
+Denmark	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Iceland	Prevalence of current tobacco use (% of adults)	mediumHigh	1.0000
+Bulgaria	Prevalence of current tobacco use (% of adults)	low	1.0000
+Czech Republic	Prevalence of current tobacco use (% of adults)	low	1.0000
+Estonia	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Luxembourg	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Hungary	Gini index	mediumLow	1.0000
+Luxembourg	Gini index	medium	1.0000
+Bulgaria	Gini index	mediumHigh	1.0000
+Czech Republic	Gini index	low	1.0000
+Estonia	Gini index	mediumLow	1.0000
+Cuba	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Slovenia	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Croatia	Prevalence of current tobacco use (% of adults)	low	1.0000
+Denmark	Gini index	low	1.0000
+Hungary	Population growth (annual %)	low	1.0000
+Hungary	Industry (including construction) value added (% of GDP)	medium	1.0000
+Bulgaria	Industry (including construction) value added (% of GDP)	medium	1.0000
+Portugal	Prevalence of current tobacco use (% of adults)	mediumLow	1.0000
+Luxembourg	Population growth (annual %)	mediumHigh	1.0000
+Bulgaria	Population growth (annual %)	low	1.0000
+Czech Republic	Population growth (annual %)	mediumLow	1.0000
+Denmark	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Greece	Gini index	medium	1.0000
+Portugal	Gini index	medium	1.0000
+Finland	Prevalence of current tobacco use (% of adults)	medium	1.0000
+Puerto Rico	Population growth (annual %)	low	1.0000
+Cyprus	Gini index	medium	1.0000
+Estonia	Population growth (annual %)	mediumLow	1.0000
+Iceland	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+New Zealand	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Luxembourg	Industry (including construction) value added (% of GDP)	low	1.0000
+Cuba	Industry (including construction) value added (% of GDP)	medium	1.0000
+Czech Republic	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Estonia	Industry (including construction) value added (% of GDP)	medium	1.0000
+Germany	Population growth (annual %)	low	1.0000
+Cuba	Population growth (annual %)	low	1.0000
+Portugal	Population growth (annual %)	low	1.0000
+Puerto Rico	Industry (including construction) value added (% of GDP)	high	1.0000
+Slovenia	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+Portugal	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+Slovenia	Population growth (annual %)	mediumLow	1.0000

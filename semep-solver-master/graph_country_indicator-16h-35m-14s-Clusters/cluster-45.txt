@@ -1,0 +1,8 @@
+Tunisia	CO2 emissions (metric tons per capita)	medium	1.0000
+Armenia	CO2 emissions (metric tons per capita)	medium	1.0000
+Brunei Darussalam	CO2 emissions (metric tons per capita)	low	1.0000
+Romania	CO2 emissions (metric tons per capita)	medium	1.0000
+Jordan	CO2 emissions (metric tons per capita)	medium	1.0000
+Trinidad and Tobago	CO2 emissions (metric tons per capita)	low	1.0000
+Bosnia and Herzegovina	CO2 emissions (metric tons per capita)	mediumLow	1.0000
+Azerbaijan	CO2 emissions (metric tons per capita)	medium	1.0000
