@@ -18,7 +18,7 @@ def convert_to_category(world_bank, indicator, lower):
     df = df.sort_values(by='value')  # , ascending=boolean
     a = list(df['value'].values)
     n_split = np.array_split(a, 5)
-    if len(n_split) > 5:
+    if len(a) > 5:
         category = pd.cut(df.value, bins=[min(n_split[0])-1, max(n_split[0]), max(n_split[1]), max(n_split[2]),
                                           max(n_split[3]), max(n_split[4])], labels=labels)
         df.insert(3, 'category_indicator',category)
@@ -28,10 +28,11 @@ def convert_to_category(world_bank, indicator, lower):
 
 
 def load_dataset(path, name):
-    triple_data = open(path + name).read().strip()
-    data = np.array([triple.split(',') for triple in triple_data.split('\n')])
-    tf_data = TriplesFactory.from_labeled_triples(triples=data)
-    return tf_data, triple_data
+    # triple_data = open(path + name).read().strip()
+    # data = np.array([triple.split(',') for triple in triple_data.split('\n')])
+    # tf_data = TriplesFactory.from_labeled_triples(triples=data)
+    tf_data = TriplesFactory.from_labeled_triples(triples=pd.read_csv(path + name).to_numpy())
+    return tf_data
 
 
 def create_model(tf_training, tf_testing, embedding, n_epoch, path):
@@ -49,6 +50,7 @@ def create_model(tf_training, tf_testing, embedding, n_epoch, path):
             num_epochs=n_epoch,
             use_tqdm_batch=False,
         ),
+        training_batch_size=32,
         # Runtime configuration
         random_seed=1235,
         device='gpu',
