@@ -50,7 +50,7 @@ def create_model(tf_training, tf_testing, embedding, n_epoch, path):
             num_epochs=n_epoch,
             use_tqdm_batch=False,
         ),
-        training_batch_size=32,
+        # training_batch_size=32,
         # Runtime configuration
         random_seed=1235,
         device='gpu',
@@ -101,7 +101,7 @@ def matrix_similarity(new_df, f_dist, th):
     print("percentil", threshold)
     # for col in sim_matrix.columns:
     #    sim_matrix.loc[sim_matrix[col] < threshold, [col]] = 0
-    return sim_matrix, threshold
+    return sim_matrix, threshold, list_sim
 
 
 # === Save cosine similarity matrix with the structure SemEP need
